@@ -1,0 +1,3084 @@
+,name,County, FIPS,Cancer_Incidence
+1,"alabama,autauga","Autauga County, Alabama ",1001,73.9
+2,"alabama,baldwin","Baldwin County, Alabama ",1003,68.4
+3,"alabama,barbour","Barbour County, Alabama ",1005,76.1
+4,"alabama,bibb","Bibb County, Alabama ",1007,86.4
+5,"alabama,blount","Blount County, Alabama ",1009,73.1
+6,"alabama,bullock","Bullock County, Alabama ",1011,72.4
+7,"alabama,butler","Butler County, Alabama ",1013,58.5
+8,"alabama,calhoun","Calhoun County, Alabama ",1015,79.6
+9,"alabama,chambers","Chambers County, Alabama ",1017,72.5
+10,"alabama,cherokee","Cherokee County, Alabama ",1019,85.9
+11,"alabama,chilton","Chilton County, Alabama ",1021,70.5
+12,"alabama,choctaw","Choctaw County, Alabama ",1023,50.2
+13,"alabama,clarke","Clarke County, Alabama ",1025,67.4
+14,"alabama,clay","Clay County, Alabama ",1027,87.5
+15,"alabama,cleburne","Cleburne County, Alabama ",1029,85.8
+16,"alabama,coffee","Coffee County, Alabama ",1031,72.1
+17,"alabama,colbert","Colbert County, Alabama ",1033,78.3
+18,"alabama,conecuh","Conecuh County, Alabama ",1035,74.7
+19,"alabama,coosa","Coosa County, Alabama ",1037,66.6
+20,"alabama,covington","Covington County, Alabama ",1039,78.5
+21,"alabama,crenshaw","Crenshaw County, Alabama ",1041,74.3
+22,"alabama,cullman","Cullman County, Alabama ",1043,66.2
+23,"alabama,dale","Dale County, Alabama ",1045,79
+24,"alabama,dallas","Dallas County, Alabama ",1047,70.9
+25,"alabama,de kalb","DeKalb County, Alabama ",1049,62.8
+26,"alabama,elmore","Elmore County, Alabama ",1051,76.7
+27,"alabama,escambia","Escambia County, Alabama ",1053,76.7
+28,"alabama,etowah","Etowah County, Alabama ",1055,77.4
+29,"alabama,fayette","Fayette County, Alabama ",1057,77.3
+30,"alabama,franklin","Franklin County, Alabama ",1059,70.7
+31,"alabama,geneva","Geneva County, Alabama ",1061,83.8
+32,"alabama,greene","Greene County, Alabama ",1063,84.7
+33,"alabama,hale","Hale County, Alabama ",1065,64.4
+34,"alabama,henry","Henry County, Alabama ",1067,70.1
+35,"alabama,houston","Houston County, Alabama ",1069,68
+36,"alabama,jackson","Jackson County, Alabama ",1071,80.6
+37,"alabama,jefferson","Jefferson County, Alabama ",1073,63.3
+38,"alabama,lamar","Lamar County, Alabama ",1075,81.2
+39,"alabama,lauderdale","Lauderdale County, Alabama ",1077,65.7
+40,"alabama,lawrence","Lawrence County, Alabama ",1079,88
+41,"alabama,lee","Lee County, Alabama ",1081,55.7
+42,"alabama,limestone","Limestone County, Alabama ",1083,68.6
+43,"alabama,lowndes","Lowndes County, Alabama ",1085,57.1
+44,"alabama,macon","Macon County, Alabama ",1087,56.2
+45,"alabama,madison","Madison County, Alabama ",1089,61.9
+46,"alabama,marengo","Marengo County, Alabama ",1091,64.9
+47,"alabama,marion","Marion County, Alabama ",1093,70.8
+48,"alabama,marshall","Marshall County, Alabama ",1095,78.6
+49,"alabama,mobile","Mobile County, Alabama ",1097,72.2
+50,"alabama,monroe","Monroe County, Alabama ",1099,59.2
+51,"alabama,montgomery","Montgomery County, Alabama ",1101,57.7
+52,"alabama,morgan","Morgan County, Alabama ",1103,77
+53,"alabama,perry","Perry County, Alabama ",1105,66.4
+54,"alabama,pickens","Pickens County, Alabama ",1107,64
+55,"alabama,pike","Pike County, Alabama ",1109,63.6
+56,"alabama,randolph","Randolph County, Alabama ",1111,66.6
+57,"alabama,russell","Russell County, Alabama ",1113,83.8
+59,"alabama,st clair","St. Clair County, Alabama ",1115,76.1
+58,"alabama,shelby","Shelby County, Alabama ",1117,54
+60,"alabama,sumter","Sumter County, Alabama ",1119,59.8
+61,"alabama,talladega","Talladega County, Alabama ",1121,75.6
+62,"alabama,tallapoosa","Tallapoosa County, Alabama ",1123,77.2
+63,"alabama,tuscaloosa","Tuscaloosa County, Alabama ",1125,69.2
+64,"alabama,walker","Walker County, Alabama ",1127,92.4
+65,"alabama,washington","Washington County, Alabama ",1129,66.8
+66,"alabama,wilcox","Wilcox County, Alabama ",1131,71.6
+67,"alabama,winston","Winston County, Alabama ",1133,84.1
+68,"arizona,apache","Apache County, Arizona ",4001,22.9
+69,"arizona,cochise","Cochise County, Arizona ",4003,47.7
+70,"arizona,coconino","Coconino County, Arizona ",4005,35
+71,"arizona,gila","Gila County, Arizona ",4007,50.9
+72,"arizona,graham","Graham County, Arizona ",4009,42.8
+73,"arizona,greenlee","Greenlee County, Arizona ",4011,51.9
+74,"arizona,maricopa","Maricopa County, Arizona ",4013,50.6
+75,"arizona,mohave","Mohave County, Arizona ",4015,75.2
+76,"arizona,navajo","Navajo County, Arizona ",4017,37.2
+77,"arizona,pima","Pima County, Arizona ",4019,48.9
+78,"arizona,pinal","Pinal County, Arizona ",4021,45.8
+79,"arizona,santa cruz","Santa Cruz County, Arizona ",4023,33.6
+80,"arizona,yavapai","Yavapai County, Arizona ",4025,53
+81,"arizona,yuma","Yuma County, Arizona ",4027,45.1
+82,"arkansas,arkansas","Arkansas County, Arkansas ",5001,86.4
+83,"arkansas,ashley","Ashley County, Arkansas ",5003,75.6
+84,"arkansas,baxter","Baxter County, Arkansas ",5005,81.7
+85,"arkansas,benton","Benton County, Arkansas ",5007,58.1
+86,"arkansas,boone","Boone County, Arkansas ",5009,72.7
+87,"arkansas,bradley","Bradley County, Arkansas ",5011,84.2
+88,"arkansas,calhoun","Calhoun County, Arkansas ",5013,85.2
+89,"arkansas,carroll","Carroll County, Arkansas ",5015,62.1
+90,"arkansas,chicot","Chicot County, Arkansas ",5017,82.3
+91,"arkansas,clark","Clark County, Arkansas ",5019,79
+92,"arkansas,clay","Clay County, Arkansas ",5021,103.9
+93,"arkansas,cleburne","Cleburne County, Arkansas ",5023,84.6
+94,"arkansas,cleveland","Cleveland County, Arkansas ",5025,94
+95,"arkansas,columbia","Columbia County, Arkansas ",5027,66.4
+96,"arkansas,conway","Conway County, Arkansas ",5029,73.8
+97,"arkansas,craighead","Craighead County, Arkansas ",5031,74
+98,"arkansas,crawford","Crawford County, Arkansas ",5033,82.4
+99,"arkansas,crittenden","Crittenden County, Arkansas ",5035,78
+100,"arkansas,cross","Cross County, Arkansas ",5037,73.4
+101,"arkansas,dallas","Dallas County, Arkansas ",5039,88.6
+102,"arkansas,desha","Desha County, Arkansas ",5041,84.5
+103,"arkansas,drew","Drew County, Arkansas ",5043,68.4
+104,"arkansas,faulkner","Faulkner County, Arkansas ",5045,79.7
+105,"arkansas,franklin","Franklin County, Arkansas ",5047,66.3
+106,"arkansas,fulton","Fulton County, Arkansas ",5049,66.2
+107,"arkansas,garland","Garland County, Arkansas ",5051,81.1
+108,"arkansas,grant","Grant County, Arkansas ",5053,97.4
+109,"arkansas,greene","Greene County, Arkansas ",5055,88.9
+110,"arkansas,hempstead","Hempstead County, Arkansas ",5057,63.5
+111,"arkansas,hot spring","Hot Spring County, Arkansas ",5059,95.6
+112,"arkansas,howard","Howard County, Arkansas ",5061,89.4
+113,"arkansas,independence","Independence County, Arkansas ",5063,80.9
+114,"arkansas,izard","Izard County, Arkansas ",5065,55.7
+115,"arkansas,jackson","Jackson County, Arkansas ",5067,112.9
+116,"arkansas,jefferson","Jefferson County, Arkansas ",5069,94.5
+117,"arkansas,johnson","Johnson County, Arkansas ",5071,96.4
+118,"arkansas,lafayette","Lafayette County, Arkansas ",5073,95.3
+119,"arkansas,lawrence","Lawrence County, Arkansas ",5075,98.1
+120,"arkansas,lee","Lee County, Arkansas ",5077,53.8
+121,"arkansas,lincoln","Lincoln County, Arkansas ",5079,62.3
+122,"arkansas,little river","Little River County, Arkansas ",5081,82.7
+123,"arkansas,logan","Logan County, Arkansas ",5083,84.1
+124,"arkansas,lonoke","Lonoke County, Arkansas ",5085,93.4
+125,"arkansas,madison","Madison County, Arkansas ",5087,80.1
+126,"arkansas,marion","Marion County, Arkansas ",5089,82.7
+127,"arkansas,miller","Miller County, Arkansas ",5091,83.5
+128,"arkansas,mississippi","Mississippi County, Arkansas ",5093,78.7
+129,"arkansas,monroe","Monroe County, Arkansas ",5095,91.3
+130,"arkansas,montgomery","Montgomery County, Arkansas ",5097,73.6
+131,"arkansas,nevada","Nevada County, Arkansas ",5099,82.9
+132,"arkansas,newton","Newton County, Arkansas ",5101,62.9
+133,"arkansas,ouachita","Ouachita County, Arkansas ",5103,88.6
+134,"arkansas,perry","Perry County, Arkansas ",5105,97.4
+135,"arkansas,phillips","Phillips County, Arkansas ",5107,93.4
+136,"arkansas,pike","Pike County, Arkansas ",5109,81.9
+137,"arkansas,poinsett","Poinsett County, Arkansas ",5111,108.7
+138,"arkansas,polk","Polk County, Arkansas ",5113,71.7
+139,"arkansas,pope","Pope County, Arkansas ",5115,81.2
+140,"arkansas,prairie","Prairie County, Arkansas ",5117,87.5
+141,"arkansas,pulaski","Pulaski County, Arkansas ",5119,67.5
+142,"arkansas,randolph","Randolph County, Arkansas ",5121,92.2
+149,"arkansas,st francis","St. Francis County, Arkansas ",5123,62
+143,"arkansas,saline","Saline County, Arkansas ",5125,74.8
+144,"arkansas,scott","Scott County, Arkansas ",5127,89.6
+145,"arkansas,searcy","Searcy County, Arkansas ",5129,72.9
+146,"arkansas,sebastian","Sebastian County, Arkansas ",5131,77.6
+147,"arkansas,sevier","Sevier County, Arkansas ",5133,68.7
+148,"arkansas,sharp","Sharp County, Arkansas ",5135,83.9
+150,"arkansas,stone","Stone County, Arkansas ",5137,71.9
+151,"arkansas,union","Union County, Arkansas ",5139,84.5
+152,"arkansas,van buren","Van Buren County, Arkansas ",5141,74.7
+153,"arkansas,washington","Washington County, Arkansas ",5143,70.6
+154,"arkansas,white","White County, Arkansas ",5145,91
+155,"arkansas,woodruff","Woodruff County, Arkansas ",5147,115.3
+156,"arkansas,yell","Yell County, Arkansas ",5149,89.1
+157,"california,alameda","Alameda County, California ",6001,43.4
+158,"california,alpine","Alpine County, California ",6003,-1111.1
+159,"california,amador","Amador County, California ",6005,62.4
+160,"california,butte","Butte County, California ",6007,58.6
+161,"california,calaveras","Calaveras County, California ",6009,48.9
+162,"california,colusa","Colusa County, California ",6011,51.3
+163,"california,contra costa","Contra Costa County, California ",6013,47.4
+164,"california,del norte","Del Norte County, California ",6015,73
+165,"california,el dorado","El Dorado County, California ",6017,49.9
+166,"california,fresno","Fresno County, California ",6019,49.2
+167,"california,glenn","Glenn County, California ",6021,63.4
+168,"california,humboldt","Humboldt County, California ",6023,53.4
+169,"california,imperial","Imperial County, California ",6025,41
+170,"california,inyo","Inyo County, California ",6027,43.6
+171,"california,kern","Kern County, California ",6029,52.8
+172,"california,kings","Kings County, California ",6031,45.4
+173,"california,lake","Lake County, California ",6033,74.7
+174,"california,lassen","Lassen County, California ",6035,50
+175,"california,los angeles","Los Angeles County, California ",6037,38.3
+176,"california,madera","Madera County, California ",6039,48
+177,"california,marin","Marin County, California ",6041,40.6
+178,"california,mariposa","Mariposa County, California ",6043,51.1
+179,"california,mendocino","Mendocino County, California ",6045,50.2
+180,"california,merced","Merced County, California ",6047,53.7
+181,"california,modoc","Modoc County, California ",6049,36
+182,"california,mono","Mono County, California ",6051,23.9
+183,"california,monterey","Monterey County, California ",6053,40.8
+184,"california,napa","Napa County, California ",6055,48.4
+185,"california,nevada","Nevada County, California ",6057,43.8
+186,"california,orange","Orange County, California ",6059,41.7
+187,"california,placer","Placer County, California ",6061,46.5
+188,"california,plumas","Plumas County, California ",6063,43.7
+189,"california,riverside","Riverside County, California ",6065,46.6
+190,"california,sacramento","Sacramento County, California ",6067,55.6
+191,"california,san benito","San Benito County, California ",6069,40.1
+192,"california,san bernardino","San Bernardino County, California ",6071,46.7
+193,"california,san diego","San Diego County, California ",6073,46.7
+194,"california,san francisco","San Francisco County, California ",6075,48
+195,"california,san joaquin","San Joaquin County, California ",6077,56
+196,"california,san luis obispo","San Luis Obispo County, California ",6079,46
+197,"california,san mateo","San Mateo County, California ",6081,42.7
+198,"california,santa barbara","Santa Barbara County, California ",6083,41
+199,"california,santa clara","Santa Clara County, California ",6085,40.4
+200,"california,santa cruz","Santa Cruz County, California ",6087,36
+201,"california,shasta","Shasta County, California ",6089,59.5
+202,"california,sierra","Sierra County, California ",6091,-1111.1
+203,"california,siskiyou","Siskiyou County, California ",6093,57.3
+204,"california,solano","Solano County, California ",6095,56.1
+205,"california,sonoma","Sonoma County, California ",6097,48
+206,"california,stanislaus","Stanislaus County, California ",6099,54.3
+207,"california,sutter","Sutter County, California ",6101,54.4
+208,"california,tehama","Tehama County, California ",6103,62.7
+209,"california,trinity","Trinity County, California ",6105,56.9
+210,"california,tulare","Tulare County, California ",6107,43.9
+211,"california,tuolumne","Tuolumne County, California ",6109,54.3
+212,"california,ventura","Ventura County, California ",6111,41.1
+213,"california,yolo","Yolo County, California ",6113,43.2
+214,"california,yuba","Yuba County, California ",6115,62.2
+215,"colorado,adams","Adams County, Colorado ",8001,51.2
+216,"colorado,alamosa","Alamosa County, Colorado ",8003,43.6
+217,"colorado,arapahoe","Arapahoe County, Colorado ",8005,46.3
+218,"colorado,archuleta","Archuleta County, Colorado ",8007,25.6
+219,"colorado,baca","Baca County, Colorado ",8009,72.5
+220,"colorado,bent","Bent County, Colorado ",8011,45.4
+221,"colorado,boulder","Boulder County, Colorado ",8013,33
+222,"colorado,chaffee","Chaffee County, Colorado ",8015,37.1
+223,"colorado,cheyenne","Cheyenne County, Colorado ",8017,-1111.1
+224,"colorado,clear creek","Clear Creek County, Colorado ",8019,37.3
+225,"colorado,conejos","Conejos County, Colorado ",8021,30.4
+226,"colorado,costilla","Costilla County, Colorado ",8023,54.5
+227,"colorado,crowley","Crowley County, Colorado ",8025,-1111.1
+228,"colorado,custer","Custer County, Colorado ",8027,57.9
+229,"colorado,delta","Delta County, Colorado ",8029,43
+230,"colorado,denver","Denver County, Colorado ",8031,48.8
+231,"colorado,dolores","Dolores County, Colorado ",8033,-1111.1
+232,"colorado,douglas","Douglas County, Colorado ",8035,35.9
+233,"colorado,eagle","Eagle County, Colorado ",8037,26.2
+235,"colorado,elbert","Elbert County, Colorado ",8039,47.4
+234,"colorado,el paso","El Paso County, Colorado ",8041,48.3
+236,"colorado,fremont","Fremont County, Colorado ",8043,51.4
+237,"colorado,garfield","Garfield County, Colorado ",8045,47.1
+238,"colorado,gilpin","Gilpin County, Colorado ",8047,-1111.1
+239,"colorado,grand","Grand County, Colorado ",8049,44.7
+240,"colorado,gunnison","Gunnison County, Colorado ",8051,33.7
+241,"colorado,hinsdale","Hinsdale County, Colorado ",8053,-1111.1
+242,"colorado,huerfano","Huerfano County, Colorado ",8055,50.3
+243,"colorado,jackson","Jackson County, Colorado ",8057,-1111.1
+244,"colorado,jefferson","Jefferson County, Colorado ",8059,43.8
+245,"colorado,kiowa","Kiowa County, Colorado ",8061,-1111.1
+246,"colorado,kit carson","Kit Carson County, Colorado ",8063,61.4
+248,"colorado,lake","Lake County, Colorado ",8065,-1111.1
+247,"colorado,la plata","La Plata County, Colorado ",8067,32.1
+249,"colorado,larimer","Larimer County, Colorado ",8069,39.1
+250,"colorado,las animas","Las Animas County, Colorado ",8071,41.1
+251,"colorado,lincoln","Lincoln County, Colorado ",8073,49.2
+252,"colorado,logan","Logan County, Colorado ",8075,38.3
+253,"colorado,mesa","Mesa County, Colorado ",8077,55.6
+254,"colorado,mineral","Mineral County, Colorado ",8079,-1111.1
+255,"colorado,moffat","Moffat County, Colorado ",8081,46.7
+256,"colorado,montezuma","Montezuma County, Colorado ",8083,38.9
+257,"colorado,montrose","Montrose County, Colorado ",8085,47.7
+258,"colorado,morgan","Morgan County, Colorado ",8087,55.9
+259,"colorado,otero","Otero County, Colorado ",8089,30.6
+260,"colorado,ouray","Ouray County, Colorado ",8091,-1111.1
+261,"colorado,park","Park County, Colorado ",8093,29.2
+262,"colorado,phillips","Phillips County, Colorado ",8095,55.2
+263,"colorado,pitkin","Pitkin County, Colorado ",8097,26
+264,"colorado,prowers","Prowers County, Colorado ",8099,62.6
+265,"colorado,pueblo","Pueblo County, Colorado ",8101,48.8
+266,"colorado,rio blanco","Rio Blanco County, Colorado ",8103,-1111.1
+267,"colorado,rio grande","Rio Grande County, Colorado ",8105,26.7
+268,"colorado,routt","Routt County, Colorado ",8107,35.6
+269,"colorado,saguache","Saguache County, Colorado ",8109,-1111.1
+270,"colorado,san juan","San Juan County, Colorado ",8111,-1111.1
+271,"colorado,san miguel","San Miguel County, Colorado ",8113,-1111.1
+272,"colorado,sedgwick","Sedgwick County, Colorado ",8115,-1111.1
+273,"colorado,summit","Summit County, Colorado ",8117,18.8
+274,"colorado,teller","Teller County, Colorado ",8119,40.8
+275,"colorado,washington","Washington County, Colorado ",8121,-1111.1
+276,"colorado,weld","Weld County, Colorado ",8123,44.8
+277,"colorado,yuma","Yuma County, Colorado ",8125,49.8
+278,"connecticut,fairfield","Fairfield County, Connecticut ",9001,54.6
+279,"connecticut,hartford","Hartford County, Connecticut ",9003,60.6
+280,"connecticut,litchfield","Litchfield County, Connecticut ",9005,61.4
+281,"connecticut,middlesex","Middlesex County, Connecticut ",9007,64.8
+282,"connecticut,new haven","New Haven County, Connecticut ",9009,69.1
+283,"connecticut,new london","New London County, Connecticut ",9011,67.3
+284,"connecticut,tolland","Tolland County, Connecticut ",9013,60.9
+285,"connecticut,windham","Windham County, Connecticut ",9015,65.7
+286,"delaware,kent","Kent County, Delaware ",10001,78.3
+287,"delaware,new castle","New Castle County, Delaware ",10003,67
+288,"delaware,sussex","Sussex County, Delaware ",10005,73.6
+289,"district of columbia,washington",District of Columbia ,11001,57.1
+290,"florida,alachua","Alachua County, Florida ",12001,65.6
+291,"florida,baker","Baker County, Florida ",12003,94.2
+292,"florida,bay","Bay County, Florida ",12005,85.6
+293,"florida,bradford","Bradford County, Florida ",12007,78.2
+294,"florida,brevard","Brevard County, Florida ",12009,71.9
+295,"florida,broward","Broward County, Florida ",12011,51.6
+296,"florida,calhoun","Calhoun County, Florida ",12013,77.2
+297,"florida,charlotte","Charlotte County, Florida ",12015,61.3
+298,"florida,citrus","Citrus County, Florida ",12017,80.9
+299,"florida,clay","Clay County, Florida ",12019,78.9
+300,"florida,collier","Collier County, Florida ",12021,40.4
+301,"florida,columbia","Columbia County, Florida ",12023,89.4
+302,"florida,dade","Dade County, Florida",12025,43.1
+303,"florida,de soto","DeSoto County, Florida ",12027,55.7
+304,"florida,dixie","Dixie County, Florida ",12029,94.6
+305,"florida,duval","Duval County, Florida ",12031,76.1
+306,"florida,escambia","Escambia County, Florida ",12033,75.4
+307,"florida,flagler","Flagler County, Florida ",12035,66
+308,"florida,franklin","Franklin County, Florida ",12037,83.8
+309,"florida,gadsden","Gadsden County, Florida ",12039,69
+310,"florida,gilchrist","Gilchrist County, Florida ",12041,72.2
+311,"florida,glades","Glades County, Florida ",12043,54.1
+312,"florida,gulf","Gulf County, Florida ",12045,85.7
+313,"florida,hamilton","Hamilton County, Florida ",12047,73
+314,"florida,hardee","Hardee County, Florida ",12049,77.9
+315,"florida,hendry","Hendry County, Florida ",12051,65.2
+316,"florida,hernando","Hernando County, Florida ",12053,74.7
+317,"florida,highlands","Highlands County, Florida ",12055,69.4
+318,"florida,hillsborough","Hillsborough County, Florida ",12057,66.3
+319,"florida,holmes","Holmes County, Florida ",12059,76.1
+320,"florida,indian river","Indian River County, Florida ",12061,67
+321,"florida,jackson","Jackson County, Florida ",12063,56.9
+322,"florida,jefferson","Jefferson County, Florida ",12065,44.5
+323,"florida,lafayette","Lafayette County, Florida ",12067,99.8
+324,"florida,lake","Lake County, Florida ",12069,74.8
+325,"florida,lee","Lee County, Florida ",12071,57.5
+326,"florida,leon","Leon County, Florida ",12073,55.1
+327,"florida,levy","Levy County, Florida ",12075,98.9
+328,"florida,liberty","Liberty County, Florida ",12077,68.3
+329,"florida,madison","Madison County, Florida ",12079,62.8
+330,"florida,manatee","Manatee County, Florida ",12081,57.6
+331,"florida,marion","Marion County, Florida ",12083,81.7
+332,"florida,martin","Martin County, Florida ",12085,56.7
+333,"florida,monroe","Monroe County, Florida ",12087,55.7
+334,"florida,nassau","Nassau County, Florida ",12089,79.5
+335,"florida,okaloosa:main","Okaloosa County, Florida ",12091,69.4
+336,"florida,okaloosa:spit","Okaloosa spit, Florida",12092,-1111.1
+337,"florida,okeechobee","Okeechobee County, Florida ",12093,92.9
+338,"florida,orange","Orange County, Florida ",12095,54.9
+339,"florida,osceola","Osceola County, Florida ",12097,53.6
+340,"florida,palm beach","Palm Beach County, Florida ",12099,52.6
+341,"florida,pasco","Pasco County, Florida ",12101,76
+342,"florida,pinellas","Pinellas County, Florida ",12103,68.6
+343,"florida,polk","Polk County, Florida ",12105,71.7
+344,"florida,putnam","Putnam County, Florida ",12107,95.8
+348,"florida,st johns","St. Johns County, Florida ",12109,63.6
+349,"florida,st lucie","St. Lucie County, Florida ",12111,62.2
+345,"florida,santa rosa","Santa Rosa County, Florida ",12113,73.5
+346,"florida,sarasota","Sarasota County, Florida ",12115,56.2
+347,"florida,seminole","Seminole County, Florida ",12117,52.5
+350,"florida,sumter","Sumter County, Florida ",12119,61.5
+351,"florida,suwannee","Suwannee County, Florida ",12121,82.2
+352,"florida,taylor","Taylor County, Florida ",12123,88.1
+353,"florida,union","Union County, Florida ",12125,224.2
+354,"florida,volusia","Volusia County, Florida ",12127,71
+355,"florida,wakulla","Wakulla County, Florida ",12129,92.8
+356,"florida,walton","Walton County, Florida ",12131,72.5
+357,"florida,washington","Washington County, Florida ",12133,74.1
+358,"georgia,appling","Appling County, Georgia ",13001,75.8
+359,"georgia,atkinson","Atkinson County, Georgia ",13003,69.7
+360,"georgia,bacon","Bacon County, Georgia ",13005,95.9
+361,"georgia,baker","Baker County, Georgia ",13007,77.1
+362,"georgia,baldwin","Baldwin County, Georgia ",13009,74.9
+363,"georgia,banks","Banks County, Georgia ",13011,61.1
+364,"georgia,barrow","Barrow County, Georgia ",13013,90.4
+365,"georgia,bartow","Bartow County, Georgia ",13015,88.7
+366,"georgia,ben hill","Ben Hill County, Georgia ",13017,80.1
+367,"georgia,berrien","Berrien County, Georgia ",13019,80.2
+368,"georgia,bibb","Bibb County, Georgia ",13021,79.7
+369,"georgia,bleckley","Bleckley County, Georgia ",13023,67.5
+370,"georgia,brantley","Brantley County, Georgia ",13025,80.8
+371,"georgia,brooks","Brooks County, Georgia ",13027,79.2
+372,"georgia,bryan","Bryan County, Georgia ",13029,76
+373,"georgia,bulloch","Bulloch County, Georgia ",13031,75.4
+374,"georgia,burke","Burke County, Georgia ",13033,80.1
+375,"georgia,butts","Butts County, Georgia ",13035,89.9
+376,"georgia,calhoun","Calhoun County, Georgia ",13037,51
+377,"georgia,camden","Camden County, Georgia ",13039,72
+378,"georgia,candler","Candler County, Georgia ",13043,86.8
+379,"georgia,carroll","Carroll County, Georgia ",13045,81.5
+380,"georgia,catoosa","Catoosa County, Georgia ",13047,68.1
+381,"georgia,charlton","Charlton County, Georgia ",13049,61.7
+382,"georgia,chatham","Chatham County, Georgia ",13051,62.7
+383,"georgia,chattahoochee","Chattahoochee County, Georgia ",13053,79
+384,"georgia,chattooga","Chattooga County, Georgia ",13055,90.3
+385,"georgia,cherokee","Cherokee County, Georgia ",13057,68.5
+386,"georgia,clarke","Clarke County, Georgia ",13059,58.5
+387,"georgia,clay","Clay County, Georgia ",13061,65.8
+388,"georgia,clayton","Clayton County, Georgia ",13063,64.8
+389,"georgia,clinch","Clinch County, Georgia ",13065,99.5
+390,"georgia,cobb","Cobb County, Georgia ",13067,57.6
+391,"georgia,coffee","Coffee County, Georgia ",13069,76.3
+392,"georgia,colquitt","Colquitt County, Georgia ",13071,87.2
+393,"georgia,columbia","Columbia County, Georgia ",13073,60.3
+394,"georgia,cook","Cook County, Georgia ",13075,90.5
+395,"georgia,coweta","Coweta County, Georgia ",13077,61.7
+396,"georgia,crawford","Crawford County, Georgia ",13079,108.1
+397,"georgia,crisp","Crisp County, Georgia ",13081,75.4
+398,"georgia,dade","Dade County, Georgia ",13083,82.3
+399,"georgia,dawson","Dawson County, Georgia ",13085,74.3
+401,"georgia,decatur","Decatur County, Georgia ",13087,62.3
+400,"georgia,de kalb","DeKalb County, Georgia ",13089,51.7
+402,"georgia,dodge","Dodge County, Georgia ",13091,81.8
+403,"georgia,dooly","Dooly County, Georgia ",13093,59.9
+404,"georgia,dougherty","Dougherty County, Georgia ",13095,74.7
+405,"georgia,douglas","Douglas County, Georgia ",13097,74.1
+406,"georgia,early","Early County, Georgia ",13099,59.4
+407,"georgia,echols","Echols County, Georgia ",13101,-1111.1
+408,"georgia,effingham","Effingham County, Georgia ",13103,86.3
+409,"georgia,elbert","Elbert County, Georgia ",13105,72.2
+410,"georgia,emanuel","Emanuel County, Georgia ",13107,73
+411,"georgia,evans","Evans County, Georgia ",13109,67.5
+412,"georgia,fannin","Fannin County, Georgia ",13111,70.8
+413,"georgia,fayette","Fayette County, Georgia ",13113,48.7
+414,"georgia,floyd","Floyd County, Georgia ",13115,77.7
+415,"georgia,forsyth","Forsyth County, Georgia ",13117,57.4
+416,"georgia,franklin","Franklin County, Georgia ",13119,82.4
+417,"georgia,fulton","Fulton County, Georgia ",13121,52.9
+418,"georgia,gilmer","Gilmer County, Georgia ",13123,71.7
+419,"georgia,glascock","Glascock County, Georgia ",13125,-1111.1
+420,"georgia,glynn","Glynn County, Georgia ",13127,70.1
+421,"georgia,gordon","Gordon County, Georgia ",13129,90.7
+422,"georgia,grady","Grady County, Georgia ",13131,76.5
+423,"georgia,greene","Greene County, Georgia ",13133,71.8
+424,"georgia,gwinnett","Gwinnett County, Georgia ",13135,51.6
+425,"georgia,habersham","Habersham County, Georgia ",13137,61.7
+426,"georgia,hall","Hall County, Georgia ",13139,60.7
+427,"georgia,hancock","Hancock County, Georgia ",13141,36.5
+428,"georgia,haralson","Haralson County, Georgia ",13143,91.1
+429,"georgia,harris","Harris County, Georgia ",13145,60.4
+430,"georgia,hart","Hart County, Georgia ",13147,63.7
+431,"georgia,heard","Heard County, Georgia ",13149,105.8
+432,"georgia,henry","Henry County, Georgia ",13151,59.8
+433,"georgia,houston","Houston County, Georgia ",13153,69.2
+434,"georgia,irwin","Irwin County, Georgia ",13155,67.3
+435,"georgia,jackson","Jackson County, Georgia ",13157,80.8
+436,"georgia,jasper","Jasper County, Georgia ",13159,72.4
+437,"georgia,jeff davis","Jeff Davis County, Georgia ",13161,73.9
+438,"georgia,jefferson","Jefferson County, Georgia ",13163,58.6
+439,"georgia,jenkins","Jenkins County, Georgia ",13165,68.8
+440,"georgia,johnson","Johnson County, Georgia ",13167,67.1
+441,"georgia,jones","Jones County, Georgia ",13169,75.5
+442,"georgia,lamar","Lamar County, Georgia ",13171,86.8
+443,"georgia,lanier","Lanier County, Georgia ",13173,63.7
+444,"georgia,laurens","Laurens County, Georgia ",13175,70.3
+445,"georgia,lee","Lee County, Georgia ",13177,84.3
+446,"georgia,liberty","Liberty County, Georgia ",13179,81.3
+447,"georgia,lincoln","Lincoln County, Georgia ",13181,79.8
+448,"georgia,long","Long County, Georgia ",13183,91.7
+449,"georgia,lowndes","Lowndes County, Georgia ",13185,60.9
+450,"georgia,lumpkin","Lumpkin County, Georgia ",13187,71.1
+454,"georgia,mcduffie","McDuffie County, Georgia ",13189,66.8
+455,"georgia,mcintosh","McIntosh County, Georgia ",13191,56.4
+451,"georgia,macon","Macon County, Georgia ",13193,67
+452,"georgia,madison","Madison County, Georgia ",13195,87.2
+453,"georgia,marion","Marion County, Georgia ",13197,54.7
+456,"georgia,meriwether","Meriwether County, Georgia ",13199,57.1
+457,"georgia,miller","Miller County, Georgia ",13201,84.4
+458,"georgia,mitchell","Mitchell County, Georgia ",13205,77.4
+459,"georgia,monroe","Monroe County, Georgia ",13207,84.2
+460,"georgia,montgomery","Montgomery County, Georgia ",13209,60.3
+461,"georgia,morgan","Morgan County, Georgia ",13211,63.3
+462,"georgia,murray","Murray County, Georgia ",13213,92.7
+463,"georgia,muscogee","Muscogee County, Georgia ",13215,68
+464,"georgia,newton","Newton County, Georgia ",13217,79.5
+465,"georgia,oconee","Oconee County, Georgia ",13219,50.5
+466,"georgia,oglethorpe","Oglethorpe County, Georgia ",13221,78.9
+467,"georgia,paulding","Paulding County, Georgia ",13223,74.1
+468,"georgia,peach","Peach County, Georgia ",13225,87.5
+469,"georgia,pickens","Pickens County, Georgia ",13227,83.3
+470,"georgia,pierce","Pierce County, Georgia ",13229,78
+471,"georgia,pike","Pike County, Georgia ",13231,77.1
+472,"georgia,polk","Polk County, Georgia ",13233,97.2
+473,"georgia,pulaski","Pulaski County, Georgia ",13235,42.9
+474,"georgia,putnam","Putnam County, Georgia ",13237,69.3
+475,"georgia,quitman","Quitman County, Georgia ",13239,79.7
+476,"georgia,rabun","Rabun County, Georgia ",13241,66.1
+477,"georgia,randolph","Randolph County, Georgia ",13243,59.4
+478,"georgia,richmond","Richmond County, Georgia ",13245,70.3
+479,"georgia,rockdale","Rockdale County, Georgia ",13247,56.5
+480,"georgia,schley","Schley County, Georgia ",13249,77.7
+481,"georgia,screven","Screven County, Georgia ",13251,83.3
+482,"georgia,seminole","Seminole County, Georgia ",13253,68
+483,"georgia,spalding","Spalding County, Georgia ",13255,78.8
+484,"georgia,stephens","Stephens County, Georgia ",13257,75.4
+485,"georgia,stewart","Stewart County, Georgia ",13259,66.2
+486,"georgia,sumter","Sumter County, Georgia ",13261,71.7
+487,"georgia,talbot","Talbot County, Georgia ",13263,76.8
+488,"georgia,taliaferro","Taliaferro County, Georgia ",13265,-1111.1
+489,"georgia,tattnall","Tattnall County, Georgia ",13267,91.2
+490,"georgia,taylor","Taylor County, Georgia ",13269,69.3
+491,"georgia,telfair","Telfair County, Georgia ",13271,51.6
+492,"georgia,terrell","Terrell County, Georgia ",13273,76
+493,"georgia,thomas","Thomas County, Georgia ",13275,76.4
+494,"georgia,tift","Tift County, Georgia ",13277,74.8
+495,"georgia,toombs","Toombs County, Georgia ",13279,80.2
+496,"georgia,towns","Towns County, Georgia ",13281,57.9
+497,"georgia,treutlen","Treutlen County, Georgia ",13283,69.4
+498,"georgia,troup","Troup County, Georgia ",13285,74.7
+499,"georgia,turner","Turner County, Georgia ",13287,83.5
+500,"georgia,twiggs","Twiggs County, Georgia ",13289,89.3
+501,"georgia,union","Union County, Georgia ",13291,69.4
+502,"georgia,upson","Upson County, Georgia ",13293,84.1
+503,"georgia,walker","Walker County, Georgia ",13295,86
+504,"georgia,walton","Walton County, Georgia ",13297,71.7
+505,"georgia,ware","Ware County, Georgia ",13299,72
+506,"georgia,warren","Warren County, Georgia ",13301,74
+507,"georgia,washington","Washington County, Georgia ",13303,65.8
+508,"georgia,wayne","Wayne County, Georgia ",13305,77.8
+509,"georgia,webster","Webster County, Georgia ",13307,-1111.1
+510,"georgia,wheeler","Wheeler County, Georgia ",13309,61.5
+511,"georgia,white","White County, Georgia ",13311,71.1
+512,"georgia,whitfield","Whitfield County, Georgia ",13313,72
+513,"georgia,wilcox","Wilcox County, Georgia ",13315,69.4
+514,"georgia,wilkes","Wilkes County, Georgia ",13317,61.4
+515,"georgia,wilkinson","Wilkinson County, Georgia ",13319,86.9
+516,"georgia,worth","Worth County, Georgia ",13321,81.9
+517,"idaho,ada","Ada County, Idaho ",16001,51.4
+518,"idaho,adams","Adams County, Idaho ",16003,65.4
+519,"idaho,bannock","Bannock County, Idaho ",16005,38.8
+520,"idaho,bear lake","Bear Lake County, Idaho ",16007,36.5
+521,"idaho,benewah","Benewah County, Idaho ",16009,78.6
+522,"idaho,bingham","Bingham County, Idaho ",16011,32.3
+523,"idaho,blaine","Blaine County, Idaho ",16013,25.5
+524,"idaho,boise","Boise County, Idaho ",16015,66.5
+525,"idaho,bonner","Bonner County, Idaho ",16017,54.7
+526,"idaho,bonneville","Bonneville County, Idaho ",16019,36.2
+527,"idaho,boundary","Boundary County, Idaho ",16021,47.1
+528,"idaho,butte","Butte County, Idaho ",16023,-1111.1
+529,"idaho,camas","Camas County, Idaho ",16025,-1111.1
+530,"idaho,canyon","Canyon County, Idaho ",16027,56
+531,"idaho,caribou","Caribou County, Idaho ",16029,-1111.1
+532,"idaho,cassia","Cassia County, Idaho ",16031,34.5
+533,"idaho,clark","Clark County, Idaho ",16033,-1111.1
+534,"idaho,clearwater","Clearwater County, Idaho ",16035,66.5
+535,"idaho,custer","Custer County, Idaho ",16037,42.5
+536,"idaho,elmore","Elmore County, Idaho ",16039,71.4
+537,"idaho,franklin","Franklin County, Idaho ",16041,-1111.1
+538,"idaho,fremont","Fremont County, Idaho ",16043,44.5
+539,"idaho,gem","Gem County, Idaho ",16045,62.5
+540,"idaho,gooding","Gooding County, Idaho ",16047,67.7
+541,"idaho,idaho","Idaho County, Idaho ",16049,49.2
+542,"idaho,jefferson","Jefferson County, Idaho ",16051,34.1
+543,"idaho,jerome","Jerome County, Idaho ",16053,52.9
+544,"idaho,kootenai","Kootenai County, Idaho ",16055,59.3
+545,"idaho,latah","Latah County, Idaho ",16057,51.8
+546,"idaho,lemhi","Lemhi County, Idaho ",16059,45.7
+547,"idaho,lewis","Lewis County, Idaho ",16061,61
+548,"idaho,lincoln","Lincoln County, Idaho ",16063,-1111.1
+549,"idaho,madison","Madison County, Idaho ",16065,-1111.1
+550,"idaho,minidoka","Minidoka County, Idaho ",16067,51.1
+551,"idaho,nez perce","Nez Perce County, Idaho ",16069,65.1
+552,"idaho,oneida","Oneida County, Idaho ",16071,-1111.1
+553,"idaho,owyhee","Owyhee County, Idaho ",16073,38.5
+554,"idaho,payette","Payette County, Idaho ",16075,62.6
+555,"idaho,power","Power County, Idaho ",16077,37.1
+556,"idaho,shoshone","Shoshone County, Idaho ",16079,97.3
+557,"idaho,teton","Teton County, Idaho ",16081,-1111.1
+558,"idaho,twin falls","Twin Falls County, Idaho ",16083,50.9
+559,"idaho,valley","Valley County, Idaho ",16085,35.1
+560,"idaho,washington","Washington County, Idaho ",16087,67.5
+561,"illinois,adams","Adams County, Illinois ",17001,75.5
+562,"illinois,alexander","Alexander County, Illinois ",17003,96.6
+563,"illinois,bond","Bond County, Illinois ",17005,71.7
+564,"illinois,boone","Boone County, Illinois ",17007,68.1
+565,"illinois,brown","Brown County, Illinois ",17009,94.4
+566,"illinois,bureau","Bureau County, Illinois ",17011,71.4
+567,"illinois,calhoun","Calhoun County, Illinois ",17013,80.9
+568,"illinois,carroll","Carroll County, Illinois ",17015,54.6
+569,"illinois,cass","Cass County, Illinois ",17017,95
+570,"illinois,champaign","Champaign County, Illinois ",17019,59
+571,"illinois,christian","Christian County, Illinois ",17021,94.9
+572,"illinois,clark","Clark County, Illinois ",17023,78.4
+573,"illinois,clay","Clay County, Illinois ",17025,80.9
+574,"illinois,clinton","Clinton County, Illinois ",17027,66.1
+575,"illinois,coles","Coles County, Illinois ",17029,76.4
+576,"illinois,cook","Cook County, Illinois ",17031,62
+577,"illinois,crawford","Crawford County, Illinois ",17033,79.8
+578,"illinois,cumberland","Cumberland County, Illinois ",17035,84.5
+579,"illinois,de kalb","DeKalb County, Illinois ",17037,70.4
+580,"illinois,de witt","De Witt County, Illinois ",17039,94.8
+581,"illinois,douglas","Douglas County, Illinois ",17041,64.2
+582,"illinois,du page","DuPage County, Illinois ",17043,54.5
+583,"illinois,edgar","Edgar County, Illinois ",17045,74.2
+584,"illinois,edwards","Edwards County, Illinois ",17047,91.3
+585,"illinois,effingham","Effingham County, Illinois ",17049,67.1
+586,"illinois,fayette","Fayette County, Illinois ",17051,54.4
+587,"illinois,ford","Ford County, Illinois ",17053,65.9
+588,"illinois,franklin","Franklin County, Illinois ",17055,105
+589,"illinois,fulton","Fulton County, Illinois ",17057,75.1
+590,"illinois,gallatin","Gallatin County, Illinois ",17059,89.4
+591,"illinois,greene","Greene County, Illinois ",17061,72
+592,"illinois,grundy","Grundy County, Illinois ",17063,85.9
+593,"illinois,hamilton","Hamilton County, Illinois ",17065,88.3
+594,"illinois,hancock","Hancock County, Illinois ",17067,78
+595,"illinois,hardin","Hardin County, Illinois ",17069,92.8
+596,"illinois,henderson","Henderson County, Illinois ",17071,74.2
+597,"illinois,henry","Henry County, Illinois ",17073,73.6
+598,"illinois,iroquois","Iroquois County, Illinois ",17075,75.7
+599,"illinois,jackson","Jackson County, Illinois ",17077,71.9
+600,"illinois,jasper","Jasper County, Illinois ",17079,69.9
+601,"illinois,jefferson","Jefferson County, Illinois ",17081,87.4
+602,"illinois,jersey","Jersey County, Illinois ",17083,78.5
+603,"illinois,jo daviess","Jo Daviess County, Illinois ",17085,59.6
+604,"illinois,johnson","Johnson County, Illinois ",17087,79.4
+605,"illinois,kane","Kane County, Illinois ",17089,56.2
+606,"illinois,kankakee","Kankakee County, Illinois ",17091,73.7
+607,"illinois,kendall","Kendall County, Illinois ",17093,56.7
+608,"illinois,knox","Knox County, Illinois ",17095,70.8
+610,"illinois,lake","Lake County, Illinois ",17097,57
+609,"illinois,la salle","La Salle County, Illinois ",17099,75.3
+611,"illinois,lawrence","Lawrence County, Illinois ",17101,82.4
+612,"illinois,lee","Lee County, Illinois ",17103,62.8
+613,"illinois,livingston","Livingston County, Illinois ",17105,82.6
+614,"illinois,logan","Logan County, Illinois ",17107,95
+622,"illinois,mcdonough","McDonough County, Illinois ",17109,70.3
+623,"illinois,mchenry","McHenry County, Illinois ",17111,64.7
+624,"illinois,mclean","McLean County, Illinois ",17113,61.5
+615,"illinois,macon","Macon County, Illinois ",17115,93.4
+616,"illinois,macoupin","Macoupin County, Illinois ",17117,83.4
+617,"illinois,madison","Madison County, Illinois ",17119,84
+618,"illinois,marion","Marion County, Illinois ",17121,88.7
+619,"illinois,marshall","Marshall County, Illinois ",17123,64.5
+620,"illinois,mason","Mason County, Illinois ",17125,96.3
+621,"illinois,massac","Massac County, Illinois ",17127,102
+625,"illinois,menard","Menard County, Illinois ",17129,87.1
+626,"illinois,mercer","Mercer County, Illinois ",17131,73.4
+627,"illinois,monroe","Monroe County, Illinois ",17133,58.3
+628,"illinois,montgomery","Montgomery County, Illinois ",17135,91.2
+629,"illinois,morgan","Morgan County, Illinois ",17137,81.3
+630,"illinois,moultrie","Moultrie County, Illinois ",17139,55.1
+631,"illinois,ogle","Ogle County, Illinois ",17141,64.4
+632,"illinois,peoria","Peoria County, Illinois ",17143,85.8
+633,"illinois,perry","Perry County, Illinois ",17145,73.6
+634,"illinois,piatt","Piatt County, Illinois ",17147,81.3
+635,"illinois,pike","Pike County, Illinois ",17149,71.1
+636,"illinois,pope","Pope County, Illinois ",17151,105.1
+637,"illinois,pulaski","Pulaski County, Illinois ",17153,117.1
+638,"illinois,putnam","Putnam County, Illinois ",17155,75.3
+639,"illinois,randolph","Randolph County, Illinois ",17157,74.1
+640,"illinois,richland","Richland County, Illinois ",17159,87.1
+641,"illinois,rock island","Rock Island County, Illinois ",17161,65.1
+647,"illinois,st clair","St. Clair County, Illinois ",17163,75.8
+642,"illinois,saline","Saline County, Illinois ",17165,86.3
+643,"illinois,sangamon","Sangamon County, Illinois ",17167,79.6
+644,"illinois,schuyler","Schuyler County, Illinois ",17169,86.8
+645,"illinois,scott","Scott County, Illinois ",17171,82.8
+646,"illinois,shelby","Shelby County, Illinois ",17173,77.3
+648,"illinois,stark","Stark County, Illinois ",17175,69.8
+649,"illinois,stephenson","Stephenson County, Illinois ",17177,62
+650,"illinois,tazewell","Tazewell County, Illinois ",17179,83.9
+651,"illinois,union","Union County, Illinois ",17181,102.9
+652,"illinois,vermilion","Vermilion County, Illinois ",17183,88.6
+653,"illinois,wabash","Wabash County, Illinois ",17185,85.7
+654,"illinois,warren","Warren County, Illinois ",17187,67.2
+655,"illinois,washington","Washington County, Illinois ",17189,67.5
+656,"illinois,wayne","Wayne County, Illinois ",17191,82.2
+657,"illinois,white","White County, Illinois ",17193,87.9
+658,"illinois,whiteside","Whiteside County, Illinois ",17195,68.5
+659,"illinois,will","Will County, Illinois ",17197,69
+660,"illinois,williamson","Williamson County, Illinois ",17199,101.1
+661,"illinois,winnebago","Winnebago County, Illinois ",17201,71.7
+662,"illinois,woodford","Woodford County, Illinois ",17203,58.8
+663,"indiana,adams","Adams County, Indiana ",18001,53.7
+664,"indiana,allen","Allen County, Indiana ",18003,64
+665,"indiana,bartholomew","Bartholomew County, Indiana ",18005,73.5
+666,"indiana,benton","Benton County, Indiana ",18007,82
+667,"indiana,blackford","Blackford County, Indiana ",18009,84.7
+668,"indiana,boone","Boone County, Indiana ",18011,59.3
+669,"indiana,brown","Brown County, Indiana ",18013,67.7
+670,"indiana,carroll","Carroll County, Indiana ",18015,71.2
+671,"indiana,cass","Cass County, Indiana ",18017,88.8
+672,"indiana,clark","Clark County, Indiana ",18019,89.2
+673,"indiana,clay","Clay County, Indiana ",18021,83.2
+674,"indiana,clinton","Clinton County, Indiana ",18023,73.6
+675,"indiana,crawford","Crawford County, Indiana ",18025,98
+676,"indiana,daviess","Daviess County, Indiana ",18027,60.3
+678,"indiana,dearborn","Dearborn County, Indiana ",18029,85.2
+679,"indiana,decatur","Decatur County, Indiana ",18031,64.1
+677,"indiana,de kalb","DeKalb County, Indiana ",18033,69.6
+680,"indiana,delaware","Delaware County, Indiana ",18035,77.2
+681,"indiana,dubois","Dubois County, Indiana ",18037,51.7
+682,"indiana,elkhart","Elkhart County, Indiana ",18039,64.3
+683,"indiana,fayette","Fayette County, Indiana ",18041,74.1
+684,"indiana,floyd","Floyd County, Indiana ",18043,79.4
+685,"indiana,fountain","Fountain County, Indiana ",18045,80.8
+686,"indiana,franklin","Franklin County, Indiana ",18047,72.5
+687,"indiana,fulton","Fulton County, Indiana ",18049,80.8
+688,"indiana,gibson","Gibson County, Indiana ",18051,68
+689,"indiana,grant","Grant County, Indiana ",18053,83.6
+690,"indiana,greene","Greene County, Indiana ",18055,75.4
+691,"indiana,hamilton","Hamilton County, Indiana ",18057,47.9
+692,"indiana,hancock","Hancock County, Indiana ",18059,77
+693,"indiana,harrison","Harrison County, Indiana ",18061,98
+694,"indiana,hendricks","Hendricks County, Indiana ",18063,67.8
+695,"indiana,henry","Henry County, Indiana ",18065,76.3
+696,"indiana,howard","Howard County, Indiana ",18067,74.7
+697,"indiana,huntington","Huntington County, Indiana ",18069,60.4
+698,"indiana,jackson","Jackson County, Indiana ",18071,80.9
+699,"indiana,jasper","Jasper County, Indiana ",18073,81.4
+700,"indiana,jay","Jay County, Indiana ",18075,64.4
+701,"indiana,jefferson","Jefferson County, Indiana ",18077,84.5
+702,"indiana,jennings","Jennings County, Indiana ",18079,93.5
+703,"indiana,johnson","Johnson County, Indiana ",18081,67
+704,"indiana,knox","Knox County, Indiana ",18083,78.3
+705,"indiana,kosciusko","Kosciusko County, Indiana ",18085,71.9
+707,"indiana,lagrange","LaGrange County, Indiana ",18087,53.9
+708,"indiana,lake","Lake County, Indiana ",18089,71.5
+706,"indiana,la porte","LaPorte County, Indiana ",18091,78.4
+709,"indiana,lawrence","Lawrence County, Indiana ",18093,81
+710,"indiana,madison","Madison County, Indiana ",18095,81
+711,"indiana,marion","Marion County, Indiana ",18097,80.1
+712,"indiana,marshall","Marshall County, Indiana ",18099,67.3
+713,"indiana,martin","Martin County, Indiana ",18101,73.7
+714,"indiana,miami","Miami County, Indiana ",18103,77.4
+715,"indiana,monroe","Monroe County, Indiana ",18105,64.4
+716,"indiana,montgomery","Montgomery County, Indiana ",18107,65.8
+717,"indiana,morgan","Morgan County, Indiana ",18109,83.2
+718,"indiana,newton","Newton County, Indiana ",18111,66.9
+719,"indiana,noble","Noble County, Indiana ",18113,69.5
+720,"indiana,ohio","Ohio County, Indiana ",18115,103.5
+721,"indiana,orange","Orange County, Indiana ",18117,75.2
+722,"indiana,owen","Owen County, Indiana ",18119,80.1
+723,"indiana,parke","Parke County, Indiana ",18121,70.5
+724,"indiana,perry","Perry County, Indiana ",18123,94.2
+725,"indiana,pike","Pike County, Indiana ",18125,64.3
+726,"indiana,porter","Porter County, Indiana ",18127,69.9
+727,"indiana,posey","Posey County, Indiana ",18129,61.6
+728,"indiana,pulaski","Pulaski County, Indiana ",18131,65.4
+729,"indiana,putnam","Putnam County, Indiana ",18133,95.5
+730,"indiana,randolph","Randolph County, Indiana ",18135,72.8
+731,"indiana,ripley","Ripley County, Indiana ",18137,72.8
+732,"indiana,rush","Rush County, Indiana ",18139,83
+736,"indiana,st joseph","St. Joseph County, Indiana ",18141,69.1
+733,"indiana,scott","Scott County, Indiana ",18143,88.5
+734,"indiana,shelby","Shelby County, Indiana ",18145,77.9
+735,"indiana,spencer","Spencer County, Indiana ",18147,77
+737,"indiana,starke","Starke County, Indiana ",18149,97.5
+738,"indiana,steuben","Steuben County, Indiana ",18151,69.3
+739,"indiana,sullivan","Sullivan County, Indiana ",18153,83.9
+740,"indiana,switzerland","Switzerland County, Indiana ",18155,71.5
+741,"indiana,tippecanoe","Tippecanoe County, Indiana ",18157,60.9
+742,"indiana,tipton","Tipton County, Indiana ",18159,72.4
+743,"indiana,union","Union County, Indiana ",18161,53.6
+744,"indiana,vanderburgh","Vanderburgh County, Indiana ",18163,77.1
+745,"indiana,vermillion","Vermillion County, Indiana ",18165,95.5
+746,"indiana,vigo","Vigo County, Indiana ",18167,80
+747,"indiana,wabash","Wabash County, Indiana ",18169,66.4
+748,"indiana,warren","Warren County, Indiana ",18171,56.3
+749,"indiana,warrick","Warrick County, Indiana ",18173,67.9
+750,"indiana,washington","Washington County, Indiana ",18175,93.5
+751,"indiana,wayne","Wayne County, Indiana ",18177,78.6
+752,"indiana,wells","Wells County, Indiana ",18179,58.7
+753,"indiana,white","White County, Indiana ",18181,71.9
+754,"indiana,whitley","Whitley County, Indiana ",18183,69.4
+755,"iowa,adair","Adair County, Iowa ",19001,72
+756,"iowa,adams","Adams County, Iowa ",19003,62.1
+757,"iowa,allamakee","Allamakee County, Iowa ",19005,40.3
+758,"iowa,appanoose","Appanoose County, Iowa ",19007,77.5
+759,"iowa,audubon","Audubon County, Iowa ",19009,43.6
+760,"iowa,benton","Benton County, Iowa ",19011,65.3
+761,"iowa,black hawk","Black Hawk County, Iowa ",19013,73.7
+762,"iowa,boone","Boone County, Iowa ",19015,65.7
+763,"iowa,bremer","Bremer County, Iowa ",19017,42.7
+764,"iowa,buchanan","Buchanan County, Iowa ",19019,77.3
+765,"iowa,buena vista","Buena Vista County, Iowa ",19021,48.4
+766,"iowa,butler","Butler County, Iowa ",19023,53.5
+767,"iowa,calhoun","Calhoun County, Iowa ",19025,49.3
+768,"iowa,carroll","Carroll County, Iowa ",19027,65.3
+769,"iowa,cass","Cass County, Iowa ",19029,72.5
+770,"iowa,cedar","Cedar County, Iowa ",19031,60.5
+771,"iowa,cerro gordo","Cerro Gordo County, Iowa ",19033,64.4
+772,"iowa,cherokee","Cherokee County, Iowa ",19035,47.5
+773,"iowa,chickasaw","Chickasaw County, Iowa ",19037,60.3
+774,"iowa,clarke","Clarke County, Iowa ",19039,72.8
+775,"iowa,clay","Clay County, Iowa ",19041,54.4
+776,"iowa,clayton","Clayton County, Iowa ",19043,58.6
+777,"iowa,clinton","Clinton County, Iowa ",19045,67.9
+778,"iowa,crawford","Crawford County, Iowa ",19047,55.5
+779,"iowa,dallas","Dallas County, Iowa ",19049,63.2
+780,"iowa,davis","Davis County, Iowa ",19051,48
+781,"iowa,decatur","Decatur County, Iowa ",19053,64.7
+782,"iowa,delaware","Delaware County, Iowa ",19055,38.7
+783,"iowa,des moines","Des Moines County, Iowa ",19057,80.3
+784,"iowa,dickinson","Dickinson County, Iowa ",19059,63.9
+785,"iowa,dubuque","Dubuque County, Iowa ",19061,60.9
+786,"iowa,emmet","Emmet County, Iowa ",19063,69.6
+787,"iowa,fayette","Fayette County, Iowa ",19065,61.2
+788,"iowa,floyd","Floyd County, Iowa ",19067,62.3
+789,"iowa,franklin","Franklin County, Iowa ",19069,58
+790,"iowa,fremont","Fremont County, Iowa ",19071,62.7
+791,"iowa,greene","Greene County, Iowa ",19073,66.5
+792,"iowa,grundy","Grundy County, Iowa ",19075,48.8
+793,"iowa,guthrie","Guthrie County, Iowa ",19077,64.2
+794,"iowa,hamilton","Hamilton County, Iowa ",19079,65.7
+795,"iowa,hancock","Hancock County, Iowa ",19081,54.1
+796,"iowa,hardin","Hardin County, Iowa ",19083,63.9
+797,"iowa,harrison","Harrison County, Iowa ",19085,79.2
+798,"iowa,henry","Henry County, Iowa ",19087,76.7
+799,"iowa,howard","Howard County, Iowa ",19089,56.2
+800,"iowa,humboldt","Humboldt County, Iowa ",19091,59.2
+801,"iowa,ida","Ida County, Iowa ",19093,57.2
+802,"iowa,iowa","Iowa County, Iowa ",19095,51.7
+803,"iowa,jackson","Jackson County, Iowa ",19097,57.1
+804,"iowa,jasper","Jasper County, Iowa ",19099,67.7
+805,"iowa,jefferson","Jefferson County, Iowa ",19101,44.9
+806,"iowa,johnson","Johnson County, Iowa ",19103,49.1
+807,"iowa,jones","Jones County, Iowa ",19105,64.3
+808,"iowa,keokuk","Keokuk County, Iowa ",19107,65
+809,"iowa,kossuth","Kossuth County, Iowa ",19109,52
+810,"iowa,lee","Lee County, Iowa ",19111,73.2
+811,"iowa,linn","Linn County, Iowa ",19113,66.5
+812,"iowa,louisa","Louisa County, Iowa ",19115,58
+813,"iowa,lucas","Lucas County, Iowa ",19117,63.8
+814,"iowa,lyon","Lyon County, Iowa ",19119,51.6
+815,"iowa,madison","Madison County, Iowa ",19121,51.8
+816,"iowa,mahaska","Mahaska County, Iowa ",19123,70.1
+817,"iowa,marion","Marion County, Iowa ",19125,61.7
+818,"iowa,marshall","Marshall County, Iowa ",19127,62.7
+819,"iowa,mills","Mills County, Iowa ",19129,68.3
+820,"iowa,mitchell","Mitchell County, Iowa ",19131,45.5
+821,"iowa,monona","Monona County, Iowa ",19133,68.7
+822,"iowa,monroe","Monroe County, Iowa ",19135,81.2
+823,"iowa,montgomery","Montgomery County, Iowa ",19137,75.7
+824,"iowa,muscatine","Muscatine County, Iowa ",19139,60.6
+825,"iowa,obrien","O'Brien County, Iowa ",19141,44.8
+826,"iowa,osceola","Osceola County, Iowa ",19143,40.6
+827,"iowa,page","Page County, Iowa ",19145,94.6
+828,"iowa,palo alto","Palo Alto County, Iowa ",19147,65.3
+829,"iowa,plymouth","Plymouth County, Iowa ",19149,56.3
+830,"iowa,pocahontas","Pocahontas County, Iowa ",19151,43.8
+831,"iowa,polk","Polk County, Iowa ",19153,73.7
+832,"iowa,pottawattamie","Pottawattamie County, Iowa ",19155,77.1
+833,"iowa,poweshiek","Poweshiek County, Iowa ",19157,41.4
+834,"iowa,ringgold","Ringgold County, Iowa ",19159,71.1
+835,"iowa,sac","Sac County, Iowa ",19161,58.1
+836,"iowa,scott","Scott County, Iowa ",19163,67.7
+837,"iowa,shelby","Shelby County, Iowa ",19165,57.1
+838,"iowa,sioux","Sioux County, Iowa ",19167,39.3
+839,"iowa,story","Story County, Iowa ",19169,54
+840,"iowa,tama","Tama County, Iowa ",19171,60.8
+841,"iowa,taylor","Taylor County, Iowa ",19173,71
+842,"iowa,union","Union County, Iowa ",19175,75.7
+843,"iowa,van buren","Van Buren County, Iowa ",19177,88.1
+844,"iowa,wapello","Wapello County, Iowa ",19179,78.5
+845,"iowa,warren","Warren County, Iowa ",19181,65.4
+846,"iowa,washington","Washington County, Iowa ",19183,50.9
+847,"iowa,wayne","Wayne County, Iowa ",19185,61
+848,"iowa,webster","Webster County, Iowa ",19187,63.6
+849,"iowa,winnebago","Winnebago County, Iowa ",19189,59.4
+850,"iowa,winneshiek","Winneshiek County, Iowa ",19191,35.2
+851,"iowa,woodbury","Woodbury County, Iowa ",19193,72.6
+852,"iowa,worth","Worth County, Iowa ",19195,44.6
+853,"iowa,wright","Wright County, Iowa ",19197,53.7
+854,"kansas,allen","Allen County, Kansas ",20001,-1111.1
+855,"kansas,anderson","Anderson County, Kansas ",20003,-1111.1
+856,"kansas,atchison","Atchison County, Kansas ",20005,-1111.1
+857,"kansas,barber","Barber County, Kansas ",20007,-1111.1
+858,"kansas,barton","Barton County, Kansas ",20009,-1111.1
+859,"kansas,bourbon","Bourbon County, Kansas ",20011,-1111.1
+860,"kansas,brown","Brown County, Kansas ",20013,-1111.1
+861,"kansas,butler","Butler County, Kansas ",20015,-1111.1
+862,"kansas,chase","Chase County, Kansas ",20017,-1111.1
+863,"kansas,chautauqua","Chautauqua County, Kansas ",20019,-1111.1
+864,"kansas,cherokee","Cherokee County, Kansas ",20021,-1111.1
+865,"kansas,cheyenne","Cheyenne County, Kansas ",20023,-1111.1
+866,"kansas,clark","Clark County, Kansas ",20025,-1111.1
+867,"kansas,clay","Clay County, Kansas ",20027,-1111.1
+868,"kansas,cloud","Cloud County, Kansas ",20029,-1111.1
+869,"kansas,coffey","Coffey County, Kansas ",20031,-1111.1
+870,"kansas,comanche","Comanche County, Kansas ",20033,-1111.1
+871,"kansas,cowley","Cowley County, Kansas ",20035,-1111.1
+872,"kansas,crawford","Crawford County, Kansas ",20037,-1111.1
+873,"kansas,decatur","Decatur County, Kansas ",20039,-1111.1
+874,"kansas,dickinson","Dickinson County, Kansas ",20041,-1111.1
+875,"kansas,doniphan","Doniphan County, Kansas ",20043,-1111.1
+876,"kansas,douglas","Douglas County, Kansas ",20045,-1111.1
+877,"kansas,edwards","Edwards County, Kansas ",20047,-1111.1
+878,"kansas,elk","Elk County, Kansas ",20049,-1111.1
+879,"kansas,ellis","Ellis County, Kansas ",20051,-1111.1
+880,"kansas,ellsworth","Ellsworth County, Kansas ",20053,-1111.1
+881,"kansas,finney","Finney County, Kansas ",20055,-1111.1
+882,"kansas,ford","Ford County, Kansas ",20057,-1111.1
+883,"kansas,franklin","Franklin County, Kansas ",20059,-1111.1
+884,"kansas,geary","Geary County, Kansas ",20061,-1111.1
+885,"kansas,gove","Gove County, Kansas ",20063,-1111.1
+886,"kansas,graham","Graham County, Kansas ",20065,-1111.1
+887,"kansas,grant","Grant County, Kansas ",20067,-1111.1
+888,"kansas,gray","Gray County, Kansas ",20069,-1111.1
+889,"kansas,greeley","Greeley County, Kansas ",20071,-1111.1
+890,"kansas,greenwood","Greenwood County, Kansas ",20073,-1111.1
+891,"kansas,hamilton","Hamilton County, Kansas ",20075,-1111.1
+892,"kansas,harper","Harper County, Kansas ",20077,-1111.1
+893,"kansas,harvey","Harvey County, Kansas ",20079,-1111.1
+894,"kansas,haskell","Haskell County, Kansas ",20081,-1111.1
+895,"kansas,hodgeman","Hodgeman County, Kansas ",20083,-1111.1
+896,"kansas,jackson","Jackson County, Kansas ",20085,-1111.1
+897,"kansas,jefferson","Jefferson County, Kansas ",20087,-1111.1
+898,"kansas,jewell","Jewell County, Kansas ",20089,-1111.1
+899,"kansas,johnson","Johnson County, Kansas ",20091,-1111.1
+900,"kansas,kearny","Kearny County, Kansas ",20093,-1111.1
+901,"kansas,kingman","Kingman County, Kansas ",20095,-1111.1
+902,"kansas,kiowa","Kiowa County, Kansas ",20097,-1111.1
+903,"kansas,labette","Labette County, Kansas ",20099,-1111.1
+904,"kansas,lane","Lane County, Kansas ",20101,-1111.1
+905,"kansas,leavenworth","Leavenworth County, Kansas ",20103,-1111.1
+906,"kansas,lincoln","Lincoln County, Kansas ",20105,-1111.1
+907,"kansas,linn","Linn County, Kansas ",20107,-1111.1
+908,"kansas,logan","Logan County, Kansas ",20109,-1111.1
+909,"kansas,lyon","Lyon County, Kansas ",20111,-1111.1
+912,"kansas,mcpherson","McPherson County, Kansas ",20113,-1111.1
+910,"kansas,marion","Marion County, Kansas ",20115,-1111.1
+911,"kansas,marshall","Marshall County, Kansas ",20117,-1111.1
+913,"kansas,meade","Meade County, Kansas ",20119,-1111.1
+914,"kansas,miami","Miami County, Kansas ",20121,-1111.1
+915,"kansas,mitchell","Mitchell County, Kansas ",20123,-1111.1
+916,"kansas,montgomery","Montgomery County, Kansas ",20125,-1111.1
+917,"kansas,morris","Morris County, Kansas ",20127,-1111.1
+918,"kansas,morton","Morton County, Kansas ",20129,-1111.1
+919,"kansas,nemaha","Nemaha County, Kansas ",20131,-1111.1
+920,"kansas,neosho","Neosho County, Kansas ",20133,-1111.1
+921,"kansas,ness","Ness County, Kansas ",20135,-1111.1
+922,"kansas,norton","Norton County, Kansas ",20137,-1111.1
+923,"kansas,osage","Osage County, Kansas ",20139,-1111.1
+924,"kansas,osborne","Osborne County, Kansas ",20141,-1111.1
+925,"kansas,ottawa","Ottawa County, Kansas ",20143,-1111.1
+926,"kansas,pawnee","Pawnee County, Kansas ",20145,-1111.1
+927,"kansas,phillips","Phillips County, Kansas ",20147,-1111.1
+928,"kansas,pottawatomie","Pottawatomie County, Kansas ",20149,-1111.1
+929,"kansas,pratt","Pratt County, Kansas ",20151,-1111.1
+930,"kansas,rawlins","Rawlins County, Kansas ",20153,-1111.1
+931,"kansas,reno","Reno County, Kansas ",20155,-1111.1
+932,"kansas,republic","Republic County, Kansas ",20157,-1111.1
+933,"kansas,rice","Rice County, Kansas ",20159,-1111.1
+934,"kansas,riley","Riley County, Kansas ",20161,-1111.1
+935,"kansas,rooks","Rooks County, Kansas ",20163,-1111.1
+936,"kansas,rush","Rush County, Kansas ",20165,-1111.1
+937,"kansas,russell","Russell County, Kansas ",20167,-1111.1
+938,"kansas,saline","Saline County, Kansas ",20169,-1111.1
+939,"kansas,scott","Scott County, Kansas ",20171,-1111.1
+940,"kansas,sedgwick","Sedgwick County, Kansas ",20173,-1111.1
+941,"kansas,seward","Seward County, Kansas ",20175,-1111.1
+942,"kansas,shawnee","Shawnee County, Kansas ",20177,-1111.1
+943,"kansas,sheridan","Sheridan County, Kansas ",20179,-1111.1
+944,"kansas,sherman","Sherman County, Kansas ",20181,-1111.1
+945,"kansas,smith","Smith County, Kansas ",20183,-1111.1
+946,"kansas,stafford","Stafford County, Kansas ",20185,-1111.1
+947,"kansas,stanton","Stanton County, Kansas ",20187,-1111.1
+948,"kansas,stevens","Stevens County, Kansas ",20189,-1111.1
+949,"kansas,sumner","Sumner County, Kansas ",20191,-1111.1
+950,"kansas,thomas","Thomas County, Kansas ",20193,-1111.1
+951,"kansas,trego","Trego County, Kansas ",20195,-1111.1
+952,"kansas,wabaunsee","Wabaunsee County, Kansas ",20197,-1111.1
+953,"kansas,wallace","Wallace County, Kansas ",20199,-1111.1
+954,"kansas,washington","Washington County, Kansas ",20201,-1111.1
+955,"kansas,wichita","Wichita County, Kansas ",20203,-1111.1
+956,"kansas,wilson","Wilson County, Kansas ",20205,-1111.1
+957,"kansas,woodson","Woodson County, Kansas ",20207,-1111.1
+958,"kansas,wyandotte","Wyandotte County, Kansas ",20209,-1111.1
+959,"kentucky,adair","Adair County, Kentucky ",21001,84.9
+960,"kentucky,allen","Allen County, Kentucky ",21003,86.8
+961,"kentucky,anderson","Anderson County, Kentucky ",21005,97.9
+962,"kentucky,ballard","Ballard County, Kentucky ",21007,79.2
+963,"kentucky,barren","Barren County, Kentucky ",21009,108.3
+964,"kentucky,bath","Bath County, Kentucky ",21011,104.6
+965,"kentucky,bell","Bell County, Kentucky ",21013,109.5
+966,"kentucky,boone","Boone County, Kentucky ",21015,86.9
+967,"kentucky,bourbon","Bourbon County, Kentucky ",21017,95.4
+968,"kentucky,boyd","Boyd County, Kentucky ",21019,90.4
+969,"kentucky,boyle","Boyle County, Kentucky ",21021,72.1
+970,"kentucky,bracken","Bracken County, Kentucky ",21023,131.4
+971,"kentucky,breathitt","Breathitt County, Kentucky ",21025,120.8
+972,"kentucky,breckinridge","Breckinridge County, Kentucky ",21027,108.2
+973,"kentucky,bullitt","Bullitt County, Kentucky ",21029,95.3
+974,"kentucky,butler","Butler County, Kentucky ",21031,96.1
+975,"kentucky,caldwell","Caldwell County, Kentucky ",21033,99.1
+976,"kentucky,calloway","Calloway County, Kentucky ",21035,77.4
+977,"kentucky,campbell","Campbell County, Kentucky ",21037,91
+978,"kentucky,carlisle","Carlisle County, Kentucky ",21039,111.2
+979,"kentucky,carroll","Carroll County, Kentucky ",21041,120.7
+980,"kentucky,carter","Carter County, Kentucky ",21043,101.9
+981,"kentucky,casey","Casey County, Kentucky ",21045,112
+982,"kentucky,christian","Christian County, Kentucky ",21047,79.3
+983,"kentucky,clark","Clark County, Kentucky ",21049,90.3
+984,"kentucky,clay","Clay County, Kentucky ",21051,119.9
+985,"kentucky,clinton","Clinton County, Kentucky ",21053,107.7
+986,"kentucky,crittenden","Crittenden County, Kentucky ",21055,84.7
+987,"kentucky,cumberland","Cumberland County, Kentucky ",21057,106.5
+988,"kentucky,daviess","Daviess County, Kentucky ",21059,104.9
+989,"kentucky,edmonson","Edmonson County, Kentucky ",21061,98.7
+990,"kentucky,elliott","Elliott County, Kentucky ",21063,74.4
+991,"kentucky,estill","Estill County, Kentucky ",21065,125.3
+992,"kentucky,fayette","Fayette County, Kentucky ",21067,70.9
+993,"kentucky,fleming","Fleming County, Kentucky ",21069,93
+994,"kentucky,floyd","Floyd County, Kentucky ",21071,139.5
+995,"kentucky,franklin","Franklin County, Kentucky ",21073,92.8
+996,"kentucky,fulton","Fulton County, Kentucky ",21075,96.3
+997,"kentucky,gallatin","Gallatin County, Kentucky ",21077,123
+998,"kentucky,garrard","Garrard County, Kentucky ",21079,91.8
+999,"kentucky,grant","Grant County, Kentucky ",21081,97
+1000,"kentucky,graves","Graves County, Kentucky ",21083,82
+1001,"kentucky,grayson","Grayson County, Kentucky ",21085,122.8
+1002,"kentucky,green","Green County, Kentucky ",21087,89.7
+1003,"kentucky,greenup","Greenup County, Kentucky ",21089,105.6
+1004,"kentucky,hancock","Hancock County, Kentucky ",21091,86.6
+1005,"kentucky,hardin","Hardin County, Kentucky ",21093,101
+1006,"kentucky,harlan","Harlan County, Kentucky ",21095,126.6
+1007,"kentucky,harrison","Harrison County, Kentucky ",21097,103.2
+1008,"kentucky,hart","Hart County, Kentucky ",21099,124.9
+1009,"kentucky,henderson","Henderson County, Kentucky ",21101,97.5
+1010,"kentucky,henry","Henry County, Kentucky ",21103,102.3
+1011,"kentucky,hickman","Hickman County, Kentucky ",21105,64.7
+1012,"kentucky,hopkins","Hopkins County, Kentucky ",21107,84.3
+1013,"kentucky,jackson","Jackson County, Kentucky ",21109,102.7
+1014,"kentucky,jefferson","Jefferson County, Kentucky ",21111,89
+1015,"kentucky,jessamine","Jessamine County, Kentucky ",21113,87.7
+1016,"kentucky,johnson","Johnson County, Kentucky ",21115,110.6
+1017,"kentucky,kenton","Kenton County, Kentucky ",21117,90.1
+1018,"kentucky,knott","Knott County, Kentucky ",21119,121.9
+1019,"kentucky,knox","Knox County, Kentucky ",21121,119.7
+1020,"kentucky,larue","Larue County, Kentucky ",21123,78.7
+1021,"kentucky,laurel","Laurel County, Kentucky ",21125,94.4
+1022,"kentucky,lawrence","Lawrence County, Kentucky ",21127,107.9
+1023,"kentucky,lee","Lee County, Kentucky ",21129,120.1
+1024,"kentucky,leslie","Leslie County, Kentucky ",21131,147.6
+1025,"kentucky,letcher","Letcher County, Kentucky ",21133,120.7
+1026,"kentucky,lewis","Lewis County, Kentucky ",21135,121.1
+1027,"kentucky,lincoln","Lincoln County, Kentucky ",21137,100
+1028,"kentucky,livingston","Livingston County, Kentucky ",21139,109.5
+1029,"kentucky,logan","Logan County, Kentucky ",21141,99.4
+1030,"kentucky,lyon","Lyon County, Kentucky ",21143,77.9
+1037,"kentucky,mccracken","McCracken County, Kentucky ",21145,86.1
+1038,"kentucky,mccreary","McCreary County, Kentucky ",21147,163.2
+1039,"kentucky,mclean","McLean County, Kentucky ",21149,109.4
+1031,"kentucky,madison","Madison County, Kentucky ",21151,90.4
+1032,"kentucky,magoffin","Magoffin County, Kentucky ",21153,107.7
+1033,"kentucky,marion","Marion County, Kentucky ",21155,94.2
+1034,"kentucky,marshall","Marshall County, Kentucky ",21157,85
+1035,"kentucky,martin","Martin County, Kentucky ",21159,132.7
+1036,"kentucky,mason","Mason County, Kentucky ",21161,116.2
+1040,"kentucky,meade","Meade County, Kentucky ",21163,108.9
+1041,"kentucky,menifee","Menifee County, Kentucky ",21165,121.4
+1042,"kentucky,mercer","Mercer County, Kentucky ",21167,91.4
+1043,"kentucky,metcalfe","Metcalfe County, Kentucky ",21169,116.7
+1044,"kentucky,monroe","Monroe County, Kentucky ",21171,112.1
+1045,"kentucky,montgomery","Montgomery County, Kentucky ",21173,97.4
+1046,"kentucky,morgan","Morgan County, Kentucky ",21175,100.6
+1047,"kentucky,muhlenberg","Muhlenberg County, Kentucky ",21177,102.4
+1048,"kentucky,nelson","Nelson County, Kentucky ",21179,93.7
+1049,"kentucky,nicholas","Nicholas County, Kentucky ",21181,108.8
+1050,"kentucky,ohio","Ohio County, Kentucky ",21183,120.7
+1051,"kentucky,oldham","Oldham County, Kentucky ",21185,73.4
+1052,"kentucky,owen","Owen County, Kentucky ",21187,84.9
+1053,"kentucky,owsley","Owsley County, Kentucky ",21189,169.9
+1054,"kentucky,pendleton","Pendleton County, Kentucky ",21191,96.3
+1055,"kentucky,perry","Perry County, Kentucky ",21193,129
+1056,"kentucky,pike","Pike County, Kentucky ",21195,122.1
+1057,"kentucky,powell","Powell County, Kentucky ",21197,153.9
+1058,"kentucky,pulaski","Pulaski County, Kentucky ",21199,92.7
+1059,"kentucky,robertson","Robertson County, Kentucky ",21201,100.6
+1060,"kentucky,rockcastle","Rockcastle County, Kentucky ",21203,115.8
+1061,"kentucky,rowan","Rowan County, Kentucky ",21205,87.2
+1062,"kentucky,russell","Russell County, Kentucky ",21207,103.7
+1063,"kentucky,scott","Scott County, Kentucky ",21209,84.5
+1064,"kentucky,shelby","Shelby County, Kentucky ",21211,81.9
+1065,"kentucky,simpson","Simpson County, Kentucky ",21213,97.1
+1066,"kentucky,spencer","Spencer County, Kentucky ",21215,86.1
+1067,"kentucky,taylor","Taylor County, Kentucky ",21217,104.8
+1068,"kentucky,todd","Todd County, Kentucky ",21219,84.4
+1069,"kentucky,trigg","Trigg County, Kentucky ",21221,79.6
+1070,"kentucky,trimble","Trimble County, Kentucky ",21223,97.6
+1071,"kentucky,union","Union County, Kentucky ",21225,105.3
+1072,"kentucky,warren","Warren County, Kentucky ",21227,86.3
+1073,"kentucky,washington","Washington County, Kentucky ",21229,72.8
+1074,"kentucky,wayne","Wayne County, Kentucky ",21231,96.2
+1075,"kentucky,webster","Webster County, Kentucky ",21233,101.3
+1076,"kentucky,whitley","Whitley County, Kentucky ",21235,121.1
+1077,"kentucky,wolfe","Wolfe County, Kentucky ",21237,119.2
+1078,"kentucky,woodford","Woodford County, Kentucky ",21239,72.7
+1079,"louisiana,acadia","Acadia Parish, Louisiana ",22001,80.4
+1080,"louisiana,allen","Allen Parish, Louisiana ",22003,70.6
+1081,"louisiana,ascension","Ascension Parish, Louisiana ",22005,66.9
+1082,"louisiana,assumption","Assumption Parish, Louisiana ",22007,83.7
+1083,"louisiana,avoyelles","Avoyelles Parish, Louisiana ",22009,82.4
+1084,"louisiana,beauregard","Beauregard Parish, Louisiana ",22011,77.4
+1085,"louisiana,bienville","Bienville Parish, Louisiana ",22013,80.8
+1086,"louisiana,bossier","Bossier Parish, Louisiana ",22015,71.5
+1087,"louisiana,caddo","Caddo Parish, Louisiana ",22017,70.8
+1088,"louisiana,calcasieu","Calcasieu Parish, Louisiana ",22019,67.4
+1089,"louisiana,caldwell","Caldwell Parish, Louisiana ",22021,98.9
+1090,"louisiana,cameron","Cameron Parish, Louisiana ",22023,59.3
+1091,"louisiana,catahoula","Catahoula Parish, Louisiana ",22025,93.2
+1092,"louisiana,claiborne","Claiborne Parish, Louisiana ",22027,65.8
+1093,"louisiana,concordia","Concordia Parish, Louisiana ",22029,73.9
+1094,"louisiana,de soto","De Soto Parish, Louisiana ",22031,76.5
+1095,"louisiana,east baton rouge","East Baton Rouge Parish, Louisiana ",22033,54
+1096,"louisiana,east carroll","East Carroll Parish, Louisiana ",22035,91.3
+1097,"louisiana,east feliciana","East Feliciana Parish, Louisiana ",22037,61.1
+1098,"louisiana,evangeline","Evangeline Parish, Louisiana ",22039,83.7
+1099,"louisiana,franklin","Franklin Parish, Louisiana ",22041,76
+1100,"louisiana,grant","Grant Parish, Louisiana ",22043,94.7
+1101,"louisiana,iberia","Iberia Parish, Louisiana ",22045,75.9
+1102,"louisiana,iberville","Iberville Parish, Louisiana ",22047,94.7
+1103,"louisiana,jackson","Jackson Parish, Louisiana ",22049,75.9
+1104,"louisiana,jefferson","Jefferson Parish, Louisiana ",22051,67.2
+1105,"louisiana,jefferson davis","Jefferson Davis Parish, Louisiana ",22053,82.4
+1107,"louisiana,lafayette","Lafayette Parish, Louisiana ",22055,70.6
+1108,"louisiana,lafourche","LaFourche Parish, Louisiana ",22057,70
+1106,"louisiana,la salle","La Salle Parish, Louisiana ",22059,82.5
+1109,"louisiana,lincoln","Lincoln Parish, Louisiana ",22061,59.1
+1110,"louisiana,livingston","Livingston Parish, Louisiana ",22063,82.5
+1111,"louisiana,madison","Madison Parish, Louisiana ",22065,75.8
+1112,"louisiana,morehouse","Morehouse Parish, Louisiana ",22067,79.3
+1113,"louisiana,natchitoches","Natchitoches Parish, Louisiana ",22069,63.7
+1114,"louisiana,orleans","Orleans Parish, Louisiana ",22071,65.2
+1115,"louisiana,ouachita","Ouachita Parish, Louisiana ",22073,76.8
+1116,"louisiana,plaquemines","Plaquemines Parish, Louisiana ",22075,72.2
+1117,"louisiana,pointe coupee","Pointe Coupee Parish, Louisiana ",22077,53.1
+1118,"louisiana,rapides","Rapides Parish, Louisiana ",22079,68.9
+1119,"louisiana,red river","Red River Parish, Louisiana ",22081,67.1
+1120,"louisiana,richland","Richland Parish, Louisiana ",22083,76.7
+1121,"louisiana,sabine","Sabine Parish, Louisiana ",22085,63.6
+1122,"louisiana,st bernard","St. Bernard Parish, Louisiana ",22087,94
+1123,"louisiana,st charles","St. Charles Parish, Louisiana ",22089,67.7
+1124,"louisiana,st helena","St. Helena Parish, Louisiana ",22091,55.4
+1125,"louisiana,st james","St. James Parish, Louisiana ",22093,63.1
+1126,"louisiana,st john the baptist","St. John the Baptist Parish, Louisiana ",22095,60.1
+1127,"louisiana,st landry","St. Landry Parish, Louisiana ",22097,82.6
+1128,"louisiana,st martin:north","St. Martin Parish, Louisiana ",22099,77.6
+1129,"louisiana,st martin:south","St. Martin South, Louisiana",22100,-1111.1
+1130,"louisiana,st mary","St. Mary Parish, Louisiana ",22101,64.2
+1131,"louisiana,st tammany","St. Tammany Parish, Louisiana ",22103,66.3
+1132,"louisiana,tangipahoa","Tangipahoa Parish, Louisiana ",22105,75.5
+1133,"louisiana,tensas","Tensas Parish, Louisiana ",22107,58.6
+1134,"louisiana,terrebonne","Terrebonne Parish, Louisiana ",22109,77.6
+1135,"louisiana,union","Union Parish, Louisiana ",22111,80.2
+1136,"louisiana,vermilion","Vermilion Parish, Louisiana ",22113,74.9
+1137,"louisiana,vernon","Vernon Parish, Louisiana ",22115,90.9
+1138,"louisiana,washington","Washington Parish, Louisiana ",22117,82.3
+1139,"louisiana,webster","Webster Parish, Louisiana ",22119,82.5
+1140,"louisiana,west baton rouge","West Baton Rouge Parish, Louisiana ",22121,74.1
+1141,"louisiana,west carroll","West Carroll Parish, Louisiana ",22123,81
+1142,"louisiana,west feliciana","West Feliciana Parish, Louisiana ",22125,86.2
+1143,"louisiana,winn","Winn Parish, Louisiana ",22127,76.9
+1144,"maine,androscoggin","Androscoggin County, Maine ",23001,77.5
+1145,"maine,aroostook","Aroostook County, Maine ",23003,81.2
+1146,"maine,cumberland","Cumberland County, Maine ",23005,65.9
+1147,"maine,franklin","Franklin County, Maine ",23007,56.7
+1148,"maine,hancock","Hancock County, Maine ",23009,71.7
+1149,"maine,kennebec","Kennebec County, Maine ",23011,72.5
+1150,"maine,knox","Knox County, Maine ",23013,73.4
+1151,"maine,lincoln","Lincoln County, Maine ",23015,54.6
+1152,"maine,oxford","Oxford County, Maine ",23017,81.3
+1153,"maine,penobscot","Penobscot County, Maine ",23019,86
+1154,"maine,piscataquis","Piscataquis County, Maine ",23021,79.3
+1155,"maine,sagadahoc","Sagadahoc County, Maine ",23023,64.8
+1156,"maine,somerset","Somerset County, Maine ",23025,84.4
+1157,"maine,waldo","Waldo County, Maine ",23027,77.1
+1158,"maine,washington","Washington County, Maine ",23029,85.8
+1159,"maine,york","York County, Maine ",23031,70.4
+1160,"maryland,allegany","Allegany County, Maryland ",24001,74.8
+1161,"maryland,anne arundel","Anne Arundel County, Maryland ",24003,65.4
+1162,"maryland,baltimore","Baltimore County, Maryland ",24005,65.7
+1164,"maryland,calvert","Calvert County, Maryland ",24009,66.5
+1165,"maryland,caroline","Caroline County, Maryland ",24011,81.1
+1166,"maryland,carroll","Carroll County, Maryland ",24013,61.2
+1167,"maryland,cecil","Cecil County, Maryland ",24015,78.5
+1168,"maryland,charles","Charles County, Maryland ",24017,58
+1169,"maryland,dorchester","Dorchester County, Maryland ",24019,76.5
+1170,"maryland,frederick","Frederick County, Maryland ",24021,49.9
+1171,"maryland,garrett","Garrett County, Maryland ",24023,49.8
+1172,"maryland,harford","Harford County, Maryland ",24025,68.9
+1173,"maryland,howard","Howard County, Maryland ",24027,43.8
+1174,"maryland,kent","Kent County, Maryland ",24029,58.5
+1175,"maryland,montgomery","Montgomery County, Maryland ",24031,33.7
+1176,"maryland,prince georges","Prince Georges County, Maryland ",24033,46.3
+1177,"maryland,queen annes","Queen Annes County, Maryland ",24035,67.8
+1179,"maryland,st marys","St. Marys County, Maryland ",24037,67.8
+1178,"maryland,somerset","Somerset County, Maryland ",24039,97.6
+1180,"maryland,talbot","Talbot County, Maryland ",24041,50.1
+1181,"maryland,washington","Washington County, Maryland ",24043,67.3
+1182,"maryland,wicomico","Wicomico County, Maryland ",24045,75.6
+1183,"maryland,worcester","Worcester County, Maryland ",24047,69.2
+1163,"maryland,baltimore city","Baltimore City, Maryland ",24510,80
+1184,"massachusetts,barnstable","Barnstable County, Massachusetts ",25001,58.7
+1185,"massachusetts,berkshire","Berkshire County, Massachusetts ",25003,67.5
+1186,"massachusetts,bristol","Bristol County, Massachusetts ",25005,69.7
+1187,"massachusetts,dukes","Dukes County, Massachusetts ",25007,57.7
+1188,"massachusetts,essex","Essex County, Massachusetts ",25009,66.1
+1189,"massachusetts,franklin","Franklin County, Massachusetts ",25011,55.6
+1190,"massachusetts,hampden","Hampden County, Massachusetts ",25013,65.6
+1191,"massachusetts,hampshire","Hampshire County, Massachusetts ",25015,50.9
+1192,"massachusetts,middlesex","Middlesex County, Massachusetts ",25017,60
+1193,"massachusetts,nantucket","Nantucket County, Massachusetts ",25019,61.4
+1194,"massachusetts,norfolk","Norfolk County, Massachusetts ",25021,61.4
+1195,"massachusetts,plymouth","Plymouth County, Massachusetts ",25023,71
+1196,"massachusetts,suffolk","Suffolk County, Massachusetts ",25025,66.8
+1197,"massachusetts,worcester","Worcester County, Massachusetts ",25027,68.2
+1198,"michigan,alcona","Alcona County, Michigan ",26001,66.7
+1199,"michigan,alger","Alger County, Michigan ",26003,59.6
+1200,"michigan,allegan","Allegan County, Michigan ",26005,53.5
+1201,"michigan,alpena","Alpena County, Michigan ",26007,68.9
+1202,"michigan,antrim","Antrim County, Michigan ",26009,57.8
+1203,"michigan,arenac","Arenac County, Michigan ",26011,96.5
+1204,"michigan,baraga","Baraga County, Michigan ",26013,72.5
+1205,"michigan,barry","Barry County, Michigan ",26015,43.2
+1206,"michigan,bay","Bay County, Michigan ",26017,61.5
+1207,"michigan,benzie","Benzie County, Michigan ",26019,75.7
+1208,"michigan,berrien","Berrien County, Michigan ",26021,72.6
+1209,"michigan,branch","Branch County, Michigan ",26023,57.4
+1210,"michigan,calhoun","Calhoun County, Michigan ",26025,65.3
+1211,"michigan,cass","Cass County, Michigan ",26027,54
+1212,"michigan,charlevoix","Charlevoix County, Michigan ",26029,60.1
+1213,"michigan,cheboygan","Cheboygan County, Michigan ",26031,72.9
+1214,"michigan,chippewa","Chippewa County, Michigan ",26033,71.3
+1215,"michigan,clare","Clare County, Michigan ",26035,71.6
+1216,"michigan,clinton","Clinton County, Michigan ",26037,35
+1217,"michigan,crawford","Crawford County, Michigan ",26039,73.1
+1218,"michigan,delta","Delta County, Michigan ",26041,61.8
+1219,"michigan,dickinson","Dickinson County, Michigan ",26043,59.4
+1220,"michigan,eaton","Eaton County, Michigan ",26045,50
+1221,"michigan,emmet","Emmet County, Michigan ",26047,59.7
+1222,"michigan,genesee","Genesee County, Michigan ",26049,78.5
+1223,"michigan,gladwin","Gladwin County, Michigan ",26051,77.5
+1224,"michigan,gogebic","Gogebic County, Michigan ",26053,65.9
+1225,"michigan,grand traverse","Grand Traverse County, Michigan ",26055,66.8
+1226,"michigan,gratiot","Gratiot County, Michigan ",26057,66.8
+1227,"michigan,hillsdale","Hillsdale County, Michigan ",26059,63.8
+1228,"michigan,houghton","Houghton County, Michigan ",26061,52.2
+1229,"michigan,huron","Huron County, Michigan ",26063,57.8
+1230,"michigan,ingham","Ingham County, Michigan ",26065,56.7
+1231,"michigan,ionia","Ionia County, Michigan ",26067,68.4
+1232,"michigan,iosco","Iosco County, Michigan ",26069,69.7
+1233,"michigan,iron","Iron County, Michigan ",26071,61
+1234,"michigan,isabella","Isabella County, Michigan ",26073,67.4
+1235,"michigan,jackson","Jackson County, Michigan ",26075,79.2
+1236,"michigan,kalamazoo","Kalamazoo County, Michigan ",26077,60.4
+1237,"michigan,kalkaska","Kalkaska County, Michigan ",26079,65.5
+1238,"michigan,kent","Kent County, Michigan ",26081,57.4
+1239,"michigan,keweenaw","Keweenaw County, Michigan ",26083,-1111.1
+1240,"michigan,lake","Lake County, Michigan ",26085,69.5
+1241,"michigan,lapeer","Lapeer County, Michigan ",26087,70.5
+1242,"michigan,leelanau","Leelanau County, Michigan ",26089,36.8
+1243,"michigan,lenawee","Lenawee County, Michigan ",26091,61.8
+1244,"michigan,livingston","Livingston County, Michigan ",26093,53.5
+1245,"michigan,luce","Luce County, Michigan ",26095,81.8
+1246,"michigan,mackinac","Mackinac County, Michigan ",26097,69.7
+1247,"michigan,macomb","Macomb County, Michigan ",26099,74.8
+1248,"michigan,manistee","Manistee County, Michigan ",26101,63.1
+1249,"michigan,marquette","Marquette County, Michigan ",26103,72.3
+1250,"michigan,mason","Mason County, Michigan ",26105,54.5
+1251,"michigan,mecosta","Mecosta County, Michigan ",26107,76
+1252,"michigan,menominee","Menominee County, Michigan ",26109,63.1
+1253,"michigan,midland","Midland County, Michigan ",26111,59.6
+1254,"michigan,missaukee","Missaukee County, Michigan ",26113,77.8
+1255,"michigan,monroe","Monroe County, Michigan ",26115,63.4
+1256,"michigan,montcalm","Montcalm County, Michigan ",26117,74.5
+1257,"michigan,montmorency","Montmorency County, Michigan ",26119,69.4
+1258,"michigan,muskegon","Muskegon County, Michigan ",26121,78.5
+1259,"michigan,newaygo","Newaygo County, Michigan ",26123,62
+1260,"michigan,oakland","Oakland County, Michigan ",26125,62.4
+1261,"michigan,oceana","Oceana County, Michigan ",26127,56.2
+1262,"michigan,ogemaw","Ogemaw County, Michigan ",26129,79.4
+1263,"michigan,ontonagon","Ontonagon County, Michigan ",26131,81.1
+1264,"michigan,osceola","Osceola County, Michigan ",26133,94.6
+1265,"michigan,oscoda","Oscoda County, Michigan ",26135,91.2
+1266,"michigan,otsego","Otsego County, Michigan ",26137,63.2
+1267,"michigan,ottawa","Ottawa County, Michigan ",26139,39.7
+1268,"michigan,presque isle","Presque Isle County, Michigan ",26141,52.2
+1269,"michigan,roscommon","Roscommon County, Michigan ",26143,81.9
+1270,"michigan,saginaw","Saginaw County, Michigan ",26145,69.7
+1274,"michigan,st clair","St. Clair County, Michigan ",26147,62.9
+1275,"michigan,st joseph","St. Joseph County, Michigan ",26149,64.7
+1271,"michigan,sanilac","Sanilac County, Michigan ",26151,51.3
+1272,"michigan,schoolcraft","Schoolcraft County, Michigan ",26153,83.8
+1273,"michigan,shiawassee","Shiawassee County, Michigan ",26155,77.3
+1276,"michigan,tuscola","Tuscola County, Michigan ",26157,67.7
+1277,"michigan,van buren","Van Buren County, Michigan ",26159,67.2
+1278,"michigan,washtenaw","Washtenaw County, Michigan ",26161,53.8
+1279,"michigan,wayne","Wayne County, Michigan ",26163,80.1
+1280,"michigan,wexford","Wexford County, Michigan ",26165,87.5
+1281,"minnesota,aitkin","Aitkin County, Minnesota ",27001,-1111.1
+1282,"minnesota,anoka","Anoka County, Minnesota ",27003,-1111.1
+1283,"minnesota,becker","Becker County, Minnesota ",27005,-1111.1
+1284,"minnesota,beltrami","Beltrami County, Minnesota ",27007,-1111.1
+1285,"minnesota,benton","Benton County, Minnesota ",27009,-1111.1
+1286,"minnesota,big stone","Big Stone County, Minnesota ",27011,-1111.1
+1287,"minnesota,blue earth","Blue Earth County, Minnesota ",27013,-1111.1
+1288,"minnesota,brown","Brown County, Minnesota ",27015,-1111.1
+1289,"minnesota,carlton","Carlton County, Minnesota ",27017,-1111.1
+1290,"minnesota,carver","Carver County, Minnesota ",27019,-1111.1
+1291,"minnesota,cass","Cass County, Minnesota ",27021,-1111.1
+1292,"minnesota,chippewa","Chippewa County, Minnesota ",27023,-1111.1
+1293,"minnesota,chisago","Chisago County, Minnesota ",27025,-1111.1
+1294,"minnesota,clay","Clay County, Minnesota ",27027,-1111.1
+1295,"minnesota,clearwater","Clearwater County, Minnesota ",27029,-1111.1
+1296,"minnesota,cook","Cook County, Minnesota ",27031,-1111.1
+1297,"minnesota,cottonwood","Cottonwood County, Minnesota ",27033,-1111.1
+1298,"minnesota,crow wing","Crow Wing County, Minnesota ",27035,-1111.1
+1299,"minnesota,dakota","Dakota County, Minnesota ",27037,-1111.1
+1300,"minnesota,dodge","Dodge County, Minnesota ",27039,-1111.1
+1301,"minnesota,douglas","Douglas County, Minnesota ",27041,-1111.1
+1302,"minnesota,faribault","Faribault County, Minnesota ",27043,-1111.1
+1303,"minnesota,fillmore","Fillmore County, Minnesota ",27045,-1111.1
+1304,"minnesota,freeborn","Freeborn County, Minnesota ",27047,-1111.1
+1305,"minnesota,goodhue","Goodhue County, Minnesota ",27049,-1111.1
+1306,"minnesota,grant","Grant County, Minnesota ",27051,-1111.1
+1307,"minnesota,hennepin","Hennepin County, Minnesota ",27053,-1111.1
+1308,"minnesota,houston","Houston County, Minnesota ",27055,-1111.1
+1309,"minnesota,hubbard","Hubbard County, Minnesota ",27057,-1111.1
+1310,"minnesota,isanti","Isanti County, Minnesota ",27059,-1111.1
+1311,"minnesota,itasca","Itasca County, Minnesota ",27061,-1111.1
+1312,"minnesota,jackson","Jackson County, Minnesota ",27063,-1111.1
+1313,"minnesota,kanabec","Kanabec County, Minnesota ",27065,-1111.1
+1314,"minnesota,kandiyohi","Kandiyohi County, Minnesota ",27067,-1111.1
+1315,"minnesota,kittson","Kittson County, Minnesota ",27069,-1111.1
+1316,"minnesota,koochiching","Koochiching County, Minnesota ",27071,-1111.1
+1317,"minnesota,lac qui parle","Lac qui Parle County, Minnesota ",27073,-1111.1
+1318,"minnesota,lake","Lake County, Minnesota ",27075,-1111.1
+1319,"minnesota,lake of the woods","Lake of the Woods County, Minnesota ",27077,-1111.1
+1320,"minnesota,le sueur","Le Sueur County, Minnesota ",27079,-1111.1
+1321,"minnesota,lincoln","Lincoln County, Minnesota ",27081,-1111.1
+1322,"minnesota,lyon","Lyon County, Minnesota ",27083,-1111.1
+1326,"minnesota,mcleod","McLeod County, Minnesota ",27085,-1111.1
+1323,"minnesota,mahnomen","Mahnomen County, Minnesota ",27087,-1111.1
+1324,"minnesota,marshall","Marshall County, Minnesota ",27089,-1111.1
+1325,"minnesota,martin","Martin County, Minnesota ",27091,-1111.1
+1327,"minnesota,meeker","Meeker County, Minnesota ",27093,-1111.1
+1328,"minnesota,mille lacs","Mille Lacs County, Minnesota ",27095,-1111.1
+1329,"minnesota,morrison","Morrison County, Minnesota ",27097,-1111.1
+1330,"minnesota,mower","Mower County, Minnesota ",27099,-1111.1
+1331,"minnesota,murray","Murray County, Minnesota ",27101,-1111.1
+1332,"minnesota,nicollet","Nicollet County, Minnesota ",27103,-1111.1
+1333,"minnesota,nobles","Nobles County, Minnesota ",27105,-1111.1
+1334,"minnesota,norman","Norman County, Minnesota ",27107,-1111.1
+1335,"minnesota,olmsted","Olmsted County, Minnesota ",27109,-1111.1
+1336,"minnesota,otter tail","Otter Tail County, Minnesota ",27111,-1111.1
+1337,"minnesota,pennington","Pennington County, Minnesota ",27113,-1111.1
+1338,"minnesota,pine","Pine County, Minnesota ",27115,-1111.1
+1339,"minnesota,pipestone","Pipestone County, Minnesota ",27117,-1111.1
+1340,"minnesota,polk","Polk County, Minnesota ",27119,-1111.1
+1341,"minnesota,pope","Pope County, Minnesota ",27121,-1111.1
+1342,"minnesota,ramsey","Ramsey County, Minnesota ",27123,-1111.1
+1343,"minnesota,red lake","Red Lake County, Minnesota ",27125,-1111.1
+1344,"minnesota,redwood","Redwood County, Minnesota ",27127,-1111.1
+1345,"minnesota,renville","Renville County, Minnesota ",27129,-1111.1
+1346,"minnesota,rice","Rice County, Minnesota ",27131,-1111.1
+1347,"minnesota,rock","Rock County, Minnesota ",27133,-1111.1
+1348,"minnesota,roseau","Roseau County, Minnesota ",27135,-1111.1
+1352,"minnesota,st louis","St. Louis County, Minnesota ",27137,-1111.1
+1349,"minnesota,scott","Scott County, Minnesota ",27139,-1111.1
+1350,"minnesota,sherburne","Sherburne County, Minnesota ",27141,-1111.1
+1351,"minnesota,sibley","Sibley County, Minnesota ",27143,-1111.1
+1353,"minnesota,stearns","Stearns County, Minnesota ",27145,-1111.1
+1354,"minnesota,steele","Steele County, Minnesota ",27147,-1111.1
+1355,"minnesota,stevens","Stevens County, Minnesota ",27149,-1111.1
+1356,"minnesota,swift","Swift County, Minnesota ",27151,-1111.1
+1357,"minnesota,todd","Todd County, Minnesota ",27153,-1111.1
+1358,"minnesota,traverse","Traverse County, Minnesota ",27155,-1111.1
+1359,"minnesota,wabasha","Wabasha County, Minnesota ",27157,-1111.1
+1360,"minnesota,wadena","Wadena County, Minnesota ",27159,-1111.1
+1361,"minnesota,waseca","Waseca County, Minnesota ",27161,-1111.1
+1362,"minnesota,washington","Washington County, Minnesota ",27163,-1111.1
+1363,"minnesota,watonwan","Watonwan County, Minnesota ",27165,-1111.1
+1364,"minnesota,wilkin","Wilkin County, Minnesota ",27167,-1111.1
+1365,"minnesota,winona","Winona County, Minnesota ",27169,-1111.1
+1366,"minnesota,wright","Wright County, Minnesota ",27171,-1111.1
+1367,"minnesota,yellow medicine","Yellow Medicine County, Minnesota ",27173,-1111.1
+1368,"mississippi,adams","Adams County, Mississippi ",28001,69.9
+1369,"mississippi,alcorn","Alcorn County, Mississippi ",28003,72.5
+1370,"mississippi,amite","Amite County, Mississippi ",28005,64.4
+1371,"mississippi,attala","Attala County, Mississippi ",28007,59.3
+1372,"mississippi,benton","Benton County, Mississippi ",28009,69.2
+1373,"mississippi,bolivar","Bolivar County, Mississippi ",28011,72
+1374,"mississippi,calhoun","Calhoun County, Mississippi ",28013,80.6
+1375,"mississippi,carroll","Carroll County, Mississippi ",28015,82.5
+1376,"mississippi,chickasaw","Chickasaw County, Mississippi ",28017,84.5
+1377,"mississippi,choctaw","Choctaw County, Mississippi ",28019,60.8
+1378,"mississippi,claiborne","Claiborne County, Mississippi ",28021,81.9
+1379,"mississippi,clarke","Clarke County, Mississippi ",28023,76.7
+1380,"mississippi,clay","Clay County, Mississippi ",28025,71.5
+1381,"mississippi,coahoma","Coahoma County, Mississippi ",28027,83.1
+1382,"mississippi,copiah","Copiah County, Mississippi ",28029,83.3
+1383,"mississippi,covington","Covington County, Mississippi ",28031,85.2
+1384,"mississippi,de soto","DeSoto County, Mississippi ",28033,75.7
+1385,"mississippi,forrest","Forrest County, Mississippi ",28035,83.8
+1386,"mississippi,franklin","Franklin County, Mississippi ",28037,52.8
+1387,"mississippi,george","George County, Mississippi ",28039,68.4
+1388,"mississippi,greene","Greene County, Mississippi ",28041,52.2
+1389,"mississippi,grenada","Grenada County, Mississippi ",28043,88.2
+1390,"mississippi,hancock","Hancock County, Mississippi ",28045,71.7
+1391,"mississippi,harrison","Harrison County, Mississippi ",28047,90.5
+1392,"mississippi,hinds","Hinds County, Mississippi ",28049,73.9
+1393,"mississippi,holmes","Holmes County, Mississippi ",28051,87.1
+1394,"mississippi,humphreys","Humphreys County, Mississippi ",28053,61.6
+1395,"mississippi,issaquena","Issaquena County, Mississippi ",28055,-1111.1
+1396,"mississippi,itawamba","Itawamba County, Mississippi ",28057,94.5
+1397,"mississippi,jackson","Jackson County, Mississippi ",28059,73.4
+1398,"mississippi,jasper","Jasper County, Mississippi ",28061,77.9
+1399,"mississippi,jefferson","Jefferson County, Mississippi ",28063,78.7
+1400,"mississippi,jefferson davis","Jefferson Davis County, Mississippi ",28065,70.9
+1401,"mississippi,jones","Jones County, Mississippi ",28067,67.2
+1402,"mississippi,kemper","Kemper County, Mississippi ",28069,63.8
+1403,"mississippi,lafayette","Lafayette County, Mississippi ",28071,63.8
+1404,"mississippi,lamar","Lamar County, Mississippi ",28073,58.1
+1405,"mississippi,lauderdale","Lauderdale County, Mississippi ",28075,71.2
+1406,"mississippi,lawrence","Lawrence County, Mississippi ",28077,99.9
+1407,"mississippi,leake","Leake County, Mississippi ",28079,83.5
+1408,"mississippi,lee","Lee County, Mississippi ",28081,93
+1409,"mississippi,leflore","Leflore County, Mississippi ",28083,77.5
+1410,"mississippi,lincoln","Lincoln County, Mississippi ",28085,70.7
+1411,"mississippi,lowndes","Lowndes County, Mississippi ",28087,68.1
+1412,"mississippi,madison","Madison County, Mississippi ",28089,67.2
+1413,"mississippi,marion","Marion County, Mississippi ",28091,81.3
+1414,"mississippi,marshall","Marshall County, Mississippi ",28093,81.2
+1415,"mississippi,monroe","Monroe County, Mississippi ",28095,71.9
+1416,"mississippi,montgomery","Montgomery County, Mississippi ",28097,59.4
+1417,"mississippi,neshoba","Neshoba County, Mississippi ",28099,61.5
+1418,"mississippi,newton","Newton County, Mississippi ",28101,65.2
+1419,"mississippi,noxubee","Noxubee County, Mississippi ",28103,57.2
+1420,"mississippi,oktibbeha","Oktibbeha County, Mississippi ",28105,47.7
+1421,"mississippi,panola","Panola County, Mississippi ",28107,81.8
+1422,"mississippi,pearl river","Pearl River County, Mississippi ",28109,84.9
+1423,"mississippi,perry","Perry County, Mississippi ",28111,78.5
+1424,"mississippi,pike","Pike County, Mississippi ",28113,75.6
+1425,"mississippi,pontotoc","Pontotoc County, Mississippi ",28115,74
+1426,"mississippi,prentiss","Prentiss County, Mississippi ",28117,81.5
+1427,"mississippi,quitman","Quitman County, Mississippi ",28119,67
+1428,"mississippi,rankin","Rankin County, Mississippi ",28121,74.9
+1429,"mississippi,scott","Scott County, Mississippi ",28123,85.3
+1430,"mississippi,sharkey","Sharkey County, Mississippi ",28125,59.4
+1431,"mississippi,simpson","Simpson County, Mississippi ",28127,97.1
+1432,"mississippi,smith","Smith County, Mississippi ",28129,59.1
+1433,"mississippi,stone","Stone County, Mississippi ",28131,79
+1434,"mississippi,sunflower","Sunflower County, Mississippi ",28133,68.6
+1435,"mississippi,tallahatchie","Tallahatchie County, Mississippi ",28135,84.9
+1436,"mississippi,tate","Tate County, Mississippi ",28137,90.1
+1437,"mississippi,tippah","Tippah County, Mississippi ",28139,74.5
+1438,"mississippi,tishomingo","Tishomingo County, Mississippi ",28141,82.2
+1439,"mississippi,tunica","Tunica County, Mississippi ",28143,74.2
+1440,"mississippi,union","Union County, Mississippi ",28145,70.8
+1441,"mississippi,walthall","Walthall County, Mississippi ",28147,47.9
+1442,"mississippi,warren","Warren County, Mississippi ",28149,74.8
+1443,"mississippi,washington","Washington County, Mississippi ",28151,80.1
+1444,"mississippi,wayne","Wayne County, Mississippi ",28153,58.3
+1445,"mississippi,webster","Webster County, Mississippi ",28155,91.8
+1446,"mississippi,wilkinson","Wilkinson County, Mississippi ",28157,73.4
+1447,"mississippi,winston","Winston County, Mississippi ",28159,78.7
+1448,"mississippi,yalobusha","Yalobusha County, Mississippi ",28161,114.8
+1449,"mississippi,yazoo","Yazoo County, Mississippi ",28163,94.2
+1450,"missouri,adair","Adair County, Missouri ",29001,63.4
+1451,"missouri,andrew","Andrew County, Missouri ",29003,63
+1452,"missouri,atchison","Atchison County, Missouri ",29005,58.9
+1453,"missouri,audrain","Audrain County, Missouri ",29007,87.5
+1454,"missouri,barry","Barry County, Missouri ",29009,75.8
+1455,"missouri,barton","Barton County, Missouri ",29011,69.1
+1456,"missouri,bates","Bates County, Missouri ",29013,79.6
+1457,"missouri,benton","Benton County, Missouri ",29015,89.8
+1458,"missouri,bollinger","Bollinger County, Missouri ",29017,82.9
+1459,"missouri,boone","Boone County, Missouri ",29019,61.9
+1460,"missouri,buchanan","Buchanan County, Missouri ",29021,88.1
+1461,"missouri,butler","Butler County, Missouri ",29023,97.2
+1462,"missouri,caldwell","Caldwell County, Missouri ",29025,86.9
+1463,"missouri,callaway","Callaway County, Missouri ",29027,78.6
+1464,"missouri,camden","Camden County, Missouri ",29029,68.3
+1465,"missouri,cape girardeau","Cape Girardeau County, Missouri ",29031,67.7
+1466,"missouri,carroll","Carroll County, Missouri ",29033,83.8
+1467,"missouri,carter","Carter County, Missouri ",29035,113.9
+1468,"missouri,cass","Cass County, Missouri ",29037,73.3
+1469,"missouri,cedar","Cedar County, Missouri ",29039,82.8
+1470,"missouri,chariton","Chariton County, Missouri ",29041,55.2
+1471,"missouri,christian","Christian County, Missouri ",29043,59.3
+1472,"missouri,clark","Clark County, Missouri ",29045,89.5
+1473,"missouri,clay","Clay County, Missouri ",29047,78
+1474,"missouri,clinton","Clinton County, Missouri ",29049,80.3
+1475,"missouri,cole","Cole County, Missouri ",29051,64.9
+1476,"missouri,cooper","Cooper County, Missouri ",29053,58.1
+1477,"missouri,crawford","Crawford County, Missouri ",29055,99.5
+1478,"missouri,dade","Dade County, Missouri ",29057,79
+1479,"missouri,dallas","Dallas County, Missouri ",29059,67.8
+1480,"missouri,daviess","Daviess County, Missouri ",29061,63.2
+1481,"missouri,de kalb","DeKalb County, Missouri ",29063,72
+1482,"missouri,dent","Dent County, Missouri ",29065,66.1
+1483,"missouri,douglas","Douglas County, Missouri ",29067,44.1
+1484,"missouri,dunklin","Dunklin County, Missouri ",29069,105.1
+1485,"missouri,franklin","Franklin County, Missouri ",29071,79.8
+1486,"missouri,gasconade","Gasconade County, Missouri ",29073,57.4
+1487,"missouri,gentry","Gentry County, Missouri ",29075,49.7
+1488,"missouri,greene","Greene County, Missouri ",29077,64.5
+1489,"missouri,grundy","Grundy County, Missouri ",29079,64.6
+1490,"missouri,harrison","Harrison County, Missouri ",29081,81.3
+1491,"missouri,henry","Henry County, Missouri ",29083,100.4
+1492,"missouri,hickory","Hickory County, Missouri ",29085,70.6
+1493,"missouri,holt","Holt County, Missouri ",29087,67
+1494,"missouri,howard","Howard County, Missouri ",29089,60.4
+1495,"missouri,howell","Howell County, Missouri ",29091,77.4
+1496,"missouri,iron","Iron County, Missouri ",29093,107.9
+1497,"missouri,jackson","Jackson County, Missouri ",29095,73.1
+1498,"missouri,jasper","Jasper County, Missouri ",29097,81
+1499,"missouri,jefferson","Jefferson County, Missouri ",29099,92.3
+1500,"missouri,johnson","Johnson County, Missouri ",29101,67.3
+1501,"missouri,knox","Knox County, Missouri ",29103,84.8
+1502,"missouri,laclede","Laclede County, Missouri ",29105,81
+1503,"missouri,lafayette","Lafayette County, Missouri ",29107,76.9
+1504,"missouri,lawrence","Lawrence County, Missouri ",29109,65.7
+1505,"missouri,lewis","Lewis County, Missouri ",29111,86.3
+1506,"missouri,lincoln","Lincoln County, Missouri ",29113,92.4
+1507,"missouri,linn","Linn County, Missouri ",29115,83
+1508,"missouri,livingston","Livingston County, Missouri ",29117,76.5
+1513,"missouri,mcdonald","McDonald County, Missouri ",29119,79.7
+1509,"missouri,macon","Macon County, Missouri ",29121,52.4
+1510,"missouri,madison","Madison County, Missouri ",29123,114.7
+1511,"missouri,maries","Maries County, Missouri ",29125,70.2
+1512,"missouri,marion","Marion County, Missouri ",29127,89.3
+1514,"missouri,mercer","Mercer County, Missouri ",29129,101.7
+1515,"missouri,miller","Miller County, Missouri ",29131,86.6
+1516,"missouri,mississippi","Mississippi County, Missouri ",29133,100.9
+1517,"missouri,moniteau","Moniteau County, Missouri ",29135,60
+1518,"missouri,monroe","Monroe County, Missouri ",29137,70.8
+1519,"missouri,montgomery","Montgomery County, Missouri ",29139,79.4
+1520,"missouri,morgan","Morgan County, Missouri ",29141,95.6
+1521,"missouri,new madrid","New Madrid County, Missouri ",29143,116.4
+1522,"missouri,newton","Newton County, Missouri ",29145,68.1
+1523,"missouri,nodaway","Nodaway County, Missouri ",29147,71.9
+1524,"missouri,oregon","Oregon County, Missouri ",29149,68.3
+1525,"missouri,osage","Osage County, Missouri ",29151,50.1
+1526,"missouri,ozark","Ozark County, Missouri ",29153,71.1
+1527,"missouri,pemiscot","Pemiscot County, Missouri ",29155,86.8
+1528,"missouri,perry","Perry County, Missouri ",29157,70.7
+1529,"missouri,pettis","Pettis County, Missouri ",29159,72.1
+1530,"missouri,phelps","Phelps County, Missouri ",29161,76.1
+1531,"missouri,pike","Pike County, Missouri ",29163,94.1
+1532,"missouri,platte","Platte County, Missouri ",29165,61.8
+1533,"missouri,polk","Polk County, Missouri ",29167,65.2
+1534,"missouri,pulaski","Pulaski County, Missouri ",29169,98.2
+1535,"missouri,putnam","Putnam County, Missouri ",29171,87.4
+1536,"missouri,ralls","Ralls County, Missouri ",29173,83.8
+1537,"missouri,randolph","Randolph County, Missouri ",29175,80.7
+1538,"missouri,ray","Ray County, Missouri ",29177,89.2
+1539,"missouri,reynolds","Reynolds County, Missouri ",29179,72.6
+1540,"missouri,ripley","Ripley County, Missouri ",29181,102.7
+1547,"missouri,st charles","St. Charles County, Missouri ",29183,72.3
+1548,"missouri,st clair","St. Clair County, Missouri ",29185,66.7
+1549,"missouri,st francois","St. Francois County, Missouri ",29187,107.1
+1550,"missouri,st louis","St. Louis County, Missouri ",29189,65
+1551,"missouri,st louis city","St. Louis City, Missouri ",29510,91.4
+1552,"missouri,ste genevieve","ste genevieve, Missouri",29190,-1111.1
+1541,"missouri,saline","Saline County, Missouri ",29195,81.3
+1542,"missouri,schuyler","Schuyler County, Missouri ",29197,56.3
+1543,"missouri,scotland","Scotland County, Missouri ",29199,57.2
+1544,"missouri,scott","Scott County, Missouri ",29201,97.8
+1545,"missouri,shannon","Shannon County, Missouri ",29203,65.5
+1546,"missouri,shelby","Shelby County, Missouri ",29205,77
+1553,"missouri,stoddard","Stoddard County, Missouri ",29207,95.9
+1554,"missouri,stone","Stone County, Missouri ",29209,73.3
+1555,"missouri,sullivan","Sullivan County, Missouri ",29211,85.1
+1556,"missouri,taney","Taney County, Missouri ",29213,74.4
+1557,"missouri,texas","Texas County, Missouri ",29215,72.4
+1558,"missouri,vernon","Vernon County, Missouri ",29217,77.4
+1559,"missouri,warren","Warren County, Missouri ",29219,81.3
+1560,"missouri,washington","Washington County, Missouri ",29221,102.9
+1561,"missouri,wayne","Wayne County, Missouri ",29223,100.6
+1562,"missouri,webster","Webster County, Missouri ",29225,61.7
+1563,"missouri,worth","Worth County, Missouri ",29227,-1111.1
+1564,"missouri,wright","Wright County, Missouri ",29229,77.3
+1565,"montana,beaverhead","Beaverhead County, Montana ",30001,50.8
+1566,"montana,big horn","Big Horn County, Montana ",30003,35.2
+1567,"montana,blaine","Blaine County, Montana ",30005,63.9
+1568,"montana,broadwater","Broadwater County, Montana ",30007,52.3
+1569,"montana,carbon","Carbon County, Montana ",30009,36.1
+1570,"montana,carter","Carter County, Montana ",30011,-1111.1
+1571,"montana,cascade","Cascade County, Montana ",30013,65.4
+1572,"montana,chouteau","Chouteau County, Montana ",30015,63.1
+1573,"montana,custer","Custer County, Montana ",30017,74.3
+1574,"montana,daniels","Daniels County, Montana ",30019,-1111.1
+1575,"montana,dawson","Dawson County, Montana ",30021,82.2
+1576,"montana,deer lodge","Deer Lodge County, Montana ",30023,59.9
+1577,"montana,fallon","Fallon County, Montana ",30025,-1111.1
+1578,"montana,fergus","Fergus County, Montana ",30027,57.7
+1579,"montana,flathead","Flathead County, Montana ",30029,57.4
+1580,"montana,gallatin","Gallatin County, Montana ",30031,35.7
+1581,"montana,garfield","Garfield County, Montana ",30033,-1111.1
+1582,"montana,glacier","Glacier County, Montana ",30035,83.7
+1583,"montana,golden valley","Golden Valley County, Montana ",30037,-1111.1
+1584,"montana,granite","Granite County, Montana ",30039,-1111.1
+1585,"montana,hill","Hill County, Montana ",30041,55.7
+1586,"montana,jefferson","Jefferson County, Montana ",30043,59.9
+1587,"montana,judith basin","Judith Basin County, Montana ",30045,-1111.1
+1588,"montana,lake","Lake County, Montana ",30047,54.4
+1589,"montana,lewis and clark","Lewis and Clark County, Montana ",30049,58.4
+1590,"montana,liberty","Liberty County, Montana ",30051,-1111.1
+1591,"montana,lincoln","Lincoln County, Montana ",30053,68.9
+1593,"montana,mccone","McCone County, Montana ",30055,-1111.1
+1592,"montana,madison","Madison County, Montana ",30057,56.5
+1594,"montana,meagher","Meagher County, Montana ",30059,-1111.1
+1595,"montana,mineral","Mineral County, Montana ",30061,61.5
+1596,"montana,missoula","Missoula County, Montana ",30063,57.7
+1597,"montana,musselshell","Musselshell County, Montana ",30065,73.2
+1598,"montana,park","Park County, Montana ",30067,41.5
+1599,"montana,petroleum","Petroleum County, Montana ",30069,-1111.1
+1600,"montana,phillips","Phillips County, Montana ",30071,54.2
+1601,"montana,pondera","Pondera County, Montana ",30073,68.4
+1602,"montana,powder river","Powder River County, Montana ",30075,-1111.1
+1603,"montana,powell","Powell County, Montana ",30077,92.3
+1604,"montana,prairie","Prairie County, Montana ",30079,-1111.1
+1605,"montana,ravalli","Ravalli County, Montana ",30081,47
+1606,"montana,richland","Richland County, Montana ",30083,75
+1607,"montana,roosevelt","Roosevelt County, Montana ",30085,66.3
+1608,"montana,rosebud","Rosebud County, Montana ",30087,60.7
+1609,"montana,sanders","Sanders County, Montana ",30089,64.7
+1610,"montana,sheridan","Sheridan County, Montana ",30091,59.8
+1611,"montana,silver bow","Silver Bow County, Montana ",30093,56.5
+1612,"montana,stillwater","Stillwater County, Montana ",30095,53.1
+1613,"montana,sweet grass","Sweet Grass County, Montana ",30097,69.3
+1614,"montana,teton","Teton County, Montana ",30099,50.4
+1615,"montana,toole","Toole County, Montana ",30101,52.2
+1616,"montana,treasure","Treasure County, Montana ",30103,-1111.1
+1617,"montana,valley","Valley County, Montana ",30105,57.7
+1618,"montana,wheatland","Wheatland County, Montana ",30107,-1111.1
+1619,"montana,wibaux","Wibaux County, Montana ",30109,-1111.1
+1620,"montana,yellowstone","Yellowstone County, Montana ",30111,59.6
+1621,"montana,yellowstone national","yellowstone national, montana",30112,-1111.1
+1622,"nebraska,adams","Adams County, Nebraska ",31001,60.9
+1623,"nebraska,antelope","Antelope County, Nebraska ",31003,44.3
+1624,"nebraska,arthur","Arthur County, Nebraska ",31005,-1111.1
+1625,"nebraska,banner","Banner County, Nebraska ",31007,-1111.1
+1626,"nebraska,blaine","Blaine County, Nebraska ",31009,-1111.1
+1627,"nebraska,boone","Boone County, Nebraska ",31011,44.4
+1628,"nebraska,box butte","Box Butte County, Nebraska ",31013,43
+1629,"nebraska,boyd","Boyd County, Nebraska ",31015,88.9
+1630,"nebraska,brown","Brown County, Nebraska ",31017,-1111.1
+1631,"nebraska,buffalo","Buffalo County, Nebraska ",31019,51.3
+1632,"nebraska,burt","Burt County, Nebraska ",31021,68.2
+1633,"nebraska,butler","Butler County, Nebraska ",31023,50.2
+1634,"nebraska,cass","Cass County, Nebraska ",31025,60
+1635,"nebraska,cedar","Cedar County, Nebraska ",31027,36
+1636,"nebraska,chase","Chase County, Nebraska ",31029,68.2
+1637,"nebraska,cherry","Cherry County, Nebraska ",31031,37.6
+1638,"nebraska,cheyenne","Cheyenne County, Nebraska ",31033,54.7
+1639,"nebraska,clay","Clay County, Nebraska ",31035,55.2
+1640,"nebraska,colfax","Colfax County, Nebraska ",31037,40.9
+1641,"nebraska,cuming","Cuming County, Nebraska ",31039,47
+1642,"nebraska,custer","Custer County, Nebraska ",31041,50.5
+1643,"nebraska,dakota","Dakota County, Nebraska ",31043,66.3
+1644,"nebraska,dawes","Dawes County, Nebraska ",31045,44.9
+1645,"nebraska,dawson","Dawson County, Nebraska ",31047,52.1
+1646,"nebraska,deuel","Deuel County, Nebraska ",31049,-1111.1
+1647,"nebraska,dixon","Dixon County, Nebraska ",31051,61.6
+1648,"nebraska,dodge","Dodge County, Nebraska ",31053,69
+1649,"nebraska,douglas","Douglas County, Nebraska ",31055,69.6
+1650,"nebraska,dundy","Dundy County, Nebraska ",31057,-1111.1
+1651,"nebraska,fillmore","Fillmore County, Nebraska ",31059,61.2
+1652,"nebraska,franklin","Franklin County, Nebraska ",31061,-1111.1
+1653,"nebraska,frontier","Frontier County, Nebraska ",31063,-1111.1
+1654,"nebraska,furnas","Furnas County, Nebraska ",31065,61.8
+1655,"nebraska,gage","Gage County, Nebraska ",31067,63.5
+1656,"nebraska,garden","Garden County, Nebraska ",31069,-1111.1
+1657,"nebraska,garfield","Garfield County, Nebraska ",31071,-1111.1
+1658,"nebraska,gosper","Gosper County, Nebraska ",31073,-1111.1
+1659,"nebraska,grant","Grant County, Nebraska ",31075,-1111.1
+1660,"nebraska,greeley","Greeley County, Nebraska ",31077,-1111.1
+1661,"nebraska,hall","Hall County, Nebraska ",31079,58.5
+1662,"nebraska,hamilton","Hamilton County, Nebraska ",31081,57.4
+1663,"nebraska,harlan","Harlan County, Nebraska ",31083,-1111.1
+1664,"nebraska,hayes","Hayes County, Nebraska ",31085,-1111.1
+1665,"nebraska,hitchcock","Hitchcock County, Nebraska ",31087,-1111.1
+1666,"nebraska,holt","Holt County, Nebraska ",31089,44
+1667,"nebraska,hooker","Hooker County, Nebraska ",31091,-1111.1
+1668,"nebraska,howard","Howard County, Nebraska ",31093,57.2
+1669,"nebraska,jefferson","Jefferson County, Nebraska ",31095,57.7
+1670,"nebraska,johnson","Johnson County, Nebraska ",31097,85.7
+1671,"nebraska,kearney","Kearney County, Nebraska ",31099,61.2
+1672,"nebraska,keith","Keith County, Nebraska ",31101,52.2
+1673,"nebraska,keya paha","Keya Paha County, Nebraska ",31103,-1111.1
+1674,"nebraska,kimball","Kimball County, Nebraska ",31105,49.9
+1675,"nebraska,knox","Knox County, Nebraska ",31107,56.5
+1676,"nebraska,lancaster","Lancaster County, Nebraska ",31109,58.2
+1677,"nebraska,lincoln","Lincoln County, Nebraska ",31111,64.4
+1678,"nebraska,logan","Logan County, Nebraska ",31113,-1111.1
+1679,"nebraska,loup","Loup County, Nebraska ",31115,-1111.1
+1681,"nebraska,mcpherson","McPherson County, Nebraska ",31117,-1111.1
+1680,"nebraska,madison","Madison County, Nebraska ",31119,60.5
+1682,"nebraska,merrick","Merrick County, Nebraska ",31121,74.2
+1683,"nebraska,morrill","Morrill County, Nebraska ",31123,72.9
+1684,"nebraska,nance","Nance County, Nebraska ",31125,53.4
+1685,"nebraska,nemaha","Nemaha County, Nebraska ",31127,70.3
+1686,"nebraska,nuckolls","Nuckolls County, Nebraska ",31129,60.2
+1687,"nebraska,otoe","Otoe County, Nebraska ",31131,61.6
+1688,"nebraska,pawnee","Pawnee County, Nebraska ",31133,80.9
+1689,"nebraska,perkins","Perkins County, Nebraska ",31135,-1111.1
+1690,"nebraska,phelps","Phelps County, Nebraska ",31137,47.4
+1691,"nebraska,pierce","Pierce County, Nebraska ",31139,60.6
+1692,"nebraska,platte","Platte County, Nebraska ",31141,54.5
+1693,"nebraska,polk","Polk County, Nebraska ",31143,81.7
+1694,"nebraska,red willow","Red Willow County, Nebraska ",31145,59.4
+1695,"nebraska,richardson","Richardson County, Nebraska ",31147,70.7
+1696,"nebraska,rock","Rock County, Nebraska ",31149,-1111.1
+1697,"nebraska,saline","Saline County, Nebraska ",31151,68.9
+1698,"nebraska,sarpy","Sarpy County, Nebraska ",31153,65.5
+1699,"nebraska,saunders","Saunders County, Nebraska ",31155,65.4
+1700,"nebraska,scotts bluff","Scotts Bluff County, Nebraska ",31157,44.8
+1701,"nebraska,seward","Seward County, Nebraska ",31159,40.9
+1702,"nebraska,sheridan","Sheridan County, Nebraska ",31161,45.5
+1703,"nebraska,sherman","Sherman County, Nebraska ",31163,-1111.1
+1704,"nebraska,sioux","Sioux County, Nebraska ",31165,-1111.1
+1705,"nebraska,stanton","Stanton County, Nebraska ",31167,-1111.1
+1706,"nebraska,thayer","Thayer County, Nebraska ",31169,59.8
+1707,"nebraska,thomas","Thomas County, Nebraska ",31171,-1111.1
+1708,"nebraska,thurston","Thurston County, Nebraska ",31173,57.2
+1709,"nebraska,valley","Valley County, Nebraska ",31175,-1111.1
+1710,"nebraska,washington","Washington County, Nebraska ",31177,52.9
+1711,"nebraska,wayne","Wayne County, Nebraska ",31179,41.9
+1712,"nebraska,webster","Webster County, Nebraska ",31181,61.5
+1713,"nebraska,wheeler","Wheeler County, Nebraska ",31183,-1111.1
+1714,"nebraska,york","York County, Nebraska ",31185,38.9
+1715,"nevada,carson city","Carson City, Nevada ",32510,-1111.1
+1716,"nevada,churchill","Churchill County, Nevada ",32001,-1111.1
+1717,"nevada,clark","Clark County, Nevada ",32003,-1111.1
+1718,"nevada,douglas","Douglas County, Nevada ",32005,-1111.1
+1719,"nevada,elko","Elko County, Nevada ",32007,-1111.1
+1720,"nevada,esmeralda","Esmeralda County, Nevada ",32009,-1111.1
+1721,"nevada,eureka","Eureka County, Nevada ",32011,-1111.1
+1722,"nevada,humboldt","Humboldt County, Nevada ",32013,-1111.1
+1723,"nevada,lander","Lander County, Nevada ",32015,-1111.1
+1724,"nevada,lincoln","Lincoln County, Nevada ",32017,-1111.1
+1725,"nevada,lyon","Lyon County, Nevada ",32019,-1111.1
+1726,"nevada,mineral","Mineral County, Nevada ",32021,-1111.1
+1727,"nevada,nye","Nye County, Nevada ",32023,-1111.1
+1728,"nevada,pershing","Pershing County, Nevada ",32027,-1111.1
+1729,"nevada,storey","Storey County, Nevada ",32029,-1111.1
+1730,"nevada,washoe","Washoe County, Nevada ",32031,-1111.1
+1731,"nevada,white pine","White Pine County, Nevada ",32033,-1111.1
+1732,"new hampshire,belknap","Belknap County, New Hampshire ",33001,62.3
+1733,"new hampshire,carroll","Carroll County, New Hampshire ",33003,63.5
+1734,"new hampshire,cheshire","Cheshire County, New Hampshire ",33005,67.5
+1735,"new hampshire,coos","Coos County, New Hampshire ",33007,65.2
+1736,"new hampshire,grafton","Grafton County, New Hampshire ",33009,53.6
+1737,"new hampshire,hillsborough","Hillsborough County, New Hampshire ",33011,64.2
+1738,"new hampshire,merrimack","Merrimack County, New Hampshire ",33013,66.9
+1739,"new hampshire,rockingham","Rockingham County, New Hampshire ",33015,70.1
+1740,"new hampshire,strafford","Strafford County, New Hampshire ",33017,78
+1741,"new hampshire,sullivan","Sullivan County, New Hampshire ",33019,69.2
+1742,"new jersey,atlantic","Atlantic County, New Jersey ",34001,67.8
+1743,"new jersey,bergen","Bergen County, New Jersey ",34003,49.7
+1744,"new jersey,burlington","Burlington County, New Jersey ",34005,63.2
+1745,"new jersey,camden","Camden County, New Jersey ",34007,70.6
+1746,"new jersey,cape may","Cape May County, New Jersey ",34009,80.9
+1747,"new jersey,cumberland","Cumberland County, New Jersey ",34011,73.2
+1748,"new jersey,essex","Essex County, New Jersey ",34013,50.2
+1749,"new jersey,gloucester","Gloucester County, New Jersey ",34015,78.4
+1750,"new jersey,hudson","Hudson County, New Jersey ",34017,47.5
+1751,"new jersey,hunterdon","Hunterdon County, New Jersey ",34019,51.8
+1752,"new jersey,mercer","Mercer County, New Jersey ",34021,57.5
+1753,"new jersey,middlesex","Middlesex County, New Jersey ",34023,52.3
+1754,"new jersey,monmouth","Monmouth County, New Jersey ",34025,62.3
+1755,"new jersey,morris","Morris County, New Jersey ",34027,48
+1756,"new jersey,ocean","Ocean County, New Jersey ",34029,71.4
+1757,"new jersey,passaic","Passaic County, New Jersey ",34031,51.6
+1758,"new jersey,salem","Salem County, New Jersey ",34033,74
+1759,"new jersey,somerset","Somerset County, New Jersey ",34035,46.9
+1760,"new jersey,sussex","Sussex County, New Jersey ",34037,63.8
+1761,"new jersey,union","Union County, New Jersey ",34039,48.4
+1762,"new jersey,warren","Warren County, New Jersey ",34041,64.9
+1763,"new mexico,bernalillo","Bernalillo County, New Mexico ",35001,39.1
+1764,"new mexico,catron","Catron County, New Mexico ",35003,40.7
+1765,"new mexico,chaves","Chaves County, New Mexico ",35005,49.4
+1766,"new mexico,cibola","Cibola County, New Mexico ",35006,45.5
+1767,"new mexico,colfax","Colfax County, New Mexico ",35007,38.1
+1768,"new mexico,curry","Curry County, New Mexico ",35009,48.8
+1769,"new mexico,de baca","DeBaca County, New Mexico ",35011,-1111.1
+1770,"new mexico,dona ana","Dona Ana County, New Mexico ",35013,42.8
+1771,"new mexico,eddy","Eddy County, New Mexico ",35015,49.7
+1772,"new mexico,grant","Grant County, New Mexico ",35017,42.5
+1773,"new mexico,guadalupe","Guadalupe County, New Mexico ",35019,-1111.1
+1774,"new mexico,harding","Harding County, New Mexico ",35021,-1111.1
+1775,"new mexico,hidalgo","Hidalgo County, New Mexico ",35023,-1111.1
+1776,"new mexico,lea","Lea County, New Mexico ",35025,56.3
+1777,"new mexico,lincoln","Lincoln County, New Mexico ",35027,45.1
+1778,"new mexico,los alamos","Los Alamos County, New Mexico ",35028,25.9
+1779,"new mexico,luna","Luna County, New Mexico ",35029,52.1
+1780,"new mexico,mckinley","McKinley County, New Mexico ",35031,12.9
+1781,"new mexico,mora","Mora County, New Mexico ",35033,-1111.1
+1782,"new mexico,otero","Otero County, New Mexico ",35035,57
+1783,"new mexico,quay","Quay County, New Mexico ",35037,55.2
+1784,"new mexico,rio arriba","Rio Arriba County, New Mexico ",35039,34.6
+1785,"new mexico,roosevelt","Roosevelt County, New Mexico ",35041,53.4
+1786,"new mexico,san juan","Sandoval County, New Mexico ",35043,40.7
+1787,"new mexico,san miguel","San Juan County, New Mexico ",35045,43.5
+1788,"new mexico,sandoval","San Miguel County, New Mexico ",35047,37.2
+1789,"new mexico,santa fe","Santa Fe County, New Mexico ",35049,27.8
+1790,"new mexico,sierra","Sierra County, New Mexico ",35051,60
+1791,"new mexico,socorro","Socorro County, New Mexico ",35053,45.3
+1792,"new mexico,taos","Taos County, New Mexico ",35055,34.4
+1793,"new mexico,torrance","Torrance County, New Mexico ",35057,44.3
+1794,"new mexico,union","Union County, New Mexico ",35059,-1111.1
+1795,"new mexico,valencia","Valencia County, New Mexico ",35061,49.1
+1796,"new york,albany","Albany County, New York ",36001,69.8
+1797,"new york,allegany","Allegany County, New York ",36003,79.3
+1798,"new york,bronx","Bronx County, New York ",36005,49.4
+1799,"new york,broome","Broome County, New York ",36007,61.6
+1800,"new york,cattaraugus","Cattaraugus County, New York ",36009,74.1
+1801,"new york,cayuga","Cayuga County, New York ",36011,77.3
+1802,"new york,chautauqua","Chautauqua County, New York ",36013,65.8
+1803,"new york,chemung","Chemung County, New York ",36015,73.3
+1804,"new york,chenango","Chenango County, New York ",36017,72.2
+1805,"new york,clinton","Clinton County, New York ",36019,97.5
+1806,"new york,columbia","Columbia County, New York ",36021,79.8
+1807,"new york,cortland","Cortland County, New York ",36023,75.1
+1808,"new york,delaware","Delaware County, New York ",36025,67.8
+1809,"new york,dutchess","Dutchess County, New York ",36027,61.8
+1810,"new york,erie","Erie County, New York ",36029,75.2
+1811,"new york,essex","Essex County, New York ",36031,67.2
+1812,"new york,franklin","Franklin County, New York ",36033,78.9
+1813,"new york,fulton","Fulton County, New York ",36035,84.1
+1814,"new york,genesee","Genesee County, New York ",36037,76.3
+1815,"new york,greene","Greene County, New York ",36039,78.2
+1816,"new york,hamilton","Hamilton County, New York ",36041,69.9
+1817,"new york,herkimer","Herkimer County, New York ",36043,77.6
+1818,"new york,jefferson","Jefferson County, New York ",36045,80.8
+1819,"new york,kings","Kings County, New York ",36047,48.6
+1820,"new york,lewis","Lewis County, New York ",36049,66.4
+1821,"new york,livingston","Livingston County, New York ",36051,66.1
+1822,"new york,madison","Madison County, New York ",36053,79.5
+1823,"new york,monroe","Monroe County, New York ",36055,63.5
+1824,"new york,montgomery","Montgomery County, New York ",36057,74.6
+1825,"new york,nassau","Nassau County, New York ",36059,57.3
+1826,"new york,new york","New York County, New York ",36061,49.9
+1827,"new york,niagara","Niagara County, New York ",36063,81.1
+1828,"new york,oneida","Oneida County, New York ",36065,78.9
+1829,"new york,onondaga","Onondaga County, New York ",36067,76.6
+1830,"new york,ontario","Ontario County, New York ",36069,71.1
+1831,"new york,orange","Orange County, New York ",36071,67.8
+1832,"new york,orleans","Orleans County, New York ",36073,91.3
+1833,"new york,oswego","Oswego County, New York ",36075,94.9
+1834,"new york,otsego","Otsego County, New York ",36077,65.3
+1835,"new york,putnam","Putnam County, New York ",36079,66.1
+1836,"new york,queens","Queens County, New York ",36081,46.2
+1837,"new york,rensselaer","Rensselaer County, New York ",36083,84.2
+1838,"new york,richmond","Richmond County, New York ",36085,64.9
+1839,"new york,rockland","Rockland County, New York ",36087,48.4
+1845,"new york,st lawrence","St. Lawrence County, New York ",36089,77.4
+1840,"new york,saratoga","Saratoga County, New York ",36091,70.7
+1841,"new york,schenectady","Schenectady County, New York ",36093,65.7
+1842,"new york,schoharie","Schoharie County, New York ",36095,62.3
+1843,"new york,schuyler","Schuyler County, New York ",36097,73
+1844,"new york,seneca","Seneca County, New York ",36099,79.3
+1846,"new york,steuben","Steuben County, New York ",36101,79.2
+1847,"new york,suffolk","Suffolk County, New York ",36103,67.7
+1848,"new york,sullivan","Sullivan County, New York ",36105,70
+1849,"new york,tioga","Tioga County, New York ",36107,65.1
+1850,"new york,tompkins","Tompkins County, New York ",36109,52.9
+1851,"new york,ulster","Ulster County, New York ",36111,69.4
+1852,"new york,warren","Warren County, New York ",36113,76.2
+1853,"new york,washington","Washington County, New York ",36115,83.4
+1854,"new york,wayne","Wayne County, New York ",36117,72.1
+1855,"new york,westchester","Westchester County, New York ",36119,52
+1856,"new york,wyoming","Wyoming County, New York ",36121,70.6
+1857,"new york,yates","Yates County, New York ",36123,71
+1858,"north carolina,alamance","Alamance County, North Carolina ",37001,68.2
+1859,"north carolina,alexander","Alexander County, North Carolina ",37003,71.2
+1860,"north carolina,alleghany","Alleghany County, North Carolina ",37005,73.8
+1861,"north carolina,anson","Anson County, North Carolina ",37007,77.7
+1862,"north carolina,ashe","Ashe County, North Carolina ",37009,63.9
+1863,"north carolina,avery","Avery County, North Carolina ",37011,62.4
+1864,"north carolina,beaufort","Beaufort County, North Carolina ",37013,81
+1865,"north carolina,bertie","Bertie County, North Carolina ",37015,64.9
+1866,"north carolina,bladen","Bladen County, North Carolina ",37017,69.2
+1867,"north carolina,brunswick","Brunswick County, North Carolina ",37019,67.7
+1868,"north carolina,buncombe","Buncombe County, North Carolina ",37021,66.1
+1869,"north carolina,burke","Burke County, North Carolina ",37023,81.3
+1870,"north carolina,cabarrus","Cabarrus County, North Carolina ",37025,74.3
+1871,"north carolina,caldwell","Caldwell County, North Carolina ",37027,84.7
+1872,"north carolina,camden","Camden County, North Carolina ",37029,53.9
+1873,"north carolina,carteret","Carteret County, North Carolina ",37031,72
+1874,"north carolina,caswell","Caswell County, North Carolina ",37033,66.5
+1875,"north carolina,catawba","Catawba County, North Carolina ",37035,70.5
+1876,"north carolina,chatham","Chatham County, North Carolina ",37037,53.6
+1877,"north carolina,cherokee","Cherokee County, North Carolina ",37039,80.8
+1878,"north carolina,chowan","Chowan County, North Carolina ",37041,65.6
+1879,"north carolina,clay","Clay County, North Carolina ",37043,58.3
+1880,"north carolina,cleveland","Cleveland County, North Carolina ",37045,68.7
+1881,"north carolina,columbus","Columbus County, North Carolina ",37047,82
+1882,"north carolina,craven","Craven County, North Carolina ",37049,82.3
+1883,"north carolina,cumberland","Cumberland County, North Carolina ",37051,72.5
+1884,"north carolina,currituck:knotts","Currituck County, North Carolina ",37053,77.2
+1885,"north carolina,currituck:main","Cuttituck main, North Carolina",37054,-1111.1
+1886,"north carolina,currituck:spit","Currituck spit, North Carolina",37054.5,-1111.1
+1887,"north carolina,dare","Dare County, North Carolina ",37055,68.7
+1888,"north carolina,davidson","Davidson County, North Carolina ",37057,81.7
+1889,"north carolina,davie","Davie County, North Carolina ",37059,88.2
+1890,"north carolina,duplin","Duplin County, North Carolina ",37061,66.9
+1891,"north carolina,durham","Durham County, North Carolina ",37063,58.2
+1892,"north carolina,edgecombe","Edgecombe County, North Carolina ",37065,64.5
+1893,"north carolina,forsyth","Forsyth County, North Carolina ",37067,71.4
+1894,"north carolina,franklin","Franklin County, North Carolina ",37069,74.8
+1895,"north carolina,gaston","Gaston County, North Carolina ",37071,87.4
+1896,"north carolina,gates","Gates County, North Carolina ",37073,51
+1897,"north carolina,graham","Graham County, North Carolina ",37075,67.8
+1898,"north carolina,granville","Granville County, North Carolina ",37077,81.1
+1899,"north carolina,greene","Greene County, North Carolina ",37079,82.3
+1900,"north carolina,guilford","Guilford County, North Carolina ",37081,67.4
+1901,"north carolina,halifax","Halifax County, North Carolina ",37083,69.6
+1902,"north carolina,harnett","Harnett County, North Carolina ",37085,83.3
+1903,"north carolina,haywood","Haywood County, North Carolina ",37087,71
+1904,"north carolina,henderson","Henderson County, North Carolina ",37089,60
+1905,"north carolina,hertford","Hertford County, North Carolina ",37091,58.5
+1906,"north carolina,hoke","Hoke County, North Carolina ",37093,95.2
+1907,"north carolina,hyde","Hyde County, North Carolina ",37095,83.8
+1908,"north carolina,iredell","Iredell County, North Carolina ",37097,70.6
+1909,"north carolina,jackson","Jackson County, North Carolina ",37099,60.8
+1910,"north carolina,johnston","Johnston County, North Carolina ",37101,76.1
+1911,"north carolina,jones","Jones County, North Carolina ",37103,80
+1912,"north carolina,lee","Lee County, North Carolina ",37105,73.4
+1913,"north carolina,lenoir","Lenoir County, North Carolina ",37107,72.5
+1914,"north carolina,lincoln","Lincoln County, North Carolina ",37109,72.9
+1918,"north carolina,mcdowell","McDowell County, North Carolina ",37111,86.9
+1915,"north carolina,macon","Macon County, North Carolina ",37113,72.6
+1916,"north carolina,madison","Madison County, North Carolina ",37115,58.2
+1917,"north carolina,martin","Martin County, North Carolina ",37117,72.7
+1919,"north carolina,mecklenburg","Mecklenburg County, North Carolina ",37119,58
+1920,"north carolina,mitchell","Mitchell County, North Carolina ",37121,81.9
+1921,"north carolina,montgomery","Montgomery County, North Carolina ",37123,74.5
+1922,"north carolina,moore","Moore County, North Carolina ",37125,72.3
+1923,"north carolina,nash","Nash County, North Carolina ",37127,74.7
+1924,"north carolina,new hanover","New Hanover County, North Carolina ",37129,64.1
+1925,"north carolina,northampton","Northampton County, North Carolina ",37131,71.9
+1926,"north carolina,onslow","Onslow County, North Carolina ",37133,88.3
+1927,"north carolina,orange","Orange County, North Carolina ",37135,56.5
+1928,"north carolina,pamlico","Pamlico County, North Carolina ",37137,93.4
+1929,"north carolina,pasquotank","Pasquotank County, North Carolina ",37139,73.3
+1930,"north carolina,pender","Pender County, North Carolina ",37141,71.8
+1931,"north carolina,perquimans","Perquimans County, North Carolina ",37143,60.1
+1932,"north carolina,person","Person County, North Carolina ",37145,83
+1933,"north carolina,pitt","Pitt County, North Carolina ",37147,64.1
+1934,"north carolina,polk","Polk County, North Carolina ",37149,48.6
+1935,"north carolina,randolph","Randolph County, North Carolina ",37151,83.6
+1936,"north carolina,richmond","Richmond County, North Carolina ",37153,85.6
+1937,"north carolina,robeson","Robeson County, North Carolina ",37155,73.3
+1938,"north carolina,rockingham","Rockingham County, North Carolina ",37157,85.6
+1939,"north carolina,rowan","Rowan County, North Carolina ",37159,86.9
+1940,"north carolina,rutherford","Rutherford County, North Carolina ",37161,78.1
+1941,"north carolina,sampson","Sampson County, North Carolina ",37163,76.2
+1942,"north carolina,scotland","Scotland County, North Carolina ",37165,89.2
+1943,"north carolina,stanly","Stanly County, North Carolina ",37167,78.9
+1944,"north carolina,stokes","Stokes County, North Carolina ",37169,87.2
+1945,"north carolina,surry","Surry County, North Carolina ",37171,79.9
+1946,"north carolina,swain","Swain County, North Carolina ",37173,86.1
+1947,"north carolina,transylvania","Transylvania County, North Carolina ",37175,56.9
+1948,"north carolina,tyrrell","Tyrrell County, North Carolina ",37177,74.7
+1949,"north carolina,union","Union County, North Carolina ",37179,61
+1950,"north carolina,vance","Vance County, North Carolina ",37181,77.3
+1951,"north carolina,wake","Wake County, North Carolina ",37183,56
+1952,"north carolina,warren","Warren County, North Carolina ",37185,72.5
+1953,"north carolina,washington","Washington County, North Carolina ",37187,67.2
+1954,"north carolina,watauga","Watauga County, North Carolina ",37189,53.3
+1955,"north carolina,wayne","Wayne County, North Carolina ",37191,78
+1956,"north carolina,wilkes","Wilkes County, North Carolina ",37193,77.2
+1957,"north carolina,wilson","Wilson County, North Carolina ",37195,71.7
+1958,"north carolina,yadkin","Yadkin County, North Carolina ",37197,81.3
+1959,"north carolina,yancey","Yancey County, North Carolina ",37199,90.1
+1960,"north dakota,adams","Adams County, North Dakota ",38001,-1111.1
+1961,"north dakota,barnes","Barnes County, North Dakota ",38003,60
+1962,"north dakota,benson","Benson County, North Dakota ",38005,67.9
+1963,"north dakota,billings","Billings County, North Dakota ",38007,-1111.1
+1964,"north dakota,bottineau","Bottineau County, North Dakota ",38009,64.9
+1965,"north dakota,bowman","Bowman County, North Dakota ",38011,77.7
+1966,"north dakota,burke","Burke County, North Dakota ",38013,-1111.1
+1967,"north dakota,burleigh","Burleigh County, North Dakota ",38015,55.1
+1968,"north dakota,cass","Cass County, North Dakota ",38017,60.3
+1969,"north dakota,cavalier","Cavalier County, North Dakota ",38019,53.4
+1970,"north dakota,dickey","Dickey County, North Dakota ",38021,54.1
+1971,"north dakota,divide","Divide County, North Dakota ",38023,-1111.1
+1972,"north dakota,dunn","Dunn County, North Dakota ",38025,-1111.1
+1973,"north dakota,eddy","Eddy County, North Dakota ",38027,-1111.1
+1974,"north dakota,emmons","Emmons County, North Dakota ",38029,-1111.1
+1975,"north dakota,foster","Foster County, North Dakota ",38031,60.4
+1976,"north dakota,golden valley","Golden Valley County, North Dakota ",38033,-1111.1
+1977,"north dakota,grand forks","Grand Forks County, North Dakota ",38035,60.9
+1978,"north dakota,grant","Grant County, North Dakota ",38037,-1111.1
+1979,"north dakota,griggs","Griggs County, North Dakota ",38039,78
+1980,"north dakota,hettinger","Hettinger County, North Dakota ",38041,-1111.1
+1981,"north dakota,kidder","Kidder County, North Dakota ",38043,-1111.1
+1982,"north dakota,la moure","LaMoure County, North Dakota ",38045,-1111.1
+1983,"north dakota,logan","Logan County, North Dakota ",38047,-1111.1
+1984,"north dakota,mchenry","McHenry County, North Dakota ",38049,65.8
+1985,"north dakota,mcintosh","McIntosh County, North Dakota ",38051,-1111.1
+1986,"north dakota,mckenzie","McKenzie County, North Dakota ",38053,41.3
+1987,"north dakota,mclean","McLean County, North Dakota ",38055,65.9
+1988,"north dakota,mercer","Mercer County, North Dakota ",38057,60.3
+1989,"north dakota,morton","Morton County, North Dakota ",38059,65.7
+1990,"north dakota,mountrail","Mountrail County, North Dakota ",38061,68.4
+1991,"north dakota,nelson","Nelson County, North Dakota ",38063,59.6
+1992,"north dakota,oliver","Oliver County, North Dakota ",38065,-1111.1
+1993,"north dakota,pembina","Pembina County, North Dakota ",38067,63.6
+1994,"north dakota,pierce","Pierce County, North Dakota ",38069,56.6
+1995,"north dakota,ramsey","Ramsey County, North Dakota ",38071,73.6
+1996,"north dakota,ransom","Ransom County, North Dakota ",38073,57.4
+1997,"north dakota,renville","Renville County, North Dakota ",38075,-1111.1
+1998,"north dakota,richland","Richland County, North Dakota ",38077,48.1
+1999,"north dakota,rolette","Rolette County, North Dakota ",38079,98.3
+2000,"north dakota,sargent","Sargent County, North Dakota ",38081,91.4
+2001,"north dakota,sheridan","Sheridan County, North Dakota ",38083,-1111.1
+2002,"north dakota,sioux","Sioux County, North Dakota ",38085,-1111.1
+2003,"north dakota,slope","Slope County, North Dakota ",38087,-1111.1
+2004,"north dakota,stark","Stark County, North Dakota ",38089,51.9
+2005,"north dakota,steele","Steele County, North Dakota ",38091,-1111.1
+2006,"north dakota,stutsman","Stutsman County, North Dakota ",38093,53.8
+2007,"north dakota,towner","Towner County, North Dakota ",38095,-1111.1
+2008,"north dakota,traill","Traill County, North Dakota ",38097,66.8
+2009,"north dakota,walsh","Walsh County, North Dakota ",38099,57.4
+2010,"north dakota,ward","Ward County, North Dakota ",38101,63.1
+2011,"north dakota,wells","Wells County, North Dakota ",38103,49.8
+2012,"north dakota,williams","Williams County, North Dakota ",38105,56.6
+2013,"ohio,adams","Adams County, Ohio ",39001,91.3
+2014,"ohio,allen","Allen County, Ohio ",39003,70.8
+2015,"ohio,ashland","Ashland County, Ohio ",39005,61.5
+2016,"ohio,ashtabula","Ashtabula County, Ohio ",39007,77
+2017,"ohio,athens","Athens County, Ohio ",39009,73.9
+2018,"ohio,auglaize","Auglaize County, Ohio ",39011,60.4
+2019,"ohio,belmont","Belmont County, Ohio ",39013,61.1
+2020,"ohio,brown","Brown County, Ohio ",39015,107.8
+2021,"ohio,butler","Butler County, Ohio ",39017,73.9
+2022,"ohio,carroll","Carroll County, Ohio ",39019,76.6
+2023,"ohio,champaign","Champaign County, Ohio ",39021,69.6
+2024,"ohio,clark","Clark County, Ohio ",39023,74.5
+2025,"ohio,clermont","Clermont County, Ohio ",39025,83.8
+2026,"ohio,clinton","Clinton County, Ohio ",39027,84.5
+2027,"ohio,columbiana","Columbiana County, Ohio ",39029,68.7
+2028,"ohio,coshocton","Coshocton County, Ohio ",39031,70.3
+2029,"ohio,crawford","Crawford County, Ohio ",39033,72.7
+2030,"ohio,cuyahoga","Cuyahoga County, Ohio ",39035,66.7
+2031,"ohio,darke","Darke County, Ohio ",39037,64.3
+2032,"ohio,defiance","Defiance County, Ohio ",39039,67.6
+2033,"ohio,delaware","Delaware County, Ohio ",39041,58
+2034,"ohio,erie","Erie County, Ohio ",39043,63.9
+2035,"ohio,fairfield","Fairfield County, Ohio ",39045,70.9
+2036,"ohio,fayette","Fayette County, Ohio ",39047,89.6
+2037,"ohio,franklin","Franklin County, Ohio ",39049,69.2
+2038,"ohio,fulton","Fulton County, Ohio ",39051,49.9
+2039,"ohio,gallia","Gallia County, Ohio ",39053,82.3
+2040,"ohio,geauga","Geauga County, Ohio ",39055,49.1
+2041,"ohio,greene","Greene County, Ohio ",39057,58.4
+2042,"ohio,guernsey","Guernsey County, Ohio ",39059,78
+2043,"ohio,hamilton","Hamilton County, Ohio ",39061,75
+2044,"ohio,hancock","Hancock County, Ohio ",39063,59.4
+2045,"ohio,hardin","Hardin County, Ohio ",39065,76
+2046,"ohio,harrison","Harrison County, Ohio ",39067,68.1
+2047,"ohio,henry","Henry County, Ohio ",39069,56.4
+2048,"ohio,highland","Highland County, Ohio ",39071,75.9
+2049,"ohio,hocking","Hocking County, Ohio ",39073,72.3
+2050,"ohio,holmes","Holmes County, Ohio ",39075,43.1
+2051,"ohio,huron","Huron County, Ohio ",39077,75.1
+2052,"ohio,jackson","Jackson County, Ohio ",39079,91.7
+2053,"ohio,jefferson","Jefferson County, Ohio ",39081,83.1
+2054,"ohio,knox","Knox County, Ohio ",39083,69.9
+2055,"ohio,lake","Lake County, Ohio ",39085,71.3
+2056,"ohio,lawrence","Lawrence County, Ohio ",39087,79.1
+2057,"ohio,licking","Licking County, Ohio ",39089,75.2
+2058,"ohio,logan","Logan County, Ohio ",39091,72.3
+2059,"ohio,lorain","Lorain County, Ohio ",39093,69.8
+2060,"ohio,lucas","Lucas County, Ohio ",39095,62.5
+2061,"ohio,madison","Madison County, Ohio ",39097,77.8
+2062,"ohio,mahoning","Mahoning County, Ohio ",39099,66
+2063,"ohio,marion","Marion County, Ohio ",39101,80.2
+2064,"ohio,medina","Medina County, Ohio ",39103,61.6
+2065,"ohio,meigs","Meigs County, Ohio ",39105,73
+2066,"ohio,mercer","Mercer County, Ohio ",39107,54
+2067,"ohio,miami","Miami County, Ohio ",39109,68.6
+2068,"ohio,monroe","Monroe County, Ohio ",39111,56.9
+2069,"ohio,montgomery","Montgomery County, Ohio ",39113,74.5
+2070,"ohio,morgan","Morgan County, Ohio ",39115,73.5
+2071,"ohio,morrow","Morrow County, Ohio ",39117,85.8
+2072,"ohio,muskingum","Muskingum County, Ohio ",39119,80.1
+2073,"ohio,noble","Noble County, Ohio ",39121,47.3
+2074,"ohio,ottawa","Ottawa County, Ohio ",39123,66.8
+2075,"ohio,paulding","Paulding County, Ohio ",39125,88.5
+2076,"ohio,perry","Perry County, Ohio ",39127,78
+2077,"ohio,pickaway","Pickaway County, Ohio ",39129,77.4
+2078,"ohio,pike","Pike County, Ohio ",39131,90
+2079,"ohio,portage","Portage County, Ohio ",39133,68
+2080,"ohio,preble","Preble County, Ohio ",39135,74.4
+2081,"ohio,putnam","Putnam County, Ohio ",39137,44.6
+2082,"ohio,richland","Richland County, Ohio ",39139,69.2
+2083,"ohio,ross","Ross County, Ohio ",39141,97
+2084,"ohio,sandusky","Sandusky County, Ohio ",39143,70.3
+2085,"ohio,scioto","Scioto County, Ohio ",39145,87.9
+2086,"ohio,seneca","Seneca County, Ohio ",39147,70.9
+2087,"ohio,shelby","Shelby County, Ohio ",39149,60.1
+2088,"ohio,stark","Stark County, Ohio ",39151,66
+2089,"ohio,summit","Summit County, Ohio ",39153,65.6
+2090,"ohio,trumbull","Trumbull County, Ohio ",39155,78.2
+2091,"ohio,tuscarawas","Tuscarawas County, Ohio ",39157,61.2
+2092,"ohio,union","Union County, Ohio ",39159,67.5
+2093,"ohio,van wert","Van Wert County, Ohio ",39161,59.4
+2094,"ohio,vinton","Vinton County, Ohio ",39163,111.1
+2095,"ohio,warren","Warren County, Ohio ",39165,65.8
+2096,"ohio,washington","Washington County, Ohio ",39167,79.7
+2097,"ohio,wayne","Wayne County, Ohio ",39169,56.3
+2098,"ohio,williams","Williams County, Ohio ",39171,63.8
+2099,"ohio,wood","Wood County, Ohio ",39173,51.9
+2100,"ohio,wyandot","Wyandot County, Ohio ",39175,71.3
+2101,"oklahoma,adair","Adair County, Oklahoma ",40001,66.1
+2102,"oklahoma,alfalfa","Alfalfa County, Oklahoma ",40003,70.7
+2103,"oklahoma,atoka","Atoka County, Oklahoma ",40005,84.5
+2104,"oklahoma,beaver","Beaver County, Oklahoma ",40007,-1111.1
+2105,"oklahoma,beckham","Beckham County, Oklahoma ",40009,58.5
+2106,"oklahoma,blaine","Blaine County, Oklahoma ",40011,67
+2107,"oklahoma,bryan","Bryan County, Oklahoma ",40013,80
+2108,"oklahoma,caddo","Caddo County, Oklahoma ",40015,83
+2109,"oklahoma,canadian","Canadian County, Oklahoma ",40017,72.2
+2110,"oklahoma,carter","Carter County, Oklahoma ",40019,77.3
+2111,"oklahoma,cherokee","Cherokee County, Oklahoma ",40021,78.7
+2112,"oklahoma,choctaw","Choctaw County, Oklahoma ",40023,77.1
+2113,"oklahoma,cimarron","Cimarron County, Oklahoma ",40025,-1111.1
+2114,"oklahoma,cleveland","Cleveland County, Oklahoma ",40027,64.8
+2115,"oklahoma,coal","Coal County, Oklahoma ",40029,75.5
+2116,"oklahoma,comanche","Comanche County, Oklahoma ",40031,74.1
+2117,"oklahoma,cotton","Cotton County, Oklahoma ",40033,67.3
+2118,"oklahoma,craig","Craig County, Oklahoma ",40035,81.2
+2119,"oklahoma,creek","Creek County, Oklahoma ",40037,89.1
+2120,"oklahoma,custer","Custer County, Oklahoma ",40039,68.1
+2121,"oklahoma,delaware","Delaware County, Oklahoma ",40041,70.9
+2122,"oklahoma,dewey","Dewey County, Oklahoma ",40043,46.1
+2123,"oklahoma,ellis","Ellis County, Oklahoma ",40045,58.8
+2124,"oklahoma,garfield","Garfield County, Oklahoma ",40047,62.2
+2125,"oklahoma,garvin","Garvin County, Oklahoma ",40049,80
+2126,"oklahoma,grady","Grady County, Oklahoma ",40051,66.9
+2127,"oklahoma,grant","Grant County, Oklahoma ",40053,57.4
+2128,"oklahoma,greer","Greer County, Oklahoma ",40055,92.6
+2129,"oklahoma,harmon","Harmon County, Oklahoma ",40057,79.6
+2130,"oklahoma,harper","Harper County, Oklahoma ",40059,64
+2131,"oklahoma,haskell","Haskell County, Oklahoma ",40061,70.2
+2132,"oklahoma,hughes","Hughes County, Oklahoma ",40063,99.7
+2133,"oklahoma,jackson","Jackson County, Oklahoma ",40065,64.7
+2134,"oklahoma,jefferson","Jefferson County, Oklahoma ",40067,79.7
+2135,"oklahoma,johnston","Johnston County, Oklahoma ",40069,59.3
+2136,"oklahoma,kay","Kay County, Oklahoma ",40071,72.9
+2137,"oklahoma,kingfisher","Kingfisher County, Oklahoma ",40073,62.8
+2138,"oklahoma,kiowa","Kiowa County, Oklahoma ",40075,87.6
+2139,"oklahoma,latimer","Latimer County, Oklahoma ",40077,60.7
+2140,"oklahoma,le flore","Le Flore County, Oklahoma ",40079,61.7
+2141,"oklahoma,lincoln","Lincoln County, Oklahoma ",40081,71.3
+2142,"oklahoma,logan","Logan County, Oklahoma ",40083,72.6
+2143,"oklahoma,love","Love County, Oklahoma ",40085,56.2
+2147,"oklahoma,mcclain","McClain County, Oklahoma ",40087,81.7
+2148,"oklahoma,mccurtain","McCurtain County, Oklahoma ",40089,88.4
+2149,"oklahoma,mcintosh","McIntosh County, Oklahoma ",40091,75.9
+2144,"oklahoma,major","Major County, Oklahoma ",40093,67.2
+2145,"oklahoma,marshall","Marshall County, Oklahoma ",40095,69
+2146,"oklahoma,mayes","Mayes County, Oklahoma ",40097,81.3
+2150,"oklahoma,murray","Murray County, Oklahoma ",40099,91.3
+2151,"oklahoma,muskogee","Muskogee County, Oklahoma ",40101,96.3
+2152,"oklahoma,noble","Noble County, Oklahoma ",40103,59.6
+2153,"oklahoma,nowata","Nowata County, Oklahoma ",40105,69
+2154,"oklahoma,okfuskee","Okfuskee County, Oklahoma ",40107,70.8
+2155,"oklahoma,oklahoma","Oklahoma County, Oklahoma ",40109,69.3
+2156,"oklahoma,okmulgee","Okmulgee County, Oklahoma ",40111,94.2
+2157,"oklahoma,osage","Osage County, Oklahoma ",40113,57.9
+2158,"oklahoma,ottawa","Ottawa County, Oklahoma ",40115,79.1
+2159,"oklahoma,pawnee","Pawnee County, Oklahoma ",40117,69.5
+2160,"oklahoma,payne","Payne County, Oklahoma ",40119,61.9
+2161,"oklahoma,pittsburg","Pittsburg County, Oklahoma ",40121,79.3
+2162,"oklahoma,pontotoc","Pontotoc County, Oklahoma ",40123,69.5
+2163,"oklahoma,pottawatomie","Pottawatomie County, Oklahoma ",40125,82.8
+2164,"oklahoma,pushmataha","Pushmataha County, Oklahoma ",40127,60.4
+2165,"oklahoma,roger mills","Roger Mills County, Oklahoma ",40129,-1111.1
+2166,"oklahoma,rogers","Rogers County, Oklahoma ",40131,63
+2167,"oklahoma,seminole","Seminole County, Oklahoma ",40133,83.4
+2168,"oklahoma,sequoyah","Sequoyah County, Oklahoma ",40135,66.6
+2169,"oklahoma,stephens","Stephens County, Oklahoma ",40137,72
+2170,"oklahoma,texas","Texas County, Oklahoma ",40139,49.1
+2171,"oklahoma,tillman","Tillman County, Oklahoma ",40141,60.6
+2172,"oklahoma,tulsa","Tulsa County, Oklahoma ",40143,66.9
+2173,"oklahoma,wagoner","Wagoner County, Oklahoma ",40145,68.8
+2174,"oklahoma,washington","Washington County, Oklahoma ",40147,77.7
+2175,"oklahoma,washita","Washita County, Oklahoma ",40149,48.5
+2176,"oklahoma,woods","Woods County, Oklahoma ",40151,53
+2177,"oklahoma,woodward","Woodward County, Oklahoma ",40153,39.2
+2178,"oregon,baker","Baker County, Oregon ",41001,68.9
+2179,"oregon,benton","Benton County, Oregon ",41003,45
+2180,"oregon,clackamas","Clackamas County, Oregon ",41005,53.8
+2181,"oregon,clatsop","Clatsop County, Oregon ",41007,69.8
+2182,"oregon,columbia","Columbia County, Oregon ",41009,71.6
+2183,"oregon,coos","Coos County, Oregon ",41011,75.2
+2184,"oregon,crook","Crook County, Oregon ",41013,50.9
+2185,"oregon,curry","Curry County, Oregon ",41015,61.6
+2186,"oregon,deschutes","Deschutes County, Oregon ",41017,49.1
+2187,"oregon,douglas","Douglas County, Oregon ",41019,64.5
+2188,"oregon,gilliam","Gilliam County, Oregon ",41021,-1111.1
+2189,"oregon,grant","Grant County, Oregon ",41023,37.1
+2190,"oregon,harney","Harney County, Oregon ",41025,45.1
+2191,"oregon,hood river","Hood River County, Oregon ",41027,39.6
+2192,"oregon,jackson","Jackson County, Oregon ",41029,59.8
+2193,"oregon,jefferson","Jefferson County, Oregon ",41031,50.5
+2194,"oregon,josephine","Josephine County, Oregon ",41033,72.9
+2195,"oregon,klamath","Klamath County, Oregon ",41035,59.7
+2196,"oregon,lake","Lake County, Oregon ",41037,41.8
+2197,"oregon,lane","Lane County, Oregon ",41039,52.9
+2198,"oregon,lincoln","Lincoln County, Oregon ",41041,70.3
+2199,"oregon,linn","Linn County, Oregon ",41043,67.7
+2200,"oregon,malheur","Malheur County, Oregon ",41045,47.7
+2201,"oregon,marion","Marion County, Oregon ",41047,63.5
+2202,"oregon,morrow","Morrow County, Oregon ",41049,53.2
+2203,"oregon,multnomah","Multnomah County, Oregon ",41051,59.6
+2204,"oregon,polk","Polk County, Oregon ",41053,51.5
+2205,"oregon,sherman","Sherman County, Oregon ",41055,-1111.1
+2206,"oregon,tillamook","Tillamook County, Oregon ",41057,61.8
+2207,"oregon,umatilla","Umatilla County, Oregon ",41059,56.7
+2208,"oregon,union","Union County, Oregon ",41061,44.6
+2209,"oregon,wallowa","Wallowa County, Oregon ",41063,40.1
+2210,"oregon,wasco","Wasco County, Oregon ",41065,75.5
+2211,"oregon,washington","Washington County, Oregon ",41067,47.7
+2212,"oregon,wheeler","Wheeler County, Oregon ",41069,-1111.1
+2213,"oregon,yamhill","Yamhill County, Oregon ",41071,64.7
+2214,"pennsylvania,adams","Adams County, Pennsylvania ",42001,60.5
+2215,"pennsylvania,allegheny","Allegheny County, Pennsylvania ",42003,72
+2216,"pennsylvania,armstrong","Armstrong County, Pennsylvania ",42005,64.2
+2217,"pennsylvania,beaver","Beaver County, Pennsylvania ",42007,75.7
+2218,"pennsylvania,bedford","Bedford County, Pennsylvania ",42009,51
+2219,"pennsylvania,berks","Berks County, Pennsylvania ",42011,64.9
+2220,"pennsylvania,blair","Blair County, Pennsylvania ",42013,62.9
+2221,"pennsylvania,bradford","Bradford County, Pennsylvania ",42015,69.7
+2222,"pennsylvania,bucks","Bucks County, Pennsylvania ",42017,61.9
+2223,"pennsylvania,butler","Butler County, Pennsylvania ",42019,59.8
+2224,"pennsylvania,cambria","Cambria County, Pennsylvania ",42021,57.4
+2225,"pennsylvania,cameron","Cameron County, Pennsylvania ",42023,62.2
+2226,"pennsylvania,carbon","Carbon County, Pennsylvania ",42025,67.4
+2227,"pennsylvania,centre","Centre County, Pennsylvania ",42027,50.3
+2228,"pennsylvania,chester","Chester County, Pennsylvania ",42029,53.3
+2229,"pennsylvania,clarion","Clarion County, Pennsylvania ",42031,53.3
+2230,"pennsylvania,clearfield","Clearfield County, Pennsylvania ",42033,62.3
+2231,"pennsylvania,clinton","Clinton County, Pennsylvania ",42035,65.4
+2232,"pennsylvania,columbia","Columbia County, Pennsylvania ",42037,57.6
+2233,"pennsylvania,crawford","Crawford County, Pennsylvania ",42039,67.8
+2234,"pennsylvania,cumberland","Cumberland County, Pennsylvania ",42041,56.6
+2235,"pennsylvania,dauphin","Dauphin County, Pennsylvania ",42043,67
+2236,"pennsylvania,delaware","Delaware County, Pennsylvania ",42045,67.8
+2237,"pennsylvania,elk","Elk County, Pennsylvania ",42047,68.3
+2238,"pennsylvania,erie","Erie County, Pennsylvania ",42049,66.4
+2239,"pennsylvania,fayette","Fayette County, Pennsylvania ",42051,75
+2240,"pennsylvania,forest","Forest County, Pennsylvania ",42053,68.4
+2241,"pennsylvania,franklin","Franklin County, Pennsylvania ",42055,59.1
+2242,"pennsylvania,fulton","Fulton County, Pennsylvania ",42057,60.6
+2243,"pennsylvania,greene","Greene County, Pennsylvania ",42059,76
+2244,"pennsylvania,huntingdon","Huntingdon County, Pennsylvania ",42061,57.5
+2245,"pennsylvania,indiana","Indiana County, Pennsylvania ",42063,52.8
+2246,"pennsylvania,jefferson","Jefferson County, Pennsylvania ",42065,67.1
+2247,"pennsylvania,juniata","Juniata County, Pennsylvania ",42067,59
+2248,"pennsylvania,lackawanna","Lackawanna County, Pennsylvania ",42069,67.3
+2249,"pennsylvania,lancaster","Lancaster County, Pennsylvania ",42071,52.1
+2250,"pennsylvania,lawrence","Lawrence County, Pennsylvania ",42073,70.2
+2251,"pennsylvania,lebanon","Lebanon County, Pennsylvania ",42075,65
+2252,"pennsylvania,lehigh","Lehigh County, Pennsylvania ",42077,63.1
+2253,"pennsylvania,luzerne","Luzerne County, Pennsylvania ",42079,68.7
+2254,"pennsylvania,lycoming","Lycoming County, Pennsylvania ",42081,66.5
+2255,"pennsylvania,mckean","McKean County, Pennsylvania ",42083,69.8
+2256,"pennsylvania,mercer","Mercer County, Pennsylvania ",42085,63.8
+2257,"pennsylvania,mifflin","Mifflin County, Pennsylvania ",42087,70.2
+2258,"pennsylvania,monroe","Monroe County, Pennsylvania ",42089,73
+2259,"pennsylvania,montgomery","Montgomery County, Pennsylvania ",42091,55.5
+2260,"pennsylvania,montour","Montour County, Pennsylvania ",42093,57.7
+2261,"pennsylvania,northampton","Northampton County, Pennsylvania ",42095,64.5
+2262,"pennsylvania,northumberland","Northumberland County, Pennsylvania ",42097,66.2
+2263,"pennsylvania,perry","Perry County, Pennsylvania ",42099,70.1
+2264,"pennsylvania,philadelphia","Philadelphia County, Pennsylvania ",42101,80.2
+2265,"pennsylvania,pike","Pike County, Pennsylvania ",42103,64.3
+2266,"pennsylvania,potter","Potter County, Pennsylvania ",42105,72.5
+2267,"pennsylvania,schuylkill","Schuylkill County, Pennsylvania ",42107,68
+2268,"pennsylvania,snyder","Snyder County, Pennsylvania ",42109,49.7
+2269,"pennsylvania,somerset","Somerset County, Pennsylvania ",42111,49.3
+2270,"pennsylvania,sullivan","Sullivan County, Pennsylvania ",42113,61.5
+2271,"pennsylvania,susquehanna","Susquehanna County, Pennsylvania ",42115,53.5
+2272,"pennsylvania,tioga","Tioga County, Pennsylvania ",42117,66.8
+2273,"pennsylvania,union","Union County, Pennsylvania ",42119,52
+2274,"pennsylvania,venango","Venango County, Pennsylvania ",42121,74.9
+2275,"pennsylvania,warren","Warren County, Pennsylvania ",42123,57.1
+2276,"pennsylvania,washington","Washington County, Pennsylvania ",42125,67.2
+2277,"pennsylvania,wayne","Wayne County, Pennsylvania ",42127,65.1
+2278,"pennsylvania,westmoreland","Westmoreland County, Pennsylvania ",42129,69.6
+2279,"pennsylvania,wyoming","Wyoming County, Pennsylvania ",42131,75.2
+2280,"pennsylvania,york","York County, Pennsylvania ",42133,66.7
+2281,"rhode island,bristol","Bristol County, Rhode Island ",44001,50.8
+2282,"rhode island,kent","Kent County, Rhode Island ",44003,72
+2283,"rhode island,newport","Newport County, Rhode Island ",44005,60.2
+2284,"rhode island,providence","Providence County, Rhode Island ",44007,71.8
+2285,"rhode island,washington","Washington County, Rhode Island ",44009,63.1
+2286,"south carolina,abbeville","Abbeville County, South Carolina ",45001,69.1
+2287,"south carolina,aiken","Aiken County, South Carolina ",45003,56.7
+2288,"south carolina,allendale","Allendale County, South Carolina ",45005,67.8
+2289,"south carolina,anderson","Anderson County, South Carolina ",45007,67.5
+2290,"south carolina,bamberg","Bamberg County, South Carolina ",45009,65.5
+2291,"south carolina,barnwell","Barnwell County, South Carolina ",45011,67.1
+2292,"south carolina,beaufort","Beaufort County, South Carolina ",45013,49.6
+2293,"south carolina,berkeley","Berkeley County, South Carolina ",45015,82.9
+2294,"south carolina,calhoun","Calhoun County, South Carolina ",45017,67.1
+2295,"south carolina,charleston","Charleston County, South Carolina ",45019,62.4
+2296,"south carolina,cherokee","Cherokee County, South Carolina ",45021,90.3
+2297,"south carolina,chester","Chester County, South Carolina ",45023,79.8
+2298,"south carolina,chesterfield","Chesterfield County, South Carolina ",45025,78.6
+2299,"south carolina,clarendon","Clarendon County, South Carolina ",45027,72.5
+2300,"south carolina,colleton","Colleton County, South Carolina ",45029,84.8
+2301,"south carolina,darlington","Darlington County, South Carolina ",45031,73.5
+2302,"south carolina,dillon","Dillon County, South Carolina ",45033,83
+2303,"south carolina,dorchester","Dorchester County, South Carolina ",45035,71.3
+2304,"south carolina,edgefield","Edgefield County, South Carolina ",45037,61.5
+2305,"south carolina,fairfield","Fairfield County, South Carolina ",45039,56.6
+2306,"south carolina,florence","Florence County, South Carolina ",45041,72.7
+2307,"south carolina,georgetown","Georgetown County, South Carolina ",45043,55.9
+2308,"south carolina,greenville","Greenville County, South Carolina ",45045,62.4
+2309,"south carolina,greenwood","Greenwood County, South Carolina ",45047,65.9
+2310,"south carolina,hampton","Hampton County, South Carolina ",45049,81.4
+2311,"south carolina,horry","Horry County, South Carolina ",45051,71.8
+2312,"south carolina,jasper","Jasper County, South Carolina ",45053,50.3
+2313,"south carolina,kershaw","Kershaw County, South Carolina ",45055,67.9
+2314,"south carolina,lancaster","Lancaster County, South Carolina ",45057,67.7
+2315,"south carolina,laurens","Laurens County, South Carolina ",45059,78.9
+2316,"south carolina,lee","Lee County, South Carolina ",45061,68.1
+2317,"south carolina,lexington","Lexington County, South Carolina ",45063,66.1
+2320,"south carolina,mccormick","McCormick County, South Carolina ",45065,68
+2318,"south carolina,marion","Marion County, South Carolina ",45067,83.4
+2319,"south carolina,marlboro","Marlboro County, South Carolina ",45069,83.3
+2321,"south carolina,newberry","Newberry County, South Carolina ",45071,62.1
+2322,"south carolina,oconee","Oconee County, South Carolina ",45073,66.3
+2323,"south carolina,orangeburg","Orangeburg County, South Carolina ",45075,62.6
+2324,"south carolina,pickens","Pickens County, South Carolina ",45077,73.6
+2325,"south carolina,richland","Richland County, South Carolina ",45079,66.2
+2326,"south carolina,saluda","Saluda County, South Carolina ",45081,54.6
+2327,"south carolina,spartanburg","Spartanburg County, South Carolina ",45083,74.8
+2328,"south carolina,sumter","Sumter County, South Carolina ",45085,75.6
+2329,"south carolina,union","Union County, South Carolina ",45087,93.4
+2330,"south carolina,williamsburg","Williamsburg County, South Carolina ",45089,69.2
+2331,"south carolina,york","York County, South Carolina ",45091,64.8
+2332,"south dakota,aurora","Aurora County, South Dakota ",46003,82.9
+2333,"south dakota,beadle","Beadle County, South Dakota ",46005,51.6
+2334,"south dakota,bennett","Bennett County, South Dakota ",46007,-1111.1
+2335,"south dakota,bon homme","Bon Homme County, South Dakota ",46009,39.6
+2336,"south dakota,brookings","Brookings County, South Dakota ",46011,53.6
+2337,"south dakota,brown","Brown County, South Dakota ",46013,62.1
+2338,"south dakota,brule","Brule County, South Dakota ",46015,66.9
+2339,"south dakota,buffalo","Buffalo County, South Dakota ",46017,-1111.1
+2340,"south dakota,butte","Butte County, South Dakota ",46019,59.8
+2341,"south dakota,campbell","Campbell County, South Dakota ",46021,-1111.1
+2342,"south dakota,charles mix","Charles Mix County, South Dakota ",46023,47.5
+2343,"south dakota,clark","Clark County, South Dakota ",46025,59.3
+2344,"south dakota,clay","Clay County, South Dakota ",46027,73.4
+2345,"south dakota,codington","Codington County, South Dakota ",46029,52.6
+2346,"south dakota,corson","Corson County, South Dakota ",46031,-1111.1
+2347,"south dakota,custer","Custer County, South Dakota ",46033,44
+2348,"south dakota,davison","Davison County, South Dakota ",46035,65.4
+2349,"south dakota,day","Day County, South Dakota ",46037,43.8
+2350,"south dakota,deuel","Deuel County, South Dakota ",46039,48.6
+2351,"south dakota,dewey","Dewey County, South Dakota ",46041,-1111.1
+2352,"south dakota,douglas","Douglas County, South Dakota ",46043,98.7
+2353,"south dakota,edmunds","Edmunds County, South Dakota ",46045,-1111.1
+2354,"south dakota,fall river","Fall River County, South Dakota ",46047,67.1
+2355,"south dakota,faulk","Faulk County, South Dakota ",46049,-1111.1
+2356,"south dakota,grant","Grant County, South Dakota ",46051,70.2
+2357,"south dakota,gregory","Gregory County, South Dakota ",46053,84.1
+2358,"south dakota,haakon","Haakon County, South Dakota ",46055,-1111.1
+2359,"south dakota,hamlin","Hamlin County, South Dakota ",46057,47
+2360,"south dakota,hand","Hand County, South Dakota ",46059,-1111.1
+2361,"south dakota,hanson","Hanson County, South Dakota ",46061,-1111.1
+2362,"south dakota,harding","Harding County, South Dakota ",46063,-1111.1
+2363,"south dakota,hughes","Hughes County, South Dakota ",46065,49.2
+2364,"south dakota,hutchinson","Hutchinson County, South Dakota ",46067,37
+2365,"south dakota,hyde","Hyde County, South Dakota ",46069,-1111.1
+2366,"south dakota,jackson","Jackson County, South Dakota ",46071,-1111.1
+2367,"south dakota,jerauld","Jerauld County, South Dakota ",46073,-1111.1
+2368,"south dakota,jones","Jones County, South Dakota ",46075,-1111.1
+2369,"south dakota,kingsbury","Kingsbury County, South Dakota ",46077,66.3
+2370,"south dakota,lake","Lake County, South Dakota ",46079,50.9
+2371,"south dakota,lawrence","Lawrence County, South Dakota ",46081,46
+2372,"south dakota,lincoln","Lincoln County, South Dakota ",46083,54.2
+2373,"south dakota,lyman","Lyman County, South Dakota ",46085,-1111.1
+2375,"south dakota,mccook","McCook County, South Dakota ",46087,83.5
+2376,"south dakota,mcpherson","McPherson County, South Dakota ",46089,-1111.1
+2374,"south dakota,marshall","Marshall County, South Dakota ",46091,-1111.1
+2377,"south dakota,meade","Meade County, South Dakota ",46093,55
+2378,"south dakota,mellette","Mellette County, South Dakota ",46095,-1111.1
+2379,"south dakota,miner","Miner County, South Dakota ",46097,-1111.1
+2380,"south dakota,minnehaha","Minnehaha County, South Dakota ",46099,69.9
+2381,"south dakota,moody","Moody County, South Dakota ",46101,39.2
+2382,"south dakota,pennington","Pennington County, South Dakota ",46103,64.8
+2383,"south dakota,perkins","Perkins County, South Dakota ",46105,-1111.1
+2384,"south dakota,potter","Potter County, South Dakota ",46107,68.4
+2385,"south dakota,roberts","Roberts County, South Dakota ",46109,33.7
+2386,"south dakota,sanborn","Sanborn County, South Dakota ",46111,-1111.1
+2387,"south dakota,shannon","Shannon County, South Dakota ",46113,73.8
+2388,"south dakota,spink","Spink County, South Dakota ",46115,46.9
+2389,"south dakota,stanley","Stanley County, South Dakota ",46117,-1111.1
+2390,"south dakota,sully","Sully County, South Dakota ",46119,-1111.1
+2391,"south dakota,todd","Todd County, South Dakota ",46121,-1111.1
+2392,"south dakota,tripp","Tripp County, South Dakota ",46123,41.3
+2393,"south dakota,turner","Turner County, South Dakota ",46125,67.6
+2394,"south dakota,union","Union County, South Dakota ",46127,82
+2395,"south dakota,walworth","Walworth County, South Dakota ",46129,45.4
+2396,"south dakota,yankton","Yankton County, South Dakota ",46135,55.5
+2397,"south dakota,ziebach","Ziebach County, South Dakota ",46137,-1111.1
+2398,"tennessee,anderson","Anderson County, Tennessee ",47001,70.5
+2399,"tennessee,bedford","Bedford County, Tennessee ",47003,75.6
+2400,"tennessee,benton","Benton County, Tennessee ",47005,102.5
+2401,"tennessee,bledsoe","Bledsoe County, Tennessee ",47007,91.7
+2402,"tennessee,blount","Blount County, Tennessee ",47009,77.9
+2403,"tennessee,bradley","Bradley County, Tennessee ",47011,79.4
+2404,"tennessee,campbell","Campbell County, Tennessee ",47013,105.8
+2405,"tennessee,cannon","Cannon County, Tennessee ",47015,60.2
+2406,"tennessee,carroll","Carroll County, Tennessee ",47017,88.9
+2407,"tennessee,carter","Carter County, Tennessee ",47019,74.1
+2408,"tennessee,cheatham","Cheatham County, Tennessee ",47021,91.8
+2409,"tennessee,chester","Chester County, Tennessee ",47023,76.8
+2410,"tennessee,claiborne","Claiborne County, Tennessee ",47025,115.5
+2411,"tennessee,clay","Clay County, Tennessee ",47027,67.9
+2412,"tennessee,cocke","Cocke County, Tennessee ",47029,97.5
+2413,"tennessee,coffee","Coffee County, Tennessee ",47031,77.9
+2414,"tennessee,crockett","Crockett County, Tennessee ",47033,67.7
+2415,"tennessee,cumberland","Cumberland County, Tennessee ",47035,78.7
+2416,"tennessee,davidson","Davidson County, Tennessee ",47037,72.6
+2418,"tennessee,decatur","Decatur County, Tennessee ",47039,93.2
+2417,"tennessee,de kalb","DeKalb County, Tennessee ",47041,86.5
+2419,"tennessee,dickson","Dickson County, Tennessee ",47043,86
+2420,"tennessee,dyer","Dyer County, Tennessee ",47045,75.1
+2421,"tennessee,fayette","Fayette County, Tennessee ",47047,57.3
+2422,"tennessee,fentress","Fentress County, Tennessee ",47049,90.6
+2423,"tennessee,franklin","Franklin County, Tennessee ",47051,73.3
+2424,"tennessee,gibson","Gibson County, Tennessee ",47053,76.8
+2425,"tennessee,giles","Giles County, Tennessee ",47055,75.9
+2426,"tennessee,grainger","Grainger County, Tennessee ",47057,82.9
+2427,"tennessee,greene","Greene County, Tennessee ",47059,94.3
+2428,"tennessee,grundy","Grundy County, Tennessee ",47061,96.5
+2429,"tennessee,hamblen","Hamblen County, Tennessee ",47063,80.1
+2430,"tennessee,hamilton","Hamilton County, Tennessee ",47065,69.8
+2431,"tennessee,hancock","Hancock County, Tennessee ",47067,97.1
+2432,"tennessee,hardeman","Hardeman County, Tennessee ",47069,94.1
+2433,"tennessee,hardin","Hardin County, Tennessee ",47071,85.2
+2434,"tennessee,hawkins","Hawkins County, Tennessee ",47073,102
+2435,"tennessee,haywood","Haywood County, Tennessee ",47075,73.7
+2436,"tennessee,henderson","Henderson County, Tennessee ",47077,93.1
+2437,"tennessee,henry","Henry County, Tennessee ",47079,83.9
+2438,"tennessee,hickman","Hickman County, Tennessee ",47081,91.4
+2439,"tennessee,houston","Houston County, Tennessee ",47083,92.6
+2440,"tennessee,humphreys","Humphreys County, Tennessee ",47085,104.8
+2441,"tennessee,jackson","Jackson County, Tennessee ",47087,87.4
+2442,"tennessee,jefferson","Jefferson County, Tennessee ",47089,67.4
+2443,"tennessee,johnson","Johnson County, Tennessee ",47091,86.8
+2444,"tennessee,knox","Knox County, Tennessee ",47093,70.9
+2445,"tennessee,lake","Lake County, Tennessee ",47095,88.9
+2446,"tennessee,lauderdale","Lauderdale County, Tennessee ",47097,89.7
+2447,"tennessee,lawrence","Lawrence County, Tennessee ",47099,82.6
+2448,"tennessee,lewis","Lewis County, Tennessee ",47101,107.8
+2449,"tennessee,lincoln","Lincoln County, Tennessee ",47103,58.5
+2450,"tennessee,loudon","Loudon County, Tennessee ",47105,73.1
+2456,"tennessee,mcminn","McMinn County, Tennessee ",47107,81.4
+2457,"tennessee,mcnairy","McNairy County, Tennessee ",47109,92.6
+2451,"tennessee,macon","Macon County, Tennessee ",47111,91
+2452,"tennessee,madison","Madison County, Tennessee ",47113,73.2
+2453,"tennessee,marion","Marion County, Tennessee ",47115,95.9
+2454,"tennessee,marshall","Marshall County, Tennessee ",47117,88.2
+2455,"tennessee,maury","Maury County, Tennessee ",47119,77
+2458,"tennessee,meigs","Meigs County, Tennessee ",47121,95.9
+2459,"tennessee,monroe","Monroe County, Tennessee ",47123,97.6
+2460,"tennessee,montgomery","Montgomery County, Tennessee ",47125,82.4
+2461,"tennessee,moore","Moore County, Tennessee ",47127,66.9
+2462,"tennessee,morgan","Morgan County, Tennessee ",47129,96.5
+2463,"tennessee,obion","Obion County, Tennessee ",47131,77.2
+2464,"tennessee,overton","Overton County, Tennessee ",47133,97.5
+2465,"tennessee,perry","Perry County, Tennessee ",47135,89
+2466,"tennessee,pickett","Pickett County, Tennessee ",47137,93
+2467,"tennessee,polk","Polk County, Tennessee ",47139,110.8
+2468,"tennessee,putnam","Putnam County, Tennessee ",47141,70.7
+2469,"tennessee,rhea","Rhea County, Tennessee ",47143,99.6
+2470,"tennessee,roane","Roane County, Tennessee ",47145,90.1
+2471,"tennessee,robertson","Robertson County, Tennessee ",47147,84.3
+2472,"tennessee,rutherford","Rutherford County, Tennessee ",47149,69.3
+2473,"tennessee,scott","Scott County, Tennessee ",47151,107.5
+2474,"tennessee,sequatchie","Sequatchie County, Tennessee ",47153,101.4
+2475,"tennessee,sevier","Sevier County, Tennessee ",47155,82.4
+2476,"tennessee,shelby","Shelby County, Tennessee ",47157,64.4
+2477,"tennessee,smith","Smith County, Tennessee ",47159,78.7
+2478,"tennessee,stewart","Stewart County, Tennessee ",47161,88.2
+2479,"tennessee,sullivan","Sullivan County, Tennessee ",47163,75.7
+2480,"tennessee,sumner","Sumner County, Tennessee ",47165,66.8
+2481,"tennessee,tipton","Tipton County, Tennessee ",47167,90.3
+2482,"tennessee,trousdale","Trousdale County, Tennessee ",47169,109.2
+2483,"tennessee,unicoi","Unicoi County, Tennessee ",47171,79.1
+2484,"tennessee,union","Union County, Tennessee ",47173,100.6
+2485,"tennessee,van buren","Van Buren County, Tennessee ",47175,52.8
+2486,"tennessee,warren","Warren County, Tennessee ",47177,81.9
+2487,"tennessee,washington","Washington County, Tennessee ",47179,71.5
+2488,"tennessee,wayne","Wayne County, Tennessee ",47181,84.1
+2489,"tennessee,weakley","Weakley County, Tennessee ",47183,74.8
+2490,"tennessee,white","White County, Tennessee ",47185,90.7
+2491,"tennessee,williamson","Williamson County, Tennessee ",47187,44.2
+2492,"tennessee,wilson","Wilson County, Tennessee ",47189,72
+2493,"texas,anderson","Anderson County, Texas ",48001,78
+2494,"texas,andrews","Andrews County, Texas ",48003,63.6
+2495,"texas,angelina","Angelina County, Texas ",48005,71.6
+2496,"texas,aransas","Aransas County, Texas ",48007,80.1
+2497,"texas,archer","Archer County, Texas ",48009,66.7
+2498,"texas,armstrong","Armstrong County, Texas ",48011,-1111.1
+2499,"texas,atascosa","Atascosa County, Texas ",48013,43.2
+2500,"texas,austin","Austin County, Texas ",48015,48.8
+2501,"texas,bailey","Bailey County, Texas ",48017,-1111.1
+2502,"texas,bandera","Bandera County, Texas ",48019,53.4
+2503,"texas,bastrop","Bastrop County, Texas ",48021,66.2
+2504,"texas,baylor","Baylor County, Texas ",48023,52.4
+2505,"texas,bee","Bee County, Texas ",48025,51.3
+2506,"texas,bell","Bell County, Texas ",48027,80.3
+2507,"texas,bexar","Bexar County, Texas ",48029,44
+2508,"texas,blanco","Blanco County, Texas ",48031,48.2
+2509,"texas,borden","Borden County, Texas ",48033,-1111.1
+2510,"texas,bosque","Bosque County, Texas ",48035,67.7
+2511,"texas,bowie","Bowie County, Texas ",48037,75.4
+2512,"texas,brazoria","Brazoria County, Texas ",48039,62.2
+2513,"texas,brazos","Brazos County, Texas ",48041,46.9
+2514,"texas,brewster","Brewster County, Texas ",48043,44.7
+2515,"texas,briscoe","Briscoe County, Texas ",48045,-1111.1
+2516,"texas,brooks","Brooks County, Texas ",48047,-1111.1
+2517,"texas,brown","Brown County, Texas ",48049,61.9
+2518,"texas,burleson","Burleson County, Texas ",48051,66.7
+2519,"texas,burnet","Burnet County, Texas ",48053,64
+2520,"texas,caldwell","Caldwell County, Texas ",48055,60.6
+2521,"texas,calhoun","Calhoun County, Texas ",48057,73.7
+2522,"texas,callahan","Callahan County, Texas ",48059,74.6
+2523,"texas,cameron","Cameron County, Texas ",48061,37.4
+2524,"texas,camp","Camp County, Texas ",48063,84.7
+2525,"texas,carson","Carson County, Texas ",48065,40.1
+2526,"texas,cass","Cass County, Texas ",48067,73.7
+2527,"texas,castro","Castro County, Texas ",48069,50.8
+2528,"texas,chambers","Chambers County, Texas ",48071,72.8
+2529,"texas,cherokee","Cherokee County, Texas ",48073,85.1
+2530,"texas,childress","Childress County, Texas ",48075,83.1
+2531,"texas,clay","Clay County, Texas ",48077,63.2
+2532,"texas,cochran","Cochran County, Texas ",48079,-1111.1
+2533,"texas,coke","Coke County, Texas ",48081,68.4
+2534,"texas,coleman","Coleman County, Texas ",48083,66.9
+2535,"texas,collin","Collin County, Texas ",48085,48.4
+2536,"texas,collingsworth","Collingsworth County, Texas ",48087,-1111.1
+2537,"texas,colorado","Colorado County, Texas ",48089,63
+2538,"texas,comal","Comal County, Texas ",48091,54.2
+2539,"texas,comanche","Comanche County, Texas ",48093,64.1
+2540,"texas,concho","Concho County, Texas ",48095,66.6
+2541,"texas,cooke","Cooke County, Texas ",48097,60.1
+2542,"texas,coryell","Coryell County, Texas ",48099,82.5
+2543,"texas,cottle","Cottle County, Texas ",48101,-1111.1
+2544,"texas,crane","Crane County, Texas ",48103,-1111.1
+2545,"texas,crockett","Crockett County, Texas ",48105,-1111.1
+2546,"texas,crosby","Crosby County, Texas ",48107,58.6
+2547,"texas,culberson","Culberson County, Texas ",48109,-1111.1
+2548,"texas,dallam","Dallam County, Texas ",48111,68.8
+2549,"texas,dallas","Dallas County, Texas ",48113,53.9
+2550,"texas,dawson","Dawson County, Texas ",48115,65.7
+2552,"texas,deaf smith","Deaf Smith County, Texas ",48117,57.1
+2553,"texas,delta","Delta County, Texas ",48119,62.4
+2554,"texas,denton","Denton County, Texas ",48121,50.8
+2551,"texas,de witt","DeWitt County, Texas ",48123,64.7
+2555,"texas,dickens","Dickens County, Texas ",48125,-1111.1
+2556,"texas,dimmit","Dimmit County, Texas ",48127,37.3
+2557,"texas,donley","Donley County, Texas ",48129,65.4
+2558,"texas,duval","Duval County, Texas ",48131,42.3
+2559,"texas,eastland","Eastland County, Texas ",48133,73.2
+2560,"texas,ector","Ector County, Texas ",48135,67.5
+2561,"texas,edwards","Edwards County, Texas ",48137,-1111.1
+2563,"texas,ellis","Ellis County, Texas ",48139,60.2
+2562,"texas,el paso","El Paso County, Texas ",48141,32.7
+2564,"texas,erath","Erath County, Texas ",48143,54.4
+2565,"texas,falls","Falls County, Texas ",48145,64.6
+2566,"texas,fannin","Fannin County, Texas ",48147,82.6
+2567,"texas,fayette","Fayette County, Texas ",48149,48.5
+2568,"texas,fisher","Fisher County, Texas ",48151,53.5
+2569,"texas,floyd","Floyd County, Texas ",48153,47.5
+2570,"texas,foard","Foard County, Texas ",48155,-1111.1
+2571,"texas,fort bend","Fort Bend County, Texas ",48157,42
+2572,"texas,franklin","Franklin County, Texas ",48159,62.3
+2573,"texas,freestone","Freestone County, Texas ",48161,69
+2574,"texas,frio","Frio County, Texas ",48163,40.7
+2575,"texas,gaines","Gaines County, Texas ",48165,45.7
+2576,"texas,galveston:main","Galveston County, Texas ",48167,61.5
+2577,"texas,galveston:spit","Galveston spit, Texas",48168,-1111.1
+2578,"texas,garza","Garza County, Texas ",48169,62.6
+2579,"texas,gillespie","Gillespie County, Texas ",48171,42
+2580,"texas,glasscock","Glasscock County, Texas ",48173,-1111.1
+2581,"texas,goliad","Goliad County, Texas ",48175,59.6
+2582,"texas,gonzales","Gonzales County, Texas ",48177,42.3
+2583,"texas,gray","Gray County, Texas ",48179,83.8
+2584,"texas,grayson","Grayson County, Texas ",48181,75.7
+2585,"texas,gregg","Gregg County, Texas ",48183,71.8
+2586,"texas,grimes","Grimes County, Texas ",48185,48.4
+2587,"texas,guadalupe","Guadalupe County, Texas ",48187,57.9
+2588,"texas,hale","Hale County, Texas ",48189,62.4
+2589,"texas,hall","Hall County, Texas ",48191,72
+2590,"texas,hamilton","Hamilton County, Texas ",48193,55.9
+2591,"texas,hansford","Hansford County, Texas ",48195,50.4
+2592,"texas,hardeman","Hardeman County, Texas ",48197,-1111.1
+2593,"texas,hardin","Hardin County, Texas ",48199,70.2
+2594,"texas,harris","Harris County, Texas ",48201,53.5
+2595,"texas,harrison","Harrison County, Texas ",48203,74.4
+2596,"texas,hartley","Hartley County, Texas ",48205,-1111.1
+2597,"texas,haskell","Haskell County, Texas ",48207,42
+2598,"texas,hays","Hays County, Texas ",48209,46.9
+2599,"texas,hemphill","Hemphill County, Texas ",48211,-1111.1
+2600,"texas,henderson","Henderson County, Texas ",48213,89.8
+2601,"texas,hidalgo","Hidalgo County, Texas ",48215,31.5
+2602,"texas,hill","Hill County, Texas ",48217,68.3
+2603,"texas,hockley","Hockley County, Texas ",48219,56.8
+2604,"texas,hood","Hood County, Texas ",48221,66.2
+2605,"texas,hopkins","Hopkins County, Texas ",48223,69.7
+2606,"texas,houston","Houston County, Texas ",48225,63.6
+2607,"texas,howard","Howard County, Texas ",48227,64.5
+2608,"texas,hudspeth","Hudspeth County, Texas ",48229,-1111.1
+2609,"texas,hunt","Hunt County, Texas ",48231,81.5
+2610,"texas,hutchinson","Hutchinson County, Texas ",48233,57.2
+2611,"texas,irion","Irion County, Texas ",48235,-1111.1
+2612,"texas,jack","Jack County, Texas ",48237,57.8
+2613,"texas,jackson","Jackson County, Texas ",48239,60
+2614,"texas,jasper","Jasper County, Texas ",48241,68.9
+2615,"texas,jeff davis","Jeff Davis County, Texas ",48243,-1111.1
+2616,"texas,jefferson","Jefferson County, Texas ",48245,63.5
+2617,"texas,jim hogg","Jim Hogg County, Texas ",48247,-1111.1
+2618,"texas,jim wells","Jim Wells County, Texas ",48249,42.8
+2619,"texas,johnson","Johnson County, Texas ",48251,68.7
+2620,"texas,jones","Jones County, Texas ",48253,59
+2621,"texas,karnes","Karnes County, Texas ",48255,64
+2622,"texas,kaufman","Kaufman County, Texas ",48257,77.7
+2623,"texas,kendall","Kendall County, Texas ",48259,45
+2624,"texas,kenedy","Kenedy County, Texas ",48261,-1111.1
+2625,"texas,kent","Kent County, Texas ",48263,-1111.1
+2626,"texas,kerr","Kerr County, Texas ",48265,48.3
+2627,"texas,kimble","Kimble County, Texas ",48267,59.2
+2628,"texas,king","King County, Texas ",48269,-1111.1
+2629,"texas,kinney","Kinney County, Texas ",48271,-1111.1
+2630,"texas,kleberg","Kleberg County, Texas ",48273,51.5
+2631,"texas,knox","Knox County, Texas ",48275,68.1
+2633,"texas,lamar","Lamar County, Texas ",48277,86
+2634,"texas,lamb","Lamb County, Texas ",48279,36.8
+2635,"texas,lampasas","Lampasas County, Texas ",48281,73.7
+2632,"texas,la salle","La Salle County, Texas ",48283,-1111.1
+2636,"texas,lavaca","Lavaca County, Texas ",48285,55.4
+2637,"texas,lee","Lee County, Texas ",48287,53.1
+2638,"texas,leon","Leon County, Texas ",48289,73.4
+2639,"texas,liberty","Liberty County, Texas ",48291,80.2
+2640,"texas,limestone","Limestone County, Texas ",48293,82.5
+2641,"texas,lipscomb","Lipscomb County, Texas ",48295,-1111.1
+2642,"texas,live oak","Live Oak County, Texas ",48297,58.2
+2643,"texas,llano","Llano County, Texas ",48299,51.7
+2644,"texas,loving","Loving County, Texas ",48301,-1111.1
+2645,"texas,lubbock","Lubbock County, Texas ",48303,51.9
+2646,"texas,lynn","Lynn County, Texas ",48305,45.8
+2653,"texas,mcculloch","McCulloch County, Texas ",48307,56.4
+2654,"texas,mclennan","McLennan County, Texas ",48309,64.4
+2655,"texas,mcmullen","McMullen County, Texas ",48311,-1111.1
+2647,"texas,madison","Madison County, Texas ",48313,54.4
+2648,"texas,marion","Marion County, Texas ",48315,103.4
+2649,"texas,martin","Martin County, Texas ",48317,-1111.1
+2650,"texas,mason","Mason County, Texas ",48319,-1111.1
+2651,"texas,matagorda","Matagorda County, Texas ",48321,60.4
+2652,"texas,maverick","Maverick County, Texas ",48323,33.7
+2656,"texas,medina","Medina County, Texas ",48325,50.4
+2657,"texas,menard","Menard County, Texas ",48327,-1111.1
+2658,"texas,midland","Midland County, Texas ",48329,52.8
+2659,"texas,milam","Milam County, Texas ",48331,62.5
+2660,"texas,mills","Mills County, Texas ",48333,-1111.1
+2661,"texas,mitchell","Mitchell County, Texas ",48335,75.7
+2662,"texas,montague","Montague County, Texas ",48337,83
+2663,"texas,montgomery","Montgomery County, Texas ",48339,60.3
+2664,"texas,moore","Moore County, Texas ",48341,64
+2665,"texas,morris","Morris County, Texas ",48343,76.3
+2666,"texas,motley","Motley County, Texas ",48345,-1111.1
+2667,"texas,nacogdoches","Nacogdoches County, Texas ",48347,73.8
+2668,"texas,navarro","Navarro County, Texas ",48349,65.6
+2669,"texas,newton","Newton County, Texas ",48351,76.2
+2670,"texas,nolan","Nolan County, Texas ",48353,53.6
+2671,"texas,nueces","Nueces County, Texas ",48355,51
+2672,"texas,ochiltree","Ochiltree County, Texas ",48357,45.7
+2673,"texas,oldham","Oldham County, Texas ",48359,-1111.1
+2674,"texas,orange","Orange County, Texas ",48361,78.6
+2675,"texas,palo pinto","Palo Pinto County, Texas ",48363,86.7
+2676,"texas,panola","Panola County, Texas ",48365,73.5
+2677,"texas,parker","Parker County, Texas ",48367,68.5
+2678,"texas,parmer","Parmer County, Texas ",48369,-1111.1
+2679,"texas,pecos","Pecos County, Texas ",48371,39.1
+2680,"texas,polk","Polk County, Texas ",48373,98.8
+2681,"texas,potter","Potter County, Texas ",48375,67.9
+2682,"texas,presidio","Presidio County, Texas ",48377,-1111.1
+2683,"texas,rains","Rains County, Texas ",48379,81.1
+2684,"texas,randall","Randall County, Texas ",48381,56.2
+2685,"texas,reagan","Reagan County, Texas ",48383,-1111.1
+2686,"texas,real","Real County, Texas ",48385,49.2
+2687,"texas,red river","Red River County, Texas ",48387,68.3
+2688,"texas,reeves","Reeves County, Texas ",48389,39.9
+2689,"texas,refugio","Refugio County, Texas ",48391,64.7
+2690,"texas,roberts","Roberts County, Texas ",48393,-1111.1
+2691,"texas,robertson","Robertson County, Texas ",48395,59.4
+2692,"texas,rockwall","Rockwall County, Texas ",48397,50.5
+2693,"texas,runnels","Runnels County, Texas ",48399,65
+2694,"texas,rusk","Rusk County, Texas ",48401,74.1
+2695,"texas,sabine","Sabine County, Texas ",48403,79.5
+2696,"texas,san augustine","San Augustine County, Texas ",48405,77.1
+2697,"texas,san jacinto","San Jacinto County, Texas ",48407,95.3
+2698,"texas,san patricio","San Patricio County, Texas ",48409,69.2
+2699,"texas,san saba","San Saba County, Texas ",48411,55.7
+2700,"texas,schleicher","Schleicher County, Texas ",48413,-1111.1
+2701,"texas,scurry","Scurry County, Texas ",48415,71.2
+2702,"texas,shackelford","Shackelford County, Texas ",48417,-1111.1
+2703,"texas,shelby","Shelby County, Texas ",48419,76.3
+2704,"texas,sherman","Sherman County, Texas ",48421,-1111.1
+2705,"texas,smith","Smith County, Texas ",48423,65.2
+2706,"texas,somervell","Somervell County, Texas ",48425,54.5
+2707,"texas,starr","Starr County, Texas ",48427,34.2
+2708,"texas,stephens","Stephens County, Texas ",48429,81.6
+2709,"texas,sterling","Sterling County, Texas ",48431,-1111.1
+2710,"texas,stonewall","Stonewall County, Texas ",48433,-1111.1
+2711,"texas,sutton","Sutton County, Texas ",48435,-1111.1
+2712,"texas,swisher","Swisher County, Texas ",48437,50.3
+2713,"texas,tarrant","Tarrant County, Texas ",48439,58.7
+2714,"texas,taylor","Taylor County, Texas ",48441,59.9
+2715,"texas,terrell","Terrell County, Texas ",48443,-1111.1
+2716,"texas,terry","Terry County, Texas ",48445,57.8
+2717,"texas,throckmorton","Throckmorton County, Texas ",48447,-1111.1
+2718,"texas,titus","Titus County, Texas ",48449,53.8
+2719,"texas,tom green","Tom Green County, Texas ",48451,53.8
+2720,"texas,travis","Travis County, Texas ",48453,44.3
+2721,"texas,trinity","Trinity County, Texas ",48455,91.9
+2722,"texas,tyler","Tyler County, Texas ",48457,75
+2723,"texas,upshur","Upshur County, Texas ",48459,74.7
+2724,"texas,upton","Upton County, Texas ",48461,-1111.1
+2725,"texas,uvalde","Uvalde County, Texas ",48463,40.5
+2726,"texas,val verde","Val Verde County, Texas ",48465,35.2
+2727,"texas,van zandt","Van Zandt County, Texas ",48467,75
+2728,"texas,victoria","Victoria County, Texas ",48469,57.1
+2729,"texas,walker","Walker County, Texas ",48471,67.7
+2730,"texas,waller","Waller County, Texas ",48473,56.7
+2731,"texas,ward","Ward County, Texas ",48475,69.8
+2732,"texas,washington","Washington County, Texas ",48477,44.6
+2733,"texas,webb","Webb County, Texas ",48479,27.6
+2734,"texas,wharton","Wharton County, Texas ",48481,51.9
+2735,"texas,wheeler","Wheeler County, Texas ",48483,69.1
+2736,"texas,wichita","Wichita County, Texas ",48485,73.2
+2737,"texas,wilbarger","Wilbarger County, Texas ",48487,61.5
+2738,"texas,willacy","Willacy County, Texas ",48489,39.1
+2739,"texas,williamson","Williamson County, Texas ",48491,49.6
+2740,"texas,wilson","Wilson County, Texas ",48493,44.5
+2741,"texas,winkler","Winkler County, Texas ",48495,68.7
+2742,"texas,wise","Wise County, Texas ",48497,67.7
+2743,"texas,wood","Wood County, Texas ",48499,75.9
+2744,"texas,yoakum","Yoakum County, Texas ",48501,75.5
+2745,"texas,young","Young County, Texas ",48503,74.5
+2746,"texas,zapata","Zapata County, Texas ",48505,37.9
+2747,"texas,zavala","Zavala County, Texas ",48507,-1111.1
+2748,"utah,beaver","Beaver County, Utah ",49001,-1111.1
+2749,"utah,box elder","Box Elder County, Utah ",49003,16.1
+2750,"utah,cache","Cache County, Utah ",49005,16
+2751,"utah,carbon","Carbon County, Utah ",49007,42.4
+2752,"utah,daggett","Daggett County, Utah ",49009,-1111.1
+2753,"utah,davis","Davis County, Utah ",49011,24.4
+2754,"utah,duchesne","Duchesne County, Utah ",49013,45.6
+2755,"utah,emery","Emery County, Utah ",49015,-1111.1
+2756,"utah,garfield","Garfield County, Utah ",49017,-1111.1
+2757,"utah,grand","Grand County, Utah ",49019,57.4
+2758,"utah,iron","Iron County, Utah ",49021,31.7
+2759,"utah,juab","Juab County, Utah ",49023,39.1
+2760,"utah,kane","Kane County, Utah ",49025,29.7
+2761,"utah,millard","Millard County, Utah ",49027,24.7
+2762,"utah,morgan","Morgan County, Utah ",49029,-1111.1
+2763,"utah,piute","Piute County, Utah ",49031,-1111.1
+2764,"utah,rich","Rich County, Utah ",49033,-1111.1
+2765,"utah,salt lake","Salt Lake County, Utah ",49035,31.7
+2766,"utah,san juan","San Juan County, Utah ",49037,-1111.1
+2767,"utah,sanpete","Sanpete County, Utah ",49039,28.3
+2768,"utah,sevier","Sevier County, Utah ",49041,28.1
+2769,"utah,summit","Summit County, Utah ",49043,19.3
+2770,"utah,tooele","Tooele County, Utah ",49045,36.6
+2771,"utah,uintah","Uintah County, Utah ",49047,29.6
+2772,"utah,utah","Utah County, Utah ",49049,18.6
+2773,"utah,wasatch","Wasatch County, Utah ",49051,21.8
+2774,"utah,washington","Washington County, Utah ",49053,28.9
+2775,"utah,wayne","Wayne County, Utah ",49055,-1111.1
+2776,"utah,weber","Weber County, Utah ",49057,32.9
+2777,"vermont,addison","Addison County, Vermont ",50001,55.6
+2778,"vermont,bennington","Bennington County, Vermont ",50003,66.5
+2779,"vermont,caledonia","Caledonia County, Vermont ",50005,69.6
+2780,"vermont,chittenden","Chittenden County, Vermont ",50007,64
+2781,"vermont,essex","Essex County, Vermont ",50009,72.8
+2782,"vermont,franklin","Franklin County, Vermont ",50011,79
+2783,"vermont,grand isle","Grand Isle County, Vermont ",50013,82.2
+2784,"vermont,lamoille","Lamoille County, Vermont ",50015,66.5
+2785,"vermont,orange","Orange County, Vermont ",50017,64.9
+2786,"vermont,orleans","Orleans County, Vermont ",50019,60.7
+2787,"vermont,rutland","Rutland County, Vermont ",50021,70.6
+2788,"vermont,washington","Washington County, Vermont ",50023,59.6
+2789,"vermont,windham","Windham County, Vermont ",50025,54.8
+2790,"vermont,windsor","Windsor County, Vermont ",50027,67.4
+2792,"virginia,accomack:main","Accomack County, Virginia ",51001,79.5
+2791,"virginia,accomack:chincoteague","Accomack chincoteague, Virginia",51001,-1111.1
+2793,"virginia,albemarle","Albemarle County, Virginia ",51003,49.6
+2794,"virginia,alleghany","Alleghany County and Clifton Forge City, Virginia ",51005,66.2
+2795,"virginia,amelia","Amelia County, Virginia ",51007,68.3
+2796,"virginia,amherst","Amherst County, Virginia ",51009,66
+2797,"virginia,appomattox","Appomattox County, Virginia ",51011,67.8
+2798,"virginia,arlington","Arlington County, Virginia ",51013,38.6
+2799,"virginia,augusta","Augusta County, Virginia ",51015,59.2
+2800,"virginia,bath","Bath County, Virginia ",51017,56.5
+2801,"virginia,bedford","Bedford City and County, Virginia ",51917,57.2
+2802,"virginia,bland","Bland County, Virginia ",51021,68.9
+2803,"virginia,botetourt","Botetourt County, Virginia ",51023,54.8
+2804,"virginia,brunswick","Brunswick County, Virginia ",51025,68.1
+2805,"virginia,buchanan","Buchanan County, Virginia ",51027,48.1
+2806,"virginia,buckingham","Buckingham County, Virginia ",51029,77.9
+2807,"virginia,campbell","Campbell County, Virginia ",51031,58.7
+2808,"virginia,caroline","Caroline County, Virginia ",51033,82.7
+2809,"virginia,carroll","Carroll County, Virginia ",51035,59.1
+2810,"virginia,charles city","Charles City County, Virginia ",51036,47.7
+2811,"virginia,charlotte","Charlotte County, Virginia ",51037,64.4
+2812,"virginia,chesterfield","Chesterfield County, Virginia ",51041,62.1
+2813,"virginia,clarke","Clarke County, Virginia ",51043,69.5
+2814,"virginia,craig","Craig County, Virginia ",51045,55.8
+2815,"virginia,culpeper","Culpeper County, Virginia ",51047,71.7
+2816,"virginia,cumberland","Cumberland County, Virginia ",51049,62.3
+2817,"virginia,dickenson","Dickenson County, Virginia ",51051,83.1
+2818,"virginia,dinwiddie","Dinwiddie County, Virginia ",51053,74.1
+2819,"virginia,essex","Essex County, Virginia ",51057,88.1
+2820,"virginia,fairfax","Fairfax County, Virginia ",51059,36.6
+2821,"virginia,fauquier","Fauquier County, Virginia ",51061,55.9
+2822,"virginia,floyd","Floyd County, Virginia ",51063,47.5
+2823,"virginia,fluvanna","Fluvanna County, Virginia ",51065,62.5
+2824,"virginia,franklin","Franklin County, Virginia ",51067,52.8
+2825,"virginia,frederick","Frederick County, Virginia ",51069,70.2
+2826,"virginia,giles","Giles County, Virginia ",51071,67.7
+2827,"virginia,gloucester","Gloucester County, Virginia ",51073,88.6
+2828,"virginia,goochland","Goochland County, Virginia ",51075,70
+2829,"virginia,grayson","Grayson County, Virginia ",51077,60.2
+2830,"virginia,greene","Greene County, Virginia ",51079,59.4
+2831,"virginia,greensville","Greensville County, Virginia ",51081,79
+2832,"virginia,halifax","Halifax County with South Boston City, Virginia ",51083,56.5
+2834,"virginia,hanover","Hanover County, Virginia ",51085,67.2
+2835,"virginia,henrico","Henrico County, Virginia ",51087,61.3
+2836,"virginia,henry","Henry County, Virginia ",51089,64.7
+2837,"virginia,highland","Highland County, Virginia ",51091,-1111.1
+2838,"virginia,isle of wight","Isle of Wight County, Virginia ",51093,56.8
+2839,"virginia,james city","James City County, Virginia ",51095,57.6
+2840,"virginia,king and queen","King and Queen County, Virginia ",51097,98.1
+2841,"virginia,king george","King George County, Virginia ",51099,83.4
+2842,"virginia,king william","King William County, Virginia ",51101,70.4
+2843,"virginia,lancaster","Lancaster County, Virginia ",51103,60
+2844,"virginia,lee","Lee County, Virginia ",51105,73.4
+2845,"virginia,loudoun","Loudoun County, Virginia ",51107,38.5
+2846,"virginia,louisa","Louisa County, Virginia ",51109,84.6
+2847,"virginia,lunenburg","Lunenburg County, Virginia ",51111,69.5
+2848,"virginia,madison","Madison County, Virginia ",51113,77
+2849,"virginia,mathews","Mathews County, Virginia ",51115,57
+2850,"virginia,mecklenburg","Mecklenburg County, Virginia ",51117,76.1
+2851,"virginia,middlesex","Middlesex County, Virginia ",51119,73.6
+2852,"virginia,montgomery","Montgomery County, Virginia ",51121,54.7
+2881,"virginia,suffolk","Suffolk City, Virginia ",51800,62.3
+2853,"virginia,nelson","Nelson County, Virginia ",51125,82.3
+2854,"virginia,new kent","New Kent County, Virginia ",51127,84.2
+2857,"virginia,northampton","Northampton County, Virginia ",51131,80.9
+2858,"virginia,northumberland","Northumberland County, Virginia ",51133,72.7
+2859,"virginia,nottoway","Nottoway County, Virginia ",51135,65.4
+2860,"virginia,orange","Orange County, Virginia ",51137,64
+2861,"virginia,page","Page County, Virginia ",51139,66.6
+2862,"virginia,patrick","Patrick County, Virginia ",51141,51.9
+2863,"virginia,pittsylvania","Pittsylvania County, Virginia ",51143,61.9
+2864,"virginia,powhatan","Powhatan County, Virginia ",51145,64
+2865,"virginia,prince edward","Prince Edward County, Virginia ",51147,57.8
+2866,"virginia,prince george","Prince George County, Virginia ",51149,70.2
+2867,"virginia,prince william","Prince William County, Virginia ",51153,47.5
+2868,"virginia,pulaski","Pulaski County, Virginia ",51155,69.1
+2869,"virginia,rappahannock","Rappahannock County, Virginia ",51157,69.5
+2870,"virginia,richmond","Richmond County, Virginia ",51159,101.5
+2871,"virginia,roanoke","Roanoke County, Virginia ",51161,52.3
+2872,"virginia,rockbridge","Rockbridge County, Virginia ",51163,41.1
+2873,"virginia,rockingham","Rockingham County, Virginia ",51165,51.9
+2874,"virginia,russell","Russell County, Virginia ",51167,60.6
+2875,"virginia,scott","Scott County, Virginia ",51169,71.9
+2876,"virginia,shenandoah","Shenandoah County, Virginia ",51171,70
+2877,"virginia,smyth","Smyth County, Virginia ",51173,88.1
+2878,"virginia,southampton","Southampton County, Virginia ",51175,65
+2879,"virginia,spotsylvania","Spotsylvania County, Virginia ",51177,67.1
+2880,"virginia,stafford","Stafford County, Virginia ",51179,79.1
+2882,"virginia,surry","Surry County, Virginia ",51181,64.1
+2883,"virginia,sussex","Sussex County, Virginia ",51183,80.3
+2884,"virginia,tazewell","Tazewell County, Virginia ",51185,67.9
+2886,"virginia,warren","Warren County, Virginia ",51187,81.6
+2887,"virginia,washington","Washington County, Virginia ",51191,70.5
+2888,"virginia,westmoreland","Westmoreland County, Virginia ",51193,78.8
+2889,"virginia,wise","Wise County, Virginia ",51195,77.2
+2890,"virginia,wythe","Wythe County, Virginia ",51197,68
+2891,"virginia,york","York County, Virginia ",51199,45.2
+2833,"virginia,hampton","Hampton City, Virginia ",51650,75
+2855,"virginia,newport news","Newport News City, Virginia ",51700,72.2
+2856,"virginia,norfolk","Norfolk City, Virginia ",51710,73.1
+2885,"virginia,virginia beach","Virginia Beach City, Virginia ",51810,67.3
+2892,"washington,adams","Adams County, Washington ",53001,39.8
+2893,"washington,asotin","Asotin County, Washington ",53003,59.9
+2894,"washington,benton","Benton County, Washington ",53005,58
+2895,"washington,chelan","Chelan County, Washington ",53007,53.3
+2896,"washington,clallam","Clallam County, Washington ",53009,68.2
+2897,"washington,clark","Clark County, Washington ",53011,63.7
+2898,"washington,columbia","Columbia County, Washington ",53013,63.1
+2899,"washington,cowlitz","Cowlitz County, Washington ",53015,65
+2900,"washington,douglas","Douglas County, Washington ",53017,43.3
+2901,"washington,ferry","Ferry County, Washington ",53019,50.7
+2902,"washington,franklin","Franklin County, Washington ",53021,50.8
+2903,"washington,garfield","Garfield County, Washington ",53023,-1111.1
+2904,"washington,grant","Grant County, Washington ",53025,60.2
+2905,"washington,grays harbor","Grays Harbor County, Washington ",53027,75.2
+2906,"washington,island","Island County, Washington ",53029,46.7
+2907,"washington,jefferson","Jefferson County, Washington ",53031,51.5
+2908,"washington,king","King County, Washington ",53033,50.8
+2909,"washington,kitsap","Kitsap County, Washington ",53035,61.4
+2910,"washington,kittitas","Kittitas County, Washington ",53037,43.9
+2911,"washington,klickitat","Klickitat County, Washington ",53039,49.5
+2912,"washington,lewis","Lewis County, Washington ",53041,63.7
+2913,"washington,lincoln","Lincoln County, Washington ",53043,53.6
+2914,"washington,mason","Mason County, Washington ",53045,73.5
+2915,"washington,okanogan","Okanogan County, Washington ",53047,66.4
+2916,"washington,pacific","Pacific County, Washington ",53049,52.3
+2917,"washington,pend oreille","Pend Oreille County, Washington ",53051,74.6
+2918,"washington,pierce:main","Pierce County, Washington ",53053,75.2
+2919,"washington,pierce:penrose","Pierce County penrose, Washington",53054,-1111.1
+2920,"washington,san juan:lopez island","San Juan County, Washington ",53055,31.6
+2921,"washington,san juan:orcas island","San Juan orcas, Washington",53056,-1111.1
+2922,"washington,san juan:san juan island","San Juan san Juan, Washington",53056.5,-1111.1
+2923,"washington,skagit","Skagit County, Washington ",53057,61.3
+2924,"washington,skamania","Skamania County, Washington ",53059,53
+2925,"washington,snohomish","Snohomish County, Washington ",53061,60.9
+2926,"washington,spokane","Spokane County, Washington ",53063,60.7
+2927,"washington,stevens","Stevens County, Washington ",53065,52
+2928,"washington,thurston","Thurston County, Washington ",53067,62.1
+2929,"washington,wahkiakum","Wahkiakum County, Washington ",53069,56.1
+2930,"washington,walla walla","Walla Walla County, Washington ",53071,54.8
+2931,"washington,whatcom","Whatcom County, Washington ",53073,57.6
+2932,"washington,whitman","Whitman County, Washington ",53075,39.7
+2933,"washington,yakima","Yakima County, Washington ",53077,56.6
+2934,"west virginia,barbour","Barbour County, West Virginia ",54001,60.1
+2935,"west virginia,berkeley","Berkeley County, West Virginia ",54003,85.1
+2936,"west virginia,boone","Boone County, West Virginia ",54005,108.5
+2937,"west virginia,braxton","Braxton County, West Virginia ",54007,68.6
+2938,"west virginia,brooke","Brooke County, West Virginia ",54009,64.2
+2939,"west virginia,cabell","Cabell County, West Virginia ",54011,85.6
+2940,"west virginia,calhoun","Calhoun County, West Virginia ",54013,79.8
+2941,"west virginia,clay","Clay County, West Virginia ",54015,105.6
+2942,"west virginia,doddridge","Doddridge County, West Virginia ",54017,52.8
+2943,"west virginia,fayette","Fayette County, West Virginia ",54019,91.6
+2944,"west virginia,gilmer","Gilmer County, West Virginia ",54021,59
+2945,"west virginia,grant","Grant County, West Virginia ",54023,58.2
+2946,"west virginia,greenbrier","Greenbrier County, West Virginia ",54025,78
+2947,"west virginia,hampshire","Hampshire County, West Virginia ",54027,80.8
+2948,"west virginia,hancock","Hancock County, West Virginia ",54029,77.1
+2949,"west virginia,hardy","Hardy County, West Virginia ",54031,70.4
+2950,"west virginia,harrison","Harrison County, West Virginia ",54033,87.9
+2951,"west virginia,jackson","Jackson County, West Virginia ",54035,74
+2952,"west virginia,jefferson","Jefferson County, West Virginia ",54037,72.9
+2953,"west virginia,kanawha","Kanawha County, West Virginia ",54039,83.4
+2954,"west virginia,lewis","Lewis County, West Virginia ",54041,93.1
+2955,"west virginia,lincoln","Lincoln County, West Virginia ",54043,103.5
+2956,"west virginia,logan","Logan County, West Virginia ",54045,112.2
+2960,"west virginia,mcdowell","McDowell County, West Virginia ",54047,103.2
+2957,"west virginia,marion","Marion County, West Virginia ",54049,82.8
+2958,"west virginia,marshall","Marshall County, West Virginia ",54051,76.4
+2959,"west virginia,mason","Mason County, West Virginia ",54053,84.8
+2961,"west virginia,mercer","Mercer County, West Virginia ",54055,86.7
+2962,"west virginia,mineral","Mineral County, West Virginia ",54057,83.7
+2963,"west virginia,mingo","Mingo County, West Virginia ",54059,106.8
+2964,"west virginia,monongalia","Monongalia County, West Virginia ",54061,64.8
+2965,"west virginia,monroe","Monroe County, West Virginia ",54063,69.4
+2966,"west virginia,morgan","Morgan County, West Virginia ",54065,68.7
+2967,"west virginia,nicholas","Nicholas County, West Virginia ",54067,70.8
+2968,"west virginia,ohio","Ohio County, West Virginia ",54069,67.6
+2969,"west virginia,pendleton","Pendleton County, West Virginia ",54071,47.4
+2970,"west virginia,pleasants","Pleasants County, West Virginia ",54073,95.7
+2971,"west virginia,pocahontas","Pocahontas County, West Virginia ",54075,74.6
+2972,"west virginia,preston","Preston County, West Virginia ",54077,66.8
+2973,"west virginia,putnam","Putnam County, West Virginia ",54079,73.4
+2974,"west virginia,raleigh","Raleigh County, West Virginia ",54081,77.5
+2975,"west virginia,randolph","Randolph County, West Virginia ",54083,63.7
+2976,"west virginia,ritchie","Ritchie County, West Virginia ",54085,101.2
+2977,"west virginia,roane","Roane County, West Virginia ",54087,75.9
+2978,"west virginia,summers","Summers County, West Virginia ",54089,52.8
+2979,"west virginia,taylor","Taylor County, West Virginia ",54091,63
+2980,"west virginia,tucker","Tucker County, West Virginia ",54093,61.3
+2981,"west virginia,tyler","Tyler County, West Virginia ",54095,68.4
+2982,"west virginia,upshur","Upshur County, West Virginia ",54097,76.6
+2983,"west virginia,wayne","Wayne County, West Virginia ",54099,86.6
+2984,"west virginia,webster","Webster County, West Virginia ",54101,86.2
+2985,"west virginia,wetzel","Wetzel County, West Virginia ",54103,80.9
+2986,"west virginia,wirt","Wirt County, West Virginia ",54105,87.2
+2987,"west virginia,wood","Wood County, West Virginia ",54107,83.5
+2988,"west virginia,wyoming","Wyoming County, West Virginia ",54109,95.1
+2989,"wisconsin,adams","Adams County, Wisconsin ",55001,86.2
+2990,"wisconsin,ashland","Ashland County, Wisconsin ",55003,79.3
+2991,"wisconsin,barron","Barron County, Wisconsin ",55005,56.7
+2992,"wisconsin,bayfield","Bayfield County, Wisconsin ",55007,61.5
+2993,"wisconsin,brown","Brown County, Wisconsin ",55009,58.2
+2994,"wisconsin,buffalo","Buffalo County, Wisconsin ",55011,54.3
+2995,"wisconsin,burnett","Burnett County, Wisconsin ",55013,76.2
+2996,"wisconsin,calumet","Calumet County, Wisconsin ",55015,45.9
+2997,"wisconsin,chippewa","Chippewa County, Wisconsin ",55017,66.1
+2998,"wisconsin,clark","Clark County, Wisconsin ",55019,51.9
+2999,"wisconsin,columbia","Columbia County, Wisconsin ",55021,66
+3000,"wisconsin,crawford","Crawford County, Wisconsin ",55023,67.6
+3001,"wisconsin,dane","Dane County, Wisconsin ",55025,53.7
+3002,"wisconsin,dodge","Dodge County, Wisconsin ",55027,56
+3003,"wisconsin,door","Door County, Wisconsin ",55029,55.1
+3004,"wisconsin,douglas","Douglas County, Wisconsin ",55031,76.7
+3005,"wisconsin,dunn","Dunn County, Wisconsin ",55033,45.6
+3006,"wisconsin,eau claire","Eau Claire County, Wisconsin ",55035,53.9
+3007,"wisconsin,florence","Florence County, Wisconsin ",55037,69.1
+3008,"wisconsin,fond du lac","Fond du Lac County, Wisconsin ",55039,62.5
+3009,"wisconsin,forest","Forest County, Wisconsin ",55041,93.7
+3010,"wisconsin,grant","Grant County, Wisconsin ",55043,55.2
+3011,"wisconsin,green","Green County, Wisconsin ",55045,55.1
+3012,"wisconsin,green lake","Green Lake County, Wisconsin ",55047,53.8
+3013,"wisconsin,iowa","Iowa County, Wisconsin ",55049,60.7
+3014,"wisconsin,iron","Iron County, Wisconsin ",55051,71.8
+3015,"wisconsin,jackson","Jackson County, Wisconsin ",55053,64.3
+3016,"wisconsin,jefferson","Jefferson County, Wisconsin ",55055,55.5
+3017,"wisconsin,juneau","Juneau County, Wisconsin ",55057,69
+3018,"wisconsin,kenosha","Kenosha County, Wisconsin ",55059,74
+3019,"wisconsin,kewaunee","Kewaunee County, Wisconsin ",55061,53.5
+3020,"wisconsin,la crosse","La Crosse County, Wisconsin ",55063,58.6
+3021,"wisconsin,lafayette","Lafayette County, Wisconsin ",55065,50.4
+3022,"wisconsin,langlade","Langlade County, Wisconsin ",55067,67.7
+3023,"wisconsin,lincoln","Lincoln County, Wisconsin ",55069,67.7
+3024,"wisconsin,manitowoc","Manitowoc County, Wisconsin ",55071,54.7
+3025,"wisconsin,marathon","Marathon County, Wisconsin ",55073,52
+3026,"wisconsin,marinette","Marinette County, Wisconsin ",55075,67.7
+3027,"wisconsin,marquette","Marquette County, Wisconsin ",55077,83.4
+3028,"wisconsin,milwaukee","Milwaukee County, Wisconsin ",55079,70.3
+3029,"wisconsin,monroe","Monroe County, Wisconsin ",55081,76.9
+3030,"wisconsin,oconto","Oconto County, Wisconsin ",55083,68.8
+3031,"wisconsin,oneida","Oneida County, Wisconsin ",55085,79.9
+3032,"wisconsin,outagamie","Outagamie County, Wisconsin ",55087,52.5
+3033,"wisconsin,ozaukee","Ozaukee County, Wisconsin ",55089,47.5
+3034,"wisconsin,pepin","Pepin County, Wisconsin ",55091,57.6
+3035,"wisconsin,pierce","Pierce County, Wisconsin ",55093,38.9
+3036,"wisconsin,polk","Polk County, Wisconsin ",55095,58.1
+3037,"wisconsin,portage","Portage County, Wisconsin ",55097,50.5
+3038,"wisconsin,price","Price County, Wisconsin ",55099,60.6
+3039,"wisconsin,racine","Racine County, Wisconsin ",55101,66.3
+3040,"wisconsin,richland","Richland County, Wisconsin ",55103,60.1
+3041,"wisconsin,rock","Rock County, Wisconsin ",55105,73.9
+3042,"wisconsin,rusk","Rusk County, Wisconsin ",55107,74.9
+3047,"wisconsin,st croix","St. Croix County, Wisconsin ",55109,52.4
+3043,"wisconsin,sauk","Sauk County, Wisconsin ",55111,59.5
+3044,"wisconsin,sawyer","Sawyer County, Wisconsin ",55113,66.9
+3045,"wisconsin,shawano","Shawano County, Wisconsin ",55115,56.9
+3046,"wisconsin,sheboygan","Sheboygan County, Wisconsin ",55117,59.3
+3048,"wisconsin,taylor","Taylor County, Wisconsin ",55119,46.1
+3049,"wisconsin,trempealeau","Trempealeau County, Wisconsin ",55121,59.9
+3050,"wisconsin,vernon","Vernon County, Wisconsin ",55123,56
+3051,"wisconsin,vilas","Vilas County, Wisconsin ",55125,73.4
+3052,"wisconsin,walworth","Walworth County, Wisconsin ",55127,64.7
+3053,"wisconsin,washburn","Washburn County, Wisconsin ",55129,69.7
+3054,"wisconsin,washington","Washington County, Wisconsin ",55131,57.2
+3055,"wisconsin,waukesha","Waukesha County, Wisconsin ",55133,54.5
+3056,"wisconsin,waupaca","Waupaca County, Wisconsin ",55135,61.4
+3057,"wisconsin,waushara","Waushara County, Wisconsin ",55137,70.8
+3058,"wisconsin,winnebago","Winnebago County, Wisconsin ",55139,58.9
+3059,"wisconsin,wood","Wood County, Wisconsin ",55141,54.6
+3060,"wyoming,albany","Albany County, Wyoming ",56001,45.1
+3061,"wyoming,big horn","Big Horn County, Wyoming ",56003,35.9
+3062,"wyoming,campbell","Campbell County, Wyoming ",56005,56.8
+3063,"wyoming,carbon","Carbon County, Wyoming ",56007,53.9
+3064,"wyoming,converse","Converse County, Wyoming ",56009,53.8
+3065,"wyoming,crook","Crook County, Wyoming ",56011,56.1
+3066,"wyoming,fremont","Fremont County, Wyoming ",56013,43.9
+3067,"wyoming,goshen","Goshen County, Wyoming ",56015,50.6
+3068,"wyoming,hot springs","Hot Springs County, Wyoming ",56017,62.2
+3069,"wyoming,johnson","Johnson County, Wyoming ",56019,38.6
+3070,"wyoming,laramie","Laramie County, Wyoming ",56021,49.2
+3071,"wyoming,lincoln","Lincoln County, Wyoming ",56023,29.7
+3072,"wyoming,natrona","Natrona County, Wyoming ",56025,56
+3073,"wyoming,niobrara","Niobrara County, Wyoming ",56027,-1111.1
+3074,"wyoming,park","Park County, Wyoming ",56029,33.8
+3075,"wyoming,platte","Platte County, Wyoming ",56031,44.1
+3076,"wyoming,sheridan","Sheridan County, Wyoming ",56033,49.9
+3077,"wyoming,sublette","Sublette County, Wyoming ",56035,-1111.1
+3078,"wyoming,sweetwater","Sweetwater County, Wyoming ",56037,45.3
+3079,"wyoming,teton","Teton County, Wyoming ",56039,22.6
+3080,"wyoming,uinta","Uinta County, Wyoming ",56041,37.1
+3081,"wyoming,washakie","Washakie County, Wyoming ",56043,51.1
+3082,"wyoming,weston","Weston County, Wyoming ",56045,46.4
+,,,,
