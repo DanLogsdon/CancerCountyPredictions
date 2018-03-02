@@ -13,9 +13,13 @@ from sklearn.ensemble import RandomForestClassifier
 #%%
 file=r'C:/Users/593419/Documents/Rscripts/test_data.csv'
 testdata=pd.read_csv(file)
+
+file=r'C:/Users/593419/Documents/Rscripts/alldata.csv'
+alldata=pd.read_csv(file)
+
 train=testdata.sample(frac=0.75, random_state=50)
 test=testdata.drop(train.index) 
-rf1=RandomForestClassifier(n_jobs=1, n_estimators=60, oob_score=True, max_features=0.3, max_depth=10)
+rf1=RandomForestClassifier(n_jobs=1, n_estimators=100, oob_score=True, max_features=0.3, max_depth=8)
 rf2=rf1.fit(train[train.columns[2:]], train["Cancer"])
 
 importances = rf2.feature_importances_
@@ -35,8 +39,8 @@ mapdata=mapdata.dropna()
 
 #%% Reset 
 alltest=pd.DataFrame()
-alltest['FIPS']=testdata['FIPS']
-alltest['Cancer']=rf2.predict(testdata[testdata.columns[2:]])
+alltest['FIPS']=alldata['FIPS']
+alltest['Cancer']=rf2.predict(alldata[alldata.columns[1:]])
 
 #%%
 keys=alltest.set_index('FIPS').to_dict()['Cancer']
@@ -53,17 +57,17 @@ rvariables=rvariables.drop(rvariables.columns[0], axis=1)
 #%% 
 i=0
 rtest=pd.DataFrame()
-rtest=testdata
+rtest=alldata
 #%%
 for variable in rvariables["x"]:
     if variable == 1:
        i=i+1 
     else:
-       rtest[rtest.columns[indices[i] +2]]=rtest[rtest.columns[indices[i] +2]]*variable
+       rtest[rtest.columns[indices[i] +1]]=rtest[rtest.columns[indices[i] +1]]*variable
        i=i+1
 #%%       
 alltest['FIPS']=rtest['FIPS']
-alltest['Cancer']=rf2.predict(rtest[rtest.columns[2:]])
+alltest['Cancer']=rf2.predict(rtest[rtest.columns[1:]])
 keys=alltest.set_index('FIPS').to_dict()['Cancer']
 #%%
 mapdata['Cancer']=mapdata['FIPS'].map(keys)
