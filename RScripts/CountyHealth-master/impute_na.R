@@ -19,13 +19,14 @@ for (row in 1:nrow(healthData)) {
     }
 }
 
-## save the cance incidence column
+## save the cancer incidence column
 cancerCol = healthData[,'Cancer_Incidence']
-
 ## first remove columns with 60 or over NAs rows
 bestColData <- healthData[,colSums(is.na(healthData)) < 60]
 ## now remove rows with 6 or over NAs
-bestData <- bestColData[rowSums(is.na(bestColData)) < 6,]
+rowsToKeep <- rowSums(is.na(bestColData)) < 6
+bestData <- bestColData[rowsToKeep,]
+cancerCol <- cancerCol[rowsToKeep]
 
 ## bin all except FIPS and Cancer_Incidence
 nbins <- 8
@@ -35,25 +36,32 @@ for (col in names(bestData)) {
     bestData[col] <- as.factor(ntile(bestData[col], nbins))
 }
 
-## copy data
-imputedData <- bestData
-
 ## data without NA and without FIPS
 completeData <- na.omit(bestData[,!names(bestData) %in% c('FIPS')])
 
 library(bnlearn)
 ## for every row
 for (row in 1:nrow(bestData)) {
-    ## indices of the good columns in this row
-    goodCols = which(!is.na(bestData[row,]))
+    ## remove FIPS
+    thisRow <- bestData[row,!names(bestData) %in% c('FIPS')]
+    ## skip comlete rows
+    if (all(!is.na(thisRow))) { next }
+    ## namas of bad columns
+    badCols <- names(which(sapply(thisRow,is.na)))
+    ## names of the good columns
+    goodCols <- setdiff(names(completeData),badCols)
     ## iterate over the bad columns
-    for (col in which(is.na(bestData[row,]))) {
+    for (col in badCols) {
+        fitCols = append(goodCols, col)
         ## make a TAN for this col using only the good columns
-        tan <- tree.bayes(completeData[,goodCols], col)
-        fitted <- bn.fit(tan,completeData[,goodCols], method = 'bayes')
+        tan <- tree.bayes(completeData[,fitCols], col, goodCols)
+        fitted <- bn.fit(tan, completeData[,fitCols], method = 'bayes')
         ## predict the variable
-        pred = predict(fitted,na.omit(bestData[row,]))
-        ## set the cell to the predicted
-        bestData[row,col] = pred
+        bestData[row,col] <- predict(fitted,thisRow[goodCols])
     }
 }
+
+## add the Cancer_Incidence back into the bestData data frame
+bestData[,'Cancer_Incidence'] = cancerCol
+## write bestData to a csv
+write.csv(bestData, 'imputed_data.csv', row.names = FALSE)
