@@ -21,8 +21,12 @@ for (row in 1:nrow(healthData)) {
 
 ## save the cancer incidence column
 cancerCol = healthData[,'Cancer_Incidence']
+## save the smoking column
+smokingCol = healthData[,'Adult_Smoking']
 ## first remove columns with 60 or over NAs rows
 bestColData <- healthData[,colSums(is.na(healthData)) < 60]
+## put the smoking column back
+bestColData['Adult_Smoking'] = smokingCol
 ## now remove rows with 6 or over NAs
 rowsToKeep <- rowSums(is.na(bestColData)) < 6
 bestData <- bestColData[rowsToKeep,]
