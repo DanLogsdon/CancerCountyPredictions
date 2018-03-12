@@ -33,7 +33,7 @@ bestData <- bestColData[rowsToKeep,]
 cancerCol <- cancerCol[rowsToKeep]
 
 ## bin all except FIPS and Cancer_Incidence
-nbins <- 8
+nbins <- 10
 for (col in names(bestData)) {
     ## skip Cancer_Incidence and FIPS
     if (col == 'Cancer_Incidence' || col == 'FIPS' ) { next }
