@@ -1,0 +1,3071 @@
+number,name,FIPS,Cancer,Adult_Smoking,Physical_Inactivity,Diabetes_Value,Adult_Obesity,a_pm25_mean
+0,"alabama,autauga",01001,4,6,6,8,6,9
+1,"alabama,baldwin",01003,3,6,6,8,2,7
+2,"alabama,barbour",01005,4,8,10,10,10,9
+3,"alabama,bibb",01007,5,9,10,7,9,9
+4,"alabama,blount",01009,4,6,10,10,5,10
+5,"alabama,bullock",01011,3,10,9,10,10,9
+6,"alabama,butler",01013,2,10,10,10,10,8
+7,"alabama,calhoun",01015,4,8,9,10,8,10
+8,"alabama,chambers",01017,4,8,10,10,9,9
+9,"alabama,cherokee",01019,5,8,9,10,6,10
+10,"alabama,chilton",01021,3,5,9,9,10,9
+11,"alabama,choctaw",01023,1,5,10,10,10,8
+12,"alabama,clarke",01025,2,2,10,10,10,8
+13,"alabama,clay",01027,5,9,10,10,9,10
+14,"alabama,cleburne",01029,4,5,10,9,6,10
+15,"alabama,coffee",01031,3,4,8,9,5,8
+16,"alabama,colbert",01033,5,10,8,10,7,8
+17,"alabama,conecuh",01035,4,7,10,10,10,8
+18,"alabama,coosa",01037,3,10,9,10,9,9
+19,"alabama,covington",01039,5,10,10,10,9,7
+20,"alabama,crenshaw",01041,4,3,9,10,10,8
+21,"alabama,cullman",01043,3,6,9,9,7,10
+22,"alabama,dale",01045,4,6,8,10,9,9
+23,"alabama,dallas",01047,4,6,10,10,10,8
+24,"alabama,de kalb",01049,2,4,8,9,7,10
+25,"alabama,elmore",01051,4,6,8,8,6,9
+26,"alabama,escambia",01053,4,6,10,9,10,9
+27,"alabama,etowah",01055,4,9,9,10,7,10
+28,"alabama,fayette",01057,4,2,8,10,10,9
+29,"alabama,franklin",01059,3,8,10,10,9,8
+30,"alabama,geneva",01061,5,10,10,10,9,8
+31,"alabama,greene",01063,5,4,10,10,10,8
+32,"alabama,hale",01065,2,10,10,10,10,9
+33,"alabama,henry",01067,3,3,7,10,9,9
+34,"alabama,houston",01069,4,4,9,9,9,9
+35,"alabama,jackson",01071,5,6,8,9,5,10
+36,"alabama,jefferson",01073,2,6,7,8,7,10
+37,"alabama,lamar",01075,4,9,10,10,6,8
+38,"alabama,lauderdale",01077,3,4,9,9,7,9
+39,"alabama,lawrence",01079,5,9,10,10,10,9
+40,"alabama,lee",01081,2,4,4,5,7,10
+41,"alabama,limestone",01083,3,6,7,7,9,9
+42,"alabama,lowndes",01085,2,7,10,10,10,8
+43,"alabama,macon",01087,2,2,9,10,10,9
+44,"alabama,madison",01089,2,4,4,8,5,10
+45,"alabama,marengo",01091,3,3,9,10,10,9
+46,"alabama,marion",01093,3,9,10,9,8,8
+47,"alabama,marshall",01095,4,9,10,10,7,10
+48,"alabama,mobile",01097,5,8,8,8,9,7
+49,"alabama,monroe",01099,2,6,10,10,10,8
+50,"alabama,montgomery",01101,4,5,6,10,9,8
+51,"alabama,morgan",01103,4,8,7,8,4,10
+52,"alabama,perry",01105,3,9,9,10,10,9
+53,"alabama,pickens",01107,2,4,10,10,10,8
+54,"alabama,pike",01109,2,4,9,10,10,9
+55,"alabama,randolph",01111,3,9,10,10,9,10
+56,"alabama,russell",01113,5,8,10,9,10,9
+57,"alabama,st clair",01115,4,9,9,10,8,10
+58,"alabama,shelby",01117,1,4,3,3,5,10
+59,"alabama,sumter",01119,3,3,8,10,10,8
+60,"alabama,talladega",01121,4,7,10,10,10,10
+61,"alabama,tallapoosa",01123,4,9,8,10,9,9
+62,"alabama,tuscaloosa",01125,4,6,6,7,8,9
+63,"alabama,walker",01127,5,9,10,10,10,10
+64,"alabama,washington",01129,3,5,8,9,10,7
+65,"alabama,wilcox",01131,3,5,9,10,10,8
+66,"alabama,winston",01133,5,7,10,8,10,9
+67,"arizona,apache",04001,1,4,3,10,7,1
+68,"arizona,cochise",04003,1,6,2,3,1,2
+69,"arizona,coconino",04005,1,2,1,1,1,1
+70,"arizona,gila",04007,1,8,4,7,2,2
+71,"arizona,graham",04009,1,3,4,7,9,2
+72,"arizona,greenlee",04011,1,5,3,3,9,2
+73,"arizona,maricopa",04013,1,3,1,2,1,3
+74,"arizona,mohave",04015,4,9,8,8,2,1
+75,"arizona,navajo",04017,1,3,3,8,7,1
+76,"arizona,pima",04019,1,3,1,2,1,3
+77,"arizona,pinal",04021,1,3,2,5,6,3
+78,"arizona,santa cruz",04023,1,3,1,1,1,2
+79,"arizona,yavapai",04025,1,5,2,3,1,2
+80,"arizona,yuma",04027,1,2,3,5,6,3
+81,"arkansas,arkansas",05001,5,6,10,10,9,7
+82,"arkansas,ashley",05003,4,10,10,8,10,7
+83,"arkansas,baxter",05005,4,8,8,7,4,6
+84,"arkansas,benton",05007,2,3,5,3,3,7
+85,"arkansas,boone",05009,4,2,9,8,2,6
+86,"arkansas,bradley",05011,5,2,9,10,9,7
+87,"arkansas,calhoun",05013,5,10,10,8,9,7
+88,"arkansas,carroll",05015,2,8,8,7,4,6
+89,"arkansas,chicot",05017,5,10,10,10,10,7
+90,"arkansas,clark",05019,4,1,8,8,8,7
+91,"arkansas,clay",05021,5,6,10,9,7,7
+92,"arkansas,cleburne",05023,5,9,8,9,4,7
+93,"arkansas,cleveland",05025,5,6,6,9,9,8
+94,"arkansas,columbia",05027,3,3,7,9,9,7
+95,"arkansas,conway",05029,5,9,6,9,10,7
+96,"arkansas,craighead",05031,4,4,9,8,9,7
+97,"arkansas,crawford",05033,5,6,9,5,10,7
+98,"arkansas,crittenden",05035,4,8,9,10,10,8
+99,"arkansas,cross",05037,4,10,10,9,10,7
+100,"arkansas,dallas",05039,5,10,10,10,8,7
+101,"arkansas,desha",05041,5,8,9,10,10,7
+102,"arkansas,drew",05043,5,4,9,9,7,7
+103,"arkansas,faulkner",05045,4,4,6,5,4,8
+104,"arkansas,franklin",05047,3,9,8,8,9,7
+105,"arkansas,fulton",05049,3,10,10,8,6,6
+106,"arkansas,garland",05051,4,9,4,7,3,7
+107,"arkansas,grant",05053,5,10,8,7,10,8
+108,"arkansas,greene",05055,5,4,9,10,10,7
+109,"arkansas,hempstead",05057,5,5,8,10,10,7
+110,"arkansas,hot spring",05059,5,9,9,8,8,7
+111,"arkansas,howard",05061,5,5,9,9,10,7
+112,"arkansas,independence",05063,4,7,10,8,5,6
+113,"arkansas,izard",05065,5,9,10,7,5,6
+114,"arkansas,jackson",05067,5,9,10,10,10,6
+115,"arkansas,jefferson",05069,5,8,10,10,10,9
+116,"arkansas,johnson",05071,5,8,9,8,9,7
+117,"arkansas,lafayette",05073,5,10,9,9,6,7
+118,"arkansas,lawrence",05075,5,3,9,8,10,6
+119,"arkansas,lee",05077,1,4,10,9,9,7
+120,"arkansas,lincoln",05079,2,8,8,7,8,8
+121,"arkansas,little river",05081,5,6,8,8,8,7
+122,"arkansas,logan",05083,5,8,10,9,8,7
+123,"arkansas,lonoke",05085,5,6,6,7,6,8
+124,"arkansas,madison",05087,4,10,8,10,8,6
+125,"arkansas,marion",05089,5,8,6,10,8,6
+126,"arkansas,miller",05091,5,10,9,8,9,7
+127,"arkansas,mississippi",05093,4,10,10,10,10,8
+128,"arkansas,monroe",05095,5,10,10,10,9,7
+129,"arkansas,montgomery",05097,5,5,6,8,5,7
+130,"arkansas,nevada",05099,5,10,10,10,9,7
+131,"arkansas,newton",05101,5,10,10,9,10,6
+132,"arkansas,ouachita",05103,5,7,10,9,10,7
+133,"arkansas,perry",05105,5,10,8,9,9,7
+134,"arkansas,phillips",05107,5,8,10,10,10,7
+135,"arkansas,pike",05109,5,5,6,8,9,7
+136,"arkansas,poinsett",05111,5,5,10,8,10,7
+137,"arkansas,polk",05113,5,9,9,7,8,7
+138,"arkansas,pope",05115,4,7,5,8,9,7
+139,"arkansas,prairie",05117,5,9,9,8,8,7
+140,"arkansas,pulaski",05119,4,5,7,7,8,10
+141,"arkansas,randolph",05121,5,5,9,8,9,7
+142,"arkansas,st francis",05123,2,6,10,9,10,7
+143,"arkansas,saline",05125,4,7,6,7,7,8
+144,"arkansas,scott",05127,5,10,10,9,4,6
+145,"arkansas,searcy",05129,4,5,8,8,5,6
+146,"arkansas,sebastian",05131,4,6,8,7,5,7
+147,"arkansas,sevier",05133,3,6,8,10,10,7
+148,"arkansas,sharp",05135,5,10,8,8,5,6
+149,"arkansas,stone",05137,3,9,9,10,9,6
+150,"arkansas,union",05139,4,9,8,8,6,8
+151,"arkansas,van buren",05141,4,10,6,9,8,7
+152,"arkansas,washington",05143,3,5,3,2,4,7
+153,"arkansas,white",05145,5,4,6,7,8,9
+154,"arkansas,woodruff",05147,5,6,8,9,10,7
+155,"arkansas,yell",05149,5,7,6,9,8,7
+156,"california,alameda",06001,1,1,1,2,1,7
+157,"california,alpine",06003,1,3,1,5,1,3
+158,"california,amador",06005,2,6,1,5,1,4
+159,"california,butte",06007,2,5,1,2,1,4
+160,"california,calaveras",06009,1,5,1,3,2,4
+161,"california,colusa",06011,1,2,1,2,1,4
+162,"california,contra costa",06013,1,1,1,2,1,7
+163,"california,del norte",06015,4,5,1,3,2,2
+164,"california,el dorado",06017,1,2,1,2,1,3
+165,"california,fresno",06019,1,2,1,3,4,10
+166,"california,glenn",06021,2,2,1,2,2,3
+167,"california,humboldt",06023,1,5,1,2,2,2
+168,"california,imperial",06025,1,1,2,1,1,4
+169,"california,inyo",06027,1,5,1,3,1,3
+170,"california,kern",06029,1,3,2,2,3,8
+171,"california,kings",06031,1,1,1,2,1,10
+172,"california,lake",06033,4,8,1,5,2,3
+173,"california,lassen",06035,1,4,1,2,2,3
+174,"california,los angeles",06037,1,1,1,2,1,10
+175,"california,madera",06039,1,2,1,3,5,7
+176,"california,marin",06041,1,1,1,1,1,4
+177,"california,mariposa",06043,1,5,2,3,1,6
+178,"california,mendocino",06045,1,4,1,2,1,2
+179,"california,merced",06047,1,1,1,2,6,8
+180,"california,modoc",06049,1,3,1,3,1,3
+181,"california,mono",06051,1,3,1,1,1,4
+182,"california,monterey",06053,1,1,1,1,1,5
+183,"california,napa",06055,1,1,1,1,1,4
+184,"california,nevada",06057,1,2,1,1,1,3
+185,"california,orange",06059,1,1,1,1,1,10
+186,"california,placer",06061,1,1,1,1,1,3
+187,"california,plumas",06063,1,2,1,3,1,3
+188,"california,riverside",06065,1,2,1,5,2,5
+189,"california,sacramento",06067,2,2,1,3,3,6
+190,"california,san benito",06069,1,1,1,1,1,6
+191,"california,san bernardino",06071,1,3,1,3,3,4
+192,"california,san diego",06073,1,1,1,2,1,7
+193,"california,san francisco",06075,1,1,1,1,1,7
+194,"california,san joaquin",06077,1,3,2,5,6,10
+195,"california,san luis obispo",06079,1,1,1,1,1,5
+196,"california,san mateo",06081,1,1,1,1,1,5
+197,"california,santa barbara",06083,1,1,1,1,1,5
+198,"california,santa clara",06085,1,1,1,2,1,5
+199,"california,santa cruz",06087,1,1,1,1,1,4
+200,"california,shasta",06089,2,8,1,3,3,3
+201,"california,sierra",06091,1,6,1,5,1,3
+202,"california,siskiyou",06093,2,8,1,3,1,3
+203,"california,solano",06095,2,2,2,5,2,5
+204,"california,sonoma",06097,1,2,1,1,1,3
+205,"california,stanislaus",06099,1,3,2,2,6,9
+206,"california,sutter",06101,2,5,2,2,2,5
+207,"california,tehama",06103,2,6,1,3,2,4
+208,"california,trinity",06105,2,7,2,5,1,3
+209,"california,tulare",06107,1,2,2,1,5,7
+210,"california,tuolumne",06109,1,5,1,2,1,5
+211,"california,ventura",06111,1,1,1,1,1,7
+212,"california,yolo",06113,1,1,1,1,1,5
+213,"california,yuba",06115,2,3,2,2,6,4
+214,"colorado,adams",08001,1,6,1,1,1,2
+215,"colorado,alamosa",08003,1,3,2,1,1,1
+216,"colorado,arapahoe",08005,1,2,1,1,1,2
+217,"colorado,archuleta",08007,1,5,1,1,1,1
+218,"colorado,baca",08009,4,5,2,2,1,1
+219,"colorado,bent",08011,1,9,2,1,1,1
+220,"colorado,boulder",08013,1,1,1,1,1,3
+221,"colorado,chaffee",08015,1,5,1,1,1,2
+222,"colorado,cheyenne",08017,1,3,2,2,1,1
+223,"colorado,clear creek",08019,1,5,1,1,1,2
+224,"colorado,conejos",08021,1,6,1,1,1,1
+225,"colorado,costilla",08023,1,5,2,2,1,1
+226,"colorado,crowley",08025,1,3,2,1,1,1
+227,"colorado,custer",08027,2,2,2,2,1,1
+228,"colorado,delta",08029,1,8,2,2,1,1
+229,"colorado,denver",08031,1,5,1,1,1,4
+230,"colorado,dolores",08033,1,1,2,1,1,1
+231,"colorado,douglas",08035,1,1,1,1,1,2
+232,"colorado,eagle",08037,1,1,1,1,1,2
+233,"colorado,elbert",08039,1,2,1,1,1,1
+234,"colorado,el paso",08041,1,4,1,1,1,1
+235,"colorado,fremont",08043,1,9,1,3,1,2
+236,"colorado,garfield",08045,1,4,1,1,1,1
+237,"colorado,gilpin",08047,1,3,1,1,1,2
+238,"colorado,grand",08049,1,6,1,1,1,2
+239,"colorado,gunnison",08051,1,2,1,1,1,2
+240,"colorado,hinsdale",08053,1,2,1,1,1,1
+241,"colorado,huerfano",08055,1,10,4,2,1,1
+242,"colorado,jackson",08057,1,5,1,1,1,1
+243,"colorado,jefferson",08059,1,3,1,1,1,2
+244,"colorado,kiowa",08061,1,2,1,2,1,1
+245,"colorado,kit carson",08063,2,3,5,1,2,1
+246,"colorado,lake",08065,1,2,1,1,1,2
+247,"colorado,la plata",08067,1,3,1,1,1,1
+248,"colorado,larimer",08069,1,2,1,1,1,2
+249,"colorado,las animas",08071,1,10,2,2,1,1
+250,"colorado,lincoln",08073,1,8,2,2,1,1
+251,"colorado,logan",08075,1,9,2,1,1,1
+252,"colorado,mesa",08077,2,5,1,1,1,3
+253,"colorado,mineral",08079,1,2,1,1,1,1
+254,"colorado,moffat",08081,1,6,4,1,1,2
+255,"colorado,montezuma",08083,1,5,2,1,1,1
+256,"colorado,montrose",08085,1,3,1,1,1,1
+257,"colorado,morgan",08087,2,2,2,1,4,1
+258,"colorado,otero",08089,1,5,2,2,2,1
+259,"colorado,ouray",08091,1,3,1,1,1,1
+260,"colorado,park",08093,1,3,1,1,1,2
+261,"colorado,phillips",08095,1,1,2,2,1,1
+262,"colorado,pitkin",08097,1,1,1,1,1,2
+263,"colorado,prowers",08099,1,5,3,1,2,1
+264,"colorado,pueblo",08101,1,7,1,3,2,1
+265,"colorado,rio blanco",08103,1,2,1,1,1,2
+266,"colorado,rio grande",08105,1,5,2,1,1,1
+267,"colorado,routt",08107,1,1,1,1,1,2
+268,"colorado,saguache",08109,1,2,1,1,1,1
+269,"colorado,san juan",08111,1,1,1,1,1,1
+270,"colorado,san miguel",08113,1,6,1,1,1,1
+271,"colorado,sedgwick",08115,1,3,2,2,1,1
+272,"colorado,summit",08117,1,1,1,1,1,2
+273,"colorado,teller",08119,1,7,1,1,1,2
+274,"colorado,washington",08121,1,2,3,1,1,1
+275,"colorado,weld",08123,1,4,1,1,2,2
+276,"colorado,yuma",08125,1,4,2,1,1,1
+277,"connecticut,fairfield",09001,1,1,1,1,1,7
+278,"connecticut,hartford",09003,2,2,2,3,1,6
+279,"connecticut,litchfield",09005,2,3,1,2,1,5
+280,"connecticut,middlesex",09007,2,2,2,2,1,5
+281,"connecticut,new haven",09009,3,3,3,5,2,7
+282,"connecticut,new london",09011,3,4,2,2,1,6
+283,"connecticut,tolland",09013,2,2,1,1,1,5
+284,"connecticut,windham",09015,3,4,3,5,5,4
+285,"delaware,kent",10001,3,6,6,8,9,9
+286,"delaware,new castle",10003,3,3,2,2,2,10
+287,"delaware,sussex",10005,4,5,4,8,5,6
+288,"district of columbia,washington",11001,1,3,1,2,1,10
+289,"florida,alachua",12001,3,2,2,1,1,5
+290,"florida,baker",12003,4,5,8,9,10,5
+291,"florida,bay",12005,3,8,3,5,4,6
+292,"florida,bradford",12007,4,1,8,9,10,5
+293,"florida,brevard",12009,3,6,3,8,3,3
+294,"florida,broward",12011,1,2,3,3,1,3
+295,"florida,calhoun",12013,4,10,8,10,10,6
+296,"florida,charlotte",12015,2,6,2,9,2,3
+297,"florida,citrus",12017,4,8,4,9,4,4
+298,"florida,clay",12019,4,6,3,7,3,5
+299,"florida,collier",12021,1,2,1,5,1,3
+300,"florida,columbia",12023,5,8,7,9,9,5
+302,"florida,de soto",12027,2,3,8,9,9,4
+303,"florida,dixie",12029,3,10,9,10,10,5
+304,"florida,duval",12031,3,5,4,7,3,5
+305,"florida,escambia",12033,4,6,4,8,5,7
+306,"florida,flagler",12035,3,7,3,8,3,4
+307,"florida,franklin",12037,5,6,6,5,2,6
+308,"florida,gadsden",12039,3,4,9,10,10,7
+309,"florida,gilchrist",12041,3,8,6,7,7,5
+310,"florida,glades",12043,1,4,9,9,10,3
+311,"florida,gulf",12045,3,8,6,7,6,5
+312,"florida,hamilton",12047,4,6,9,10,10,6
+313,"florida,hardee",12049,4,6,8,9,10,4
+314,"florida,hendry",12051,3,7,8,7,9,3
+315,"florida,hernando",12053,4,7,4,8,4,4
+316,"florida,highlands",12055,3,5,6,10,5,4
+317,"florida,hillsborough",12057,3,4,2,7,2,5
+318,"florida,holmes",12059,4,6,9,10,6,7
+319,"florida,indian river",12061,3,5,3,8,1,3
+320,"florida,jackson",12063,2,4,8,9,9,7
+321,"florida,jefferson",12065,1,4,6,9,9,6
+322,"florida,lafayette",12067,5,3,6,7,9,5
+323,"florida,lake",12069,4,2,2,8,4,4
+324,"florida,lee",12071,3,5,3,7,2,4
+325,"florida,leon",12073,1,2,1,3,3,8
+326,"florida,levy",12075,4,5,9,9,9,5
+327,"florida,liberty",12077,3,7,9,8,10,6
+328,"florida,madison",12079,2,6,7,10,10,6
+329,"florida,manatee",12081,2,3,3,7,1,4
+330,"florida,marion",12083,4,6,5,8,7,5
+331,"florida,martin",12085,2,3,1,3,1,3
+332,"florida,monroe",12087,1,6,1,1,1,2
+333,"florida,nassau",12089,4,5,3,5,3,6
+334,"florida,okaloosa:main",12091,3,6,2,5,4,7
+336,"florida,okeechobee",12093,5,5,8,5,7,4
+337,"florida,orange",12095,1,2,3,3,2,5
+338,"florida,osceola",12097,1,6,5,5,4,4
+339,"florida,palm beach",12099,1,2,2,5,1,3
+340,"florida,pasco",12101,4,9,6,7,4,4
+341,"florida,pinellas",12103,3,5,1,7,1,5
+342,"florida,polk",12105,3,5,4,8,7,4
+343,"florida,putnam",12107,5,9,9,10,9,4
+344,"florida,st johns",12109,2,2,1,2,1,4
+345,"florida,st lucie",12111,2,3,4,9,4,4
+346,"florida,santa rosa",12113,4,8,3,5,3,7
+347,"florida,sarasota",12115,3,4,1,5,1,4
+348,"florida,seminole",12117,1,4,2,7,1,4
+349,"florida,sumter",12119,2,1,2,10,3,4
+350,"florida,suwannee",12121,5,8,7,8,6,5
+351,"florida,taylor",12123,5,10,8,9,10,6
+352,"florida,union",12125,5,9,8,10,10,5
+353,"florida,volusia",12127,3,6,4,8,2,4
+354,"florida,wakulla",12129,5,8,6,7,10,6
+355,"florida,walton",12131,4,7,5,7,2,7
+356,"florida,washington",12133,4,9,8,9,10,7
+357,"georgia,appling",13001,5,9,8,10,9,8
+358,"georgia,atkinson",13003,3,10,7,7,6,8
+359,"georgia,bacon",13005,4,9,9,7,6,8
+360,"georgia,baker",13007,3,10,6,10,8,8
+361,"georgia,baldwin",13009,5,8,6,7,7,10
+362,"georgia,banks",13011,5,9,5,7,3,10
+363,"georgia,barrow",13013,5,9,8,8,7,10
+364,"georgia,bartow",13015,5,6,5,7,4,10
+365,"georgia,ben hill",13017,4,7,9,10,8,9
+366,"georgia,berrien",13019,5,10,8,8,5,8
+367,"georgia,bibb",13021,4,3,5,8,5,10
+368,"georgia,bleckley",13023,3,5,6,8,5,9
+369,"georgia,brantley",13025,4,8,5,7,6,7
+370,"georgia,brooks",13027,4,6,8,10,8,7
+371,"georgia,bryan",13029,3,1,2,5,3,7
+372,"georgia,bulloch",13031,4,4,3,7,8,7
+373,"georgia,burke",13033,4,1,8,9,10,9
+374,"georgia,butts",13035,5,8,5,9,9,10
+375,"georgia,calhoun",13037,1,9,6,9,7,8
+376,"georgia,camden",13039,4,8,3,8,4,6
+377,"georgia,candler",13043,5,9,6,8,7,8
+378,"georgia,carroll",13045,4,6,6,9,6,10
+379,"georgia,catoosa",13047,3,7,9,8,6,10
+380,"georgia,charlton",13049,2,10,7,8,7,6
+381,"georgia,chatham",13051,2,4,3,5,2,9
+382,"georgia,chattahoochee",13053,1,8,4,1,6,10
+383,"georgia,chattooga",13055,5,10,6,8,8,10
+384,"georgia,cherokee",13057,3,3,2,3,3,10
+385,"georgia,clarke",13059,2,1,3,3,2,10
+386,"georgia,clay",13061,3,10,8,10,9,9
+387,"georgia,clayton",13063,2,3,6,7,10,10
+388,"georgia,clinch",13065,5,10,8,9,8,7
+389,"georgia,cobb",13067,1,2,1,3,1,10
+390,"georgia,coffee",13069,4,6,8,8,6,8
+391,"georgia,colquitt",13071,5,8,6,9,8,8
+392,"georgia,columbia",13073,2,3,2,5,2,9
+393,"georgia,cook",13075,5,7,7,10,7,8
+394,"georgia,coweta",13077,2,3,4,7,5,10
+395,"georgia,crawford",13079,5,9,6,9,6,9
+396,"georgia,crisp",13081,4,5,10,10,9,8
+397,"georgia,dade",13083,5,5,5,8,6,10
+398,"georgia,dawson",13085,5,10,2,7,3,10
+399,"georgia,decatur",13087,2,8,7,9,7,7
+400,"georgia,de kalb",13089,1,1,2,3,2,10
+401,"georgia,dodge",13091,4,4,8,10,10,9
+402,"georgia,dooly",13093,3,5,6,9,7,9
+403,"georgia,dougherty",13095,4,4,6,9,10,9
+404,"georgia,douglas",13097,4,2,5,8,9,10
+405,"georgia,early",13099,2,8,7,9,6,9
+406,"georgia,echols",13101,4,5,5,5,3,7
+407,"georgia,effingham",13103,5,4,3,5,6,8
+408,"georgia,elbert",13105,3,4,8,10,10,10
+409,"georgia,emanuel",13107,4,9,6,7,5,9
+410,"georgia,evans",13109,5,10,8,10,9,8
+411,"georgia,fannin",13111,3,9,3,9,4,10
+412,"georgia,fayette",13113,1,1,2,7,1,10
+413,"georgia,floyd",13115,4,6,8,7,2,10
+414,"georgia,forsyth",13117,2,1,1,5,1,10
+415,"georgia,franklin",13119,5,5,7,8,2,9
+416,"georgia,fulton",13121,1,1,1,2,1,10
+417,"georgia,gilmer",13123,3,6,6,8,4,10
+418,"georgia,glascock",13125,4,9,6,8,4,9
+419,"georgia,glynn",13127,3,4,6,5,3,7
+420,"georgia,gordon",13129,5,8,3,5,4,10
+421,"georgia,grady",13131,5,9,7,8,7,7
+422,"georgia,greene",13133,3,1,6,10,7,10
+423,"georgia,gwinnett",13135,1,2,2,1,1,10
+424,"georgia,habersham",13137,5,8,5,7,3,9
+425,"georgia,hall",13139,3,3,3,8,4,10
+426,"georgia,hancock",13141,1,9,6,10,10,10
+427,"georgia,haralson",13143,5,10,6,8,7,10
+428,"georgia,harris",13145,3,4,2,9,3,10
+429,"georgia,hart",13147,2,7,4,8,3,10
+430,"georgia,heard",13149,5,10,6,8,4,10
+431,"georgia,henry",13151,2,6,3,5,4,10
+432,"georgia,houston",13153,3,5,3,5,5,9
+433,"georgia,irwin",13155,3,3,5,8,6,8
+434,"georgia,jackson",13157,4,8,5,3,2,10
+435,"georgia,jasper",13159,3,6,6,8,5,10
+436,"georgia,jeff davis",13161,4,3,8,8,4,8
+437,"georgia,jefferson",13163,2,2,7,10,10,9
+438,"georgia,jenkins",13165,3,10,5,10,7,9
+439,"georgia,johnson",13167,3,2,8,9,8,10
+440,"georgia,jones",13169,5,7,7,9,6,10
+441,"georgia,lamar",13171,5,8,6,8,8,10
+442,"georgia,lanier",13173,2,5,7,7,4,7
+443,"georgia,laurens",13175,3,6,8,8,9,9
+444,"georgia,lee",13177,5,7,3,7,6,9
+445,"georgia,liberty",13179,4,9,5,5,8,7
+446,"georgia,lincoln",13181,4,10,8,10,9,10
+447,"georgia,long",13183,2,8,4,5,6,7
+448,"georgia,lowndes",13185,2,8,5,7,6,9
+449,"georgia,lumpkin",13187,3,3,2,3,4,10
+450,"georgia,mcduffie",13189,3,8,6,10,8,9
+451,"georgia,mcintosh",13191,4,10,6,10,7,6
+452,"georgia,macon",13193,3,10,5,10,9,9
+453,"georgia,madison",13195,5,8,5,8,7,10
+454,"georgia,marion",13197,1,10,8,10,7,9
+455,"georgia,meriwether",13199,2,4,6,9,7,10
+456,"georgia,miller",13201,5,8,10,10,7,8
+457,"georgia,mitchell",13205,4,3,9,9,6,8
+458,"georgia,monroe",13207,5,10,5,8,8,10
+459,"georgia,montgomery",13209,2,9,6,8,8,9
+460,"georgia,morgan",13211,3,2,5,10,7,10
+461,"georgia,murray",13213,5,9,9,8,3,10
+462,"georgia,muscogee",13215,5,7,7,9,10,10
+463,"georgia,newton",13217,4,6,5,7,7,10
+464,"georgia,oconee",13219,2,1,2,5,2,10
+465,"georgia,oglethorpe",13221,4,8,5,8,4,10
+466,"georgia,paulding",13223,4,5,4,7,2,10
+467,"georgia,peach",13225,5,6,6,9,9,9
+468,"georgia,pickens",13227,5,8,3,7,2,10
+469,"georgia,pierce",13229,4,3,8,9,6,7
+470,"georgia,pike",13231,5,9,6,8,6,10
+471,"georgia,polk",13233,5,7,6,10,2,10
+472,"georgia,pulaski",13235,1,3,8,9,6,8
+473,"georgia,putnam",13237,3,3,3,10,7,10
+474,"georgia,quitman",13239,4,4,7,10,6,9
+475,"georgia,rabun",13241,3,4,3,10,4,9
+476,"georgia,randolph",13243,2,10,10,10,10,9
+477,"georgia,richmond",13245,3,7,6,8,8,10
+478,"georgia,rockdale",13247,2,1,6,10,8,10
+479,"georgia,schley",13249,4,9,6,9,4,9
+480,"georgia,screven",13251,5,4,9,9,9,8
+481,"georgia,seminole",13253,3,3,8,10,7,7
+482,"georgia,spalding",13255,4,5,6,9,9,10
+483,"georgia,stephens",13257,4,4,5,10,7,9
+484,"georgia,stewart",13259,3,10,6,10,9,9
+485,"georgia,sumter",13261,3,5,7,10,10,9
+486,"georgia,talbot",13263,4,10,8,10,9,10
+487,"georgia,taliaferro",13265,3,10,9,10,9,10
+488,"georgia,tattnall",13267,5,10,8,7,7,8
+489,"georgia,taylor",13269,3,6,7,9,8,9
+490,"georgia,telfair",13271,1,9,8,8,6,9
+491,"georgia,terrell",13273,4,5,8,10,10,9
+492,"georgia,thomas",13275,4,6,4,10,8,7
+493,"georgia,tift",13277,4,3,8,9,7,8
+494,"georgia,toombs",13279,4,3,8,10,9,9
+495,"georgia,towns",13281,2,6,6,10,2,10
+496,"georgia,treutlen",13283,3,6,8,8,9,9
+497,"georgia,troup",13285,4,2,7,10,6,10
+498,"georgia,turner",13287,5,4,10,9,8,8
+499,"georgia,twiggs",13289,5,10,8,10,7,10
+500,"georgia,union",13291,3,1,6,10,2,10
+501,"georgia,upson",13293,5,9,6,10,9,10
+502,"georgia,walker",13295,5,8,9,9,7,10
+503,"georgia,walton",13297,3,3,6,7,3,10
+504,"georgia,ware",13299,3,6,9,10,9,7
+505,"georgia,warren",13301,4,9,6,10,10,10
+506,"georgia,washington",13303,3,9,6,10,9,10
+507,"georgia,wayne",13305,4,8,8,8,8,7
+508,"georgia,webster",13307,3,10,7,10,6,9
+509,"georgia,wheeler",13309,2,8,7,5,7,9
+510,"georgia,white",13311,3,3,3,7,4,9
+511,"georgia,whitfield",13313,3,5,8,7,3,10
+512,"georgia,wilcox",13315,3,7,6,8,6,8
+513,"georgia,wilkes",13317,2,9,6,10,8,10
+514,"georgia,wilkinson",13319,5,9,6,10,7,10
+515,"georgia,worth",13321,5,9,5,8,7,8
+516,"idaho,ada",16001,1,2,1,1,1,3
+517,"idaho,adams",16003,3,6,2,7,2,3
+518,"idaho,bannock",16005,1,3,1,5,4,3
+519,"idaho,bear lake",16007,1,1,6,5,2,2
+520,"idaho,benewah",16009,4,9,4,8,2,4
+521,"idaho,bingham",16011,1,3,2,8,9,3
+522,"idaho,blaine",16013,1,1,1,1,1,3
+523,"idaho,boise",16015,3,6,2,5,2,3
+524,"idaho,bonner",16017,1,4,1,3,1,3
+525,"idaho,bonneville",16019,1,1,1,3,3,2
+526,"idaho,boundary",16021,1,3,3,3,2,3
+527,"idaho,butte",16023,1,4,2,5,5,3
+528,"idaho,camas",16025,1,6,2,3,2,2
+529,"idaho,canyon",16027,1,4,2,5,5,3
+530,"idaho,caribou",16029,1,3,5,2,1,2
+531,"idaho,cassia",16031,1,1,3,5,6,1
+532,"idaho,clark",16033,1,4,2,3,4,3
+533,"idaho,clearwater",16035,3,7,4,7,7,4
+534,"idaho,custer",16037,1,2,2,5,2,3
+535,"idaho,elmore",16039,3,3,2,3,5,2
+536,"idaho,franklin",16041,1,1,3,3,3,3
+537,"idaho,fremont",16043,1,3,1,3,1,2
+538,"idaho,gem",16045,3,5,2,5,5,3
+539,"idaho,gooding",16047,3,5,5,5,6,2
+540,"idaho,idaho",16049,3,4,4,7,3,3
+541,"idaho,jefferson",16051,1,1,3,3,3,3
+542,"idaho,jerome",16053,1,5,1,3,7,2
+543,"idaho,kootenai",16055,1,5,1,3,1,4
+544,"idaho,latah",16057,1,2,1,1,1,3
+545,"idaho,lemhi",16059,1,2,1,7,1,4
+546,"idaho,lewis",16061,2,3,3,6,4,3
+547,"idaho,lincoln",16063,1,6,3,1,2,2
+548,"idaho,madison",16065,1,1,2,1,2,2
+549,"idaho,minidoka",16067,1,2,5,8,5,2
+550,"idaho,nez perce",16069,3,5,3,6,7,3
+551,"idaho,oneida",16071,3,5,2,5,7,3
+552,"idaho,owyhee",16073,1,4,8,6,5,1
+553,"idaho,payette",16075,1,8,3,3,3,3
+554,"idaho,power",16077,1,1,3,2,5,2
+555,"idaho,shoshone",16079,5,9,5,6,5,4
+556,"idaho,teton",16081,1,1,1,1,2,2
+557,"idaho,twin falls",16083,1,4,2,3,1,2
+558,"idaho,valley",16085,1,4,3,3,2,3
+559,"idaho,washington",16087,3,3,4,8,4,3
+560,"illinois,adams",17001,4,10,6,3,5,6
+561,"illinois,alexander",17003,5,9,7,6,8,6
+562,"illinois,bond",17005,3,10,7,5,4,6
+563,"illinois,boone",17007,2,3,3,3,6,7
+564,"illinois,brown",17009,5,4,6,3,5,6
+565,"illinois,bureau",17011,5,3,8,5,6,8
+566,"illinois,calhoun",17013,4,5,9,5,5,6
+567,"illinois,carroll",17015,5,4,5,6,6,7
+568,"illinois,cass",17017,5,10,7,5,5,6
+569,"illinois,champaign",17019,2,3,2,2,2,9
+570,"illinois,christian",17021,5,6,6,6,7,6
+571,"illinois,clark",17023,4,4,5,3,6,8
+572,"illinois,clay",17025,4,4,8,5,5,8
+573,"illinois,clinton",17027,3,3,8,3,3,6
+574,"illinois,coles",17029,2,1,2,2,4,9
+575,"illinois,cook",17031,2,4,2,3,2,10
+576,"illinois,crawford",17033,4,4,8,5,8,8
+577,"illinois,cumberland",17035,5,8,6,5,4,9
+578,"illinois,de kalb",17037,3,5,2,1,5,6
+579,"illinois,de witt",17039,5,4,6,5,5,9
+580,"illinois,douglas",17041,2,4,5,2,5,9
+581,"illinois,du page",17043,1,1,1,2,1,9
+582,"illinois,edgar",17045,4,3,5,6,8,8
+583,"illinois,edwards",17047,5,4,4,5,2,9
+584,"illinois,effingham",17049,2,3,5,3,2,8
+585,"illinois,fayette",17051,5,4,6,5,7,5
+586,"illinois,ford",17053,3,5,8,5,6,6
+587,"illinois,franklin",17055,5,6,7,6,5,5
+588,"illinois,fulton",17057,4,3,7,3,5,7
+589,"illinois,gallatin",17059,5,3,7,6,5,9
+590,"illinois,greene",17061,3,10,5,5,5,6
+591,"illinois,grundy",17063,5,3,8,3,9,6
+592,"illinois,hamilton",17065,5,8,6,5,4,8
+593,"illinois,hancock",17067,4,9,8,5,3,6
+594,"illinois,hardin",17069,5,9,5,6,6,9
+595,"illinois,henderson",17071,4,7,6,5,6,7
+596,"illinois,henry",17073,4,8,5,3,4,8
+597,"illinois,iroquois",17075,5,8,8,5,7,6
+598,"illinois,jackson",17077,3,4,2,2,3,6
+599,"illinois,jasper",17079,3,3,6,5,5,9
+600,"illinois,jefferson",17081,5,8,5,6,8,5
+601,"illinois,jersey",17083,3,4,7,3,3,7
+602,"illinois,jo daviess",17085,4,2,7,5,2,6
+603,"illinois,johnson",17087,4,8,7,5,4,7
+604,"illinois,kane",17089,2,2,2,2,2,7
+605,"illinois,kankakee",17091,4,9,5,5,8,5
+606,"illinois,kendall",17093,2,3,2,1,3,7
+607,"illinois,knox",17095,3,4,8,5,7,8
+608,"illinois,lake",17097,1,2,1,1,1,7
+609,"illinois,la salle",17099,3,6,5,5,4,7
+610,"illinois,lawrence",17101,5,9,6,5,6,9
+611,"illinois,lee",17103,2,8,5,5,2,8
+612,"illinois,livingston",17105,5,10,7,5,6,7
+613,"illinois,logan",17107,4,9,5,5,8,7
+614,"illinois,mcdonough",17109,3,3,3,3,4,7
+615,"illinois,mchenry",17111,2,6,2,1,2,6
+616,"illinois,mclean",17113,2,1,3,3,7,8
+617,"illinois,macon",17115,5,7,5,5,7,10
+618,"illinois,macoupin",17117,5,9,8,5,5,6
+619,"illinois,madison",17119,3,5,5,6,7,8
+620,"illinois,marion",17121,5,8,8,2,8,5
+621,"illinois,marshall",17123,4,8,7,5,5,8
+622,"illinois,mason",17125,5,3,5,5,7,7
+623,"illinois,massac",17127,5,9,7,6,9,9
+624,"illinois,menard",17129,5,5,6,5,4,6
+625,"illinois,mercer",17131,4,10,5,5,7,7
+626,"illinois,monroe",17133,2,5,5,3,4,8
+627,"illinois,montgomery",17135,5,4,3,3,1,6
+628,"illinois,morgan",17137,4,5,8,5,5,6
+629,"illinois,moultrie",17139,4,4,8,5,5,8
+630,"illinois,ogle",17141,2,3,5,5,3,7
+631,"illinois,peoria",17143,5,4,3,5,2,9
+632,"illinois,perry",17145,4,9,5,3,3,6
+633,"illinois,piatt",17147,4,3,5,5,5,9
+634,"illinois,pike",17149,3,9,4,5,4,5
+635,"illinois,pope",17151,5,9,5,6,6,9
+636,"illinois,pulaski",17153,5,7,7,8,8,6
+637,"illinois,putnam",17155,4,8,5,5,4,8
+638,"illinois,randolph",17157,4,1,3,3,6,7
+639,"illinois,richland",17159,5,4,6,5,5,9
+640,"illinois,rock island",17161,3,4,4,3,2,9
+641,"illinois,st clair",17163,4,6,6,6,5,9
+642,"illinois,saline",17165,5,9,8,6,5,8
+643,"illinois,sangamon",17167,4,4,5,6,6,8
+644,"illinois,schuyler",17169,5,4,7,5,4,6
+645,"illinois,scott",17171,5,5,5,5,4,6
+646,"illinois,shelby",17173,4,4,8,5,5,7
+647,"illinois,stark",17175,3,4,5,5,7,8
+648,"illinois,stephenson",17177,2,10,6,8,3,7
+649,"illinois,tazewell",17179,5,4,6,3,2,9
+650,"illinois,union",17181,5,10,7,5,6,5
+651,"illinois,vermilion",17183,5,8,5,6,5,7
+652,"illinois,wabash",17185,5,9,7,5,5,9
+653,"illinois,warren",17187,3,6,5,5,5,7
+654,"illinois,washington",17189,3,5,5,5,7,6
+655,"illinois,wayne",17191,5,10,6,5,4,9
+656,"illinois,white",17193,5,9,6,5,6,9
+657,"illinois,whiteside",17195,3,7,5,5,3,7
+658,"illinois,will",17197,3,4,3,5,8,7
+659,"illinois,williamson",17199,4,6,6,3,5,5
+660,"illinois,winnebago",17201,3,6,4,6,4,8
+661,"illinois,woodford",17203,2,4,2,3,5,8
+662,"indiana,adams",18001,1,6,6,3,5,8
+663,"indiana,allen",18003,2,6,4,5,7,10
+664,"indiana,bartholomew",18005,4,4,5,5,7,8
+665,"indiana,benton",18007,5,9,10,8,8,6
+666,"indiana,blackford",18009,5,10,8,8,9,9
+667,"indiana,boone",18011,2,3,6,3,3,9
+668,"indiana,brown",18013,4,5,5,8,4,8
+669,"indiana,carroll",18015,3,9,5,6,9,8
+670,"indiana,cass",18017,5,7,5,5,9,8
+671,"indiana,clark",18019,5,9,8,5,7,10
+672,"indiana,clay",18021,5,7,8,6,10,9
+673,"indiana,clinton",18023,4,4,6,10,4,8
+674,"indiana,crawford",18025,5,8,10,8,10,9
+675,"indiana,daviess",18027,5,8,7,6,6,9
+676,"indiana,dearborn",18029,5,8,5,5,9,7
+677,"indiana,decatur",18031,2,6,5,5,4,7
+678,"indiana,de kalb",18033,3,6,6,5,4,9
+679,"indiana,delaware",18035,4,8,8,6,8,10
+680,"indiana,dubois",18037,1,4,2,5,9,10
+681,"indiana,elkhart",18039,2,5,5,3,5,9
+682,"indiana,fayette",18041,4,8,10,8,9,7
+683,"indiana,floyd",18043,5,9,5,5,5,10
+684,"indiana,fountain",18045,5,9,8,8,6,8
+685,"indiana,franklin",18047,4,10,5,9,4,7
+686,"indiana,fulton",18049,4,4,4,6,7,9
+687,"indiana,gibson",18051,3,9,8,5,4,8
+688,"indiana,grant",18053,5,9,9,9,7,9
+689,"indiana,greene",18055,4,8,6,9,8,9
+690,"indiana,hamilton",18057,1,1,1,2,1,10
+691,"indiana,hancock",18059,4,5,4,5,4,9
+692,"indiana,harrison",18061,5,1,8,6,6,10
+693,"indiana,hendricks",18063,3,4,4,3,7,9
+694,"indiana,henry",18065,4,9,8,6,5,9
+695,"indiana,howard",18067,4,8,8,9,10,10
+696,"indiana,huntington",18069,2,9,9,8,9,8
+697,"indiana,jackson",18071,4,7,8,5,7,8
+698,"indiana,jasper",18073,4,9,6,8,9,5
+699,"indiana,jay",18075,2,9,8,8,9,8
+700,"indiana,jefferson",18077,5,9,7,6,7,6
+701,"indiana,jennings",18079,5,10,6,5,3,8
+702,"indiana,johnson",18081,3,8,3,6,4,9
+703,"indiana,knox",18083,4,10,9,5,8,10
+704,"indiana,kosciusko",18085,3,6,4,6,6,9
+705,"indiana,lagrange",18087,1,4,3,6,8,8
+706,"indiana,lake",18089,3,8,7,8,10,6
+707,"indiana,la porte",18091,4,9,5,5,7,8
+708,"indiana,lawrence",18093,4,5,7,10,4,8
+709,"indiana,madison",18095,4,9,9,8,10,10
+710,"indiana,marion",18097,4,8,5,6,7,10
+711,"indiana,marshall",18099,3,6,6,5,6,7
+712,"indiana,martin",18101,4,4,9,5,4,9
+713,"indiana,miami",18103,4,10,6,6,8,8
+714,"indiana,monroe",18105,2,4,2,3,1,8
+715,"indiana,montgomery",18107,4,7,5,6,6,9
+716,"indiana,morgan",18109,5,8,7,5,8,9
+717,"indiana,newton",18111,3,10,7,8,9,5
+718,"indiana,noble",18113,3,9,3,5,9,8
+719,"indiana,ohio",18115,5,9,6,6,6,7
+720,"indiana,orange",18117,4,9,10,8,6,9
+721,"indiana,owen",18119,5,10,8,6,10,9
+722,"indiana,parke",18121,3,10,8,8,4,9
+723,"indiana,perry",18123,5,8,5,3,7,9
+724,"indiana,pike",18125,2,4,8,8,7,9
+725,"indiana,porter",18127,3,6,5,5,4,6
+726,"indiana,posey",18129,2,6,5,6,7,9
+727,"indiana,pulaski",18131,3,6,6,8,9,6
+728,"indiana,putnam",18133,5,8,8,8,7,9
+729,"indiana,randolph",18135,4,8,10,9,9,8
+730,"indiana,ripley",18137,4,9,6,3,7,6
+731,"indiana,rush",18139,5,6,9,6,7,8
+732,"indiana,st joseph",18141,3,6,4,5,4,9
+733,"indiana,scott",18143,5,8,8,8,4,9
+734,"indiana,shelby",18145,4,9,8,6,9,9
+735,"indiana,spencer",18147,4,5,5,6,5,10
+736,"indiana,starke",18149,5,10,10,8,9,6
+737,"indiana,steuben",18151,3,6,5,9,8,9
+738,"indiana,sullivan",18153,5,8,9,6,7,8
+739,"indiana,switzerland",18155,5,9,8,6,3,6
+740,"indiana,tippecanoe",18157,2,2,3,3,2,10
+741,"indiana,tipton",18159,3,8,8,9,7,9
+742,"indiana,union",18161,1,10,5,8,8,7
+743,"indiana,vanderburgh",18163,4,8,6,6,7,10
+744,"indiana,vermillion",18165,5,8,8,9,3,9
+745,"indiana,vigo",18167,5,7,6,3,7,10
+746,"indiana,wabash",18169,3,4,7,9,10,8
+747,"indiana,warren",18171,4,4,8,8,4,7
+748,"indiana,warrick",18173,1,2,2,5,7,9
+749,"indiana,washington",18175,5,10,10,5,6,9
+750,"indiana,wayne",18177,4,9,7,3,3,7
+751,"indiana,wells",18179,2,6,3,6,4,8
+752,"indiana,white",18181,3,6,7,6,9,6
+753,"indiana,whitley",18183,2,6,1,3,9,8
+754,"iowa,adair",19001,3,4,7,6,7,4
+755,"iowa,adams",19003,2,4,6,3,9,4
+756,"iowa,allamakee",19005,2,3,2,3,3,5
+757,"iowa,appanoose",19007,2,9,5,3,5,6
+758,"iowa,audubon",19009,1,8,5,6,9,4
+759,"iowa,benton",19011,3,6,4,3,5,6
+760,"iowa,black hawk",19013,4,6,2,3,4,6
+761,"iowa,boone",19015,3,6,6,3,7,5
+762,"iowa,bremer",19017,1,2,2,3,3,5
+763,"iowa,buchanan",19019,2,4,5,5,5,6
+764,"iowa,buena vista",19021,1,1,4,2,2,4
+765,"iowa,butler",19023,2,1,5,2,2,5
+766,"iowa,calhoun",19025,1,6,5,6,5,4
+767,"iowa,carroll",19027,2,6,5,2,7,4
+768,"iowa,cass",19029,2,2,6,3,9,4
+769,"iowa,cedar",19031,2,4,5,5,9,6
+770,"iowa,cerro gordo",19033,2,4,3,5,4,5
+771,"iowa,cherokee",19035,1,1,3,3,3,4
+772,"iowa,chickasaw",19037,2,2,8,3,6,5
+773,"iowa,clarke",19039,4,10,7,2,6,5
+774,"iowa,clay",19041,2,5,5,3,5,4
+775,"iowa,clayton",19043,2,3,5,2,6,6
+776,"iowa,clinton",19045,5,9,6,3,5,7
+777,"iowa,crawford",19047,1,1,8,2,4,4
+778,"iowa,dallas",19049,2,1,5,1,4,5
+779,"iowa,davis",19051,1,7,6,5,7,6
+780,"iowa,decatur",19053,2,4,5,3,6,4
+781,"iowa,delaware",19055,1,5,9,2,9,6
+782,"iowa,des moines",19057,4,6,6,8,7,7
+783,"iowa,dickinson",19059,2,5,3,3,4,4
+784,"iowa,dubuque",19061,2,1,2,3,2,6
+785,"iowa,emmet",19063,3,6,6,3,7,4
+786,"iowa,fayette",19065,2,6,5,3,9,5
+787,"iowa,floyd",19067,2,3,5,6,6,4
+788,"iowa,franklin",19069,2,4,5,3,6,4
+789,"iowa,fremont",19071,2,3,7,5,8,4
+790,"iowa,greene",19073,3,7,6,3,5,5
+791,"iowa,grundy",19075,1,1,5,5,7,5
+792,"iowa,guthrie",19077,2,1,6,3,8,5
+793,"iowa,hamilton",19079,2,7,2,5,7,5
+794,"iowa,hancock",19081,1,5,3,3,2,4
+795,"iowa,hardin",19083,2,5,8,3,9,5
+796,"iowa,harrison",19085,4,6,8,3,7,4
+797,"iowa,henry",19087,4,3,5,3,6,6
+798,"iowa,howard",19089,2,1,3,3,5,4
+799,"iowa,humboldt",19091,2,3,5,6,9,4
+800,"iowa,ida",19093,2,4,5,3,6,4
+801,"iowa,iowa",19095,2,1,6,3,4,6
+802,"iowa,jackson",19097,2,1,3,3,6,6
+803,"iowa,jasper",19099,3,4,5,5,9,5
+804,"iowa,jefferson",19101,2,6,2,5,5,6
+805,"iowa,johnson",19103,1,2,1,1,1,7
+806,"iowa,jones",19105,2,6,4,3,4,6
+807,"iowa,keokuk",19107,3,8,4,2,9,6
+808,"iowa,kossuth",19109,1,3,8,5,6,3
+809,"iowa,lee",19111,3,6,6,5,9,6
+810,"iowa,linn",19113,3,3,2,3,3,6
+811,"iowa,louisa",19115,2,7,8,3,8,7
+812,"iowa,lucas",19117,2,5,5,3,7,5
+813,"iowa,lyon",19119,1,3,6,3,5,4
+814,"iowa,madison",19121,1,1,2,5,6,5
+815,"iowa,mahaska",19123,3,2,8,3,2,5
+816,"iowa,marion",19125,2,4,3,2,5,5
+817,"iowa,marshall",19127,2,6,4,3,7,5
+818,"iowa,mills",19129,3,9,5,2,3,4
+819,"iowa,mitchell",19131,1,2,7,3,2,4
+820,"iowa,monona",19133,3,3,6,5,2,4
+821,"iowa,monroe",19135,4,2,9,3,9,6
+822,"iowa,montgomery",19137,2,8,5,5,7,5
+823,"iowa,muscatine",19139,3,6,3,3,9,8
+824,"iowa,obrien",19141,1,4,5,5,6,4
+825,"iowa,osceola",19143,1,1,5,3,5,4
+826,"iowa,page",19145,5,3,5,6,7,4
+827,"iowa,palo alto",19147,1,2,5,5,3,4
+828,"iowa,plymouth",19149,1,2,5,3,8,4
+829,"iowa,pocahontas",19151,1,5,5,6,5,4
+830,"iowa,polk",19153,4,4,2,2,3,6
+831,"iowa,pottawattamie",19155,2,6,7,5,9,4
+832,"iowa,poweshiek",19157,1,3,3,2,4,5
+833,"iowa,ringgold",19159,2,5,8,5,5,4
+834,"iowa,sac",19161,2,6,4,4,4,4
+835,"iowa,scott",19163,3,4,2,2,4,8
+836,"iowa,shelby",19165,2,6,6,6,7,4
+837,"iowa,sioux",19167,1,1,5,1,2,4
+838,"iowa,story",19169,1,1,1,1,1,5
+839,"iowa,tama",19171,2,4,9,6,4,5
+840,"iowa,taylor",19173,3,4,3,4,6,4
+841,"iowa,union",19175,2,2,5,6,8,4
+842,"iowa,van buren",19177,5,6,5,4,5,6
+843,"iowa,wapello",19179,4,6,6,3,5,5
+844,"iowa,warren",19181,3,2,7,2,6,5
+845,"iowa,washington",19183,2,3,2,3,5,6
+846,"iowa,wayne",19185,2,5,6,4,6,5
+847,"iowa,webster",19187,2,5,5,4,4,4
+848,"iowa,winnebago",19189,2,1,5,4,4,4
+849,"iowa,winneshiek",19191,1,1,2,2,2,5
+850,"iowa,woodbury",19193,4,7,6,3,6,4
+851,"iowa,worth",19195,1,3,5,4,5,4
+852,"iowa,wright",19197,1,3,8,3,4,4
+853,"kansas,allen",20001,3,5,6,8,9,5
+854,"kansas,anderson",20003,3,3,7,3,7,5
+855,"kansas,atchison",20005,5,8,7,5,7,4
+856,"kansas,barber",20007,3,6,10,8,9,2
+857,"kansas,barton",20009,1,3,6,8,9,3
+858,"kansas,bourbon",20011,3,5,3,5,10,5
+859,"kansas,brown",20013,3,6,9,8,9,4
+860,"kansas,butler",20015,2,3,3,3,8,4
+861,"kansas,chase",20017,2,5,3,5,7,4
+862,"kansas,chautauqua",20019,5,9,8,7,6,5
+863,"kansas,cherokee",20021,3,6,6,8,10,6
+864,"kansas,cheyenne",20023,2,1,5,7,7,1
+865,"kansas,clark",20025,2,2,7,7,7,2
+866,"kansas,clay",20027,2,4,6,5,7,3
+867,"kansas,cloud",20029,2,3,4,8,8,3
+868,"kansas,coffey",20031,1,3,5,7,9,4
+869,"kansas,comanche",20033,1,2,8,7,5,2
+870,"kansas,cowley",20035,2,4,6,7,9,4
+871,"kansas,crawford",20037,3,6,6,5,10,5
+872,"kansas,decatur",20039,1,5,6,10,8,2
+873,"kansas,dickinson",20041,2,5,6,5,9,4
+874,"kansas,doniphan",20043,3,3,7,5,9,4
+875,"kansas,douglas",20045,2,3,1,1,1,5
+876,"kansas,edwards",20047,2,5,6,7,9,2
+877,"kansas,elk",20049,2,3,5,9,9,5
+878,"kansas,ellis",20051,1,2,4,2,4,2
+879,"kansas,ellsworth",20053,1,1,6,5,9,3
+880,"kansas,finney",20055,1,6,3,3,8,2
+881,"kansas,ford",20057,1,3,6,5,9,2
+882,"kansas,franklin",20059,3,6,7,7,8,5
+883,"kansas,geary",20061,2,9,5,2,5,3
+884,"kansas,gove",20063,2,1,8,9,5,2
+885,"kansas,graham",20065,1,3,5,8,7,2
+886,"kansas,grant",20067,1,3,3,3,9,2
+887,"kansas,gray",20069,1,2,4,3,4,2
+888,"kansas,greeley",20071,2,1,7,7,6,1
+889,"kansas,greenwood",20073,3,6,9,7,9,4
+890,"kansas,hamilton",20075,1,3,4,3,9,1
+891,"kansas,harper",20077,3,7,10,8,4,3
+892,"kansas,harvey",20079,2,1,4,3,8,3
+893,"kansas,haskell",20081,1,8,6,5,8,2
+894,"kansas,hodgeman",20083,1,1,6,7,5,2
+895,"kansas,jackson",20085,2,9,7,7,10,4
+896,"kansas,jefferson",20087,3,5,2,7,9,4
+897,"kansas,jewell",20089,2,1,6,9,9,3
+898,"kansas,johnson",20091,1,1,1,1,1,6
+899,"kansas,kearny",20093,1,4,4,5,8,2
+900,"kansas,kingman",20095,1,2,9,8,6,3
+901,"kansas,kiowa",20097,1,2,5,5,4,2
+902,"kansas,labette",20099,3,6,8,8,9,5
+903,"kansas,lane",20101,2,3,6,7,10,2
+904,"kansas,leavenworth",20103,3,4,4,3,7,5
+905,"kansas,lincoln",20105,1,1,6,7,4,3
+906,"kansas,linn",20107,3,7,7,7,9,5
+907,"kansas,logan",20109,2,8,8,8,7,2
+908,"kansas,lyon",20111,2,3,3,2,7,4
+909,"kansas,mcpherson",20113,2,2,4,5,5,4
+910,"kansas,marion",20115,2,4,6,5,6,4
+911,"kansas,marshall",20117,2,5,7,7,8,3
+912,"kansas,meade",20119,1,6,5,7,6,2
+913,"kansas,miami",20121,2,2,4,3,6,5
+914,"kansas,mitchell",20123,1,2,6,7,4,3
+915,"kansas,montgomery",20125,4,7,7,8,9,5
+916,"kansas,morris",20127,2,2,4,7,8,4
+917,"kansas,morton",20129,2,9,9,5,9,2
+918,"kansas,nemaha",20131,1,1,5,8,4,4
+919,"kansas,neosho",20133,2,3,9,8,9,5
+920,"kansas,ness",20135,1,8,6,8,4,2
+921,"kansas,norton",20137,1,6,5,3,9,1
+922,"kansas,osage",20139,3,8,7,8,10,4
+923,"kansas,osborne",20141,2,1,6,8,9,2
+924,"kansas,ottawa",20143,2,1,7,5,8,3
+925,"kansas,pawnee",20145,1,6,7,5,9,2
+926,"kansas,phillips",20147,1,1,7,7,7,2
+927,"kansas,pottawatomie",20149,1,5,3,5,7,3
+928,"kansas,pratt",20151,2,4,5,5,6,2
+929,"kansas,rawlins",20153,2,6,8,8,9,1
+930,"kansas,reno",20155,2,5,3,8,7,3
+931,"kansas,republic",20157,2,3,7,7,5,3
+932,"kansas,rice",20159,1,3,4,7,10,3
+933,"kansas,riley",20161,1,3,1,1,2,3
+934,"kansas,rooks",20163,1,6,5,8,6,2
+935,"kansas,rush",20165,1,9,5,5,3,2
+936,"kansas,russell",20167,1,5,4,8,6,3
+937,"kansas,saline",20169,3,4,3,5,7,3
+938,"kansas,scott",20171,1,2,6,3,5,2
+939,"kansas,sedgwick",20173,3,5,4,5,5,4
+940,"kansas,seward",20175,1,1,7,2,9,2
+941,"kansas,shawnee",20177,3,5,4,7,8,6
+942,"kansas,sheridan",20179,1,1,6,7,6,2
+943,"kansas,sherman",20181,1,3,7,8,7,1
+944,"kansas,smith",20183,1,1,7,7,6,2
+945,"kansas,stafford",20185,1,9,8,8,9,2
+946,"kansas,stanton",20187,1,2,6,5,6,1
+947,"kansas,stevens",20189,3,8,7,5,9,2
+948,"kansas,sumner",20191,3,6,6,8,10,4
+949,"kansas,thomas",20193,1,2,2,3,5,1
+950,"kansas,trego",20195,2,3,6,5,8,2
+951,"kansas,wabaunsee",20197,3,3,4,5,9,4
+952,"kansas,wallace",20199,2,1,5,7,7,1
+953,"kansas,washington",20201,2,5,6,7,9,4
+954,"kansas,wichita",20203,2,2,8,7,9,2
+955,"kansas,wilson",20205,4,7,5,8,9,5
+956,"kansas,woodson",20207,3,8,9,8,4,5
+957,"kansas,wyandotte",20209,4,8,9,9,10,6
+958,"kentucky,adair",21001,5,10,10,9,9,9
+959,"kentucky,allen",21003,5,10,6,6,9,8
+960,"kentucky,anderson",21005,5,4,9,9,9,7
+961,"kentucky,ballard",21007,4,10,9,10,9,8
+962,"kentucky,barren",21009,5,9,8,10,6,8
+963,"kentucky,bath",21011,5,10,10,9,9,8
+964,"kentucky,bell",21013,5,9,8,10,7,10
+965,"kentucky,boone",21015,5,4,4,4,5,7
+966,"kentucky,bourbon",21017,5,6,10,10,8,7
+967,"kentucky,boyd",21019,5,8,10,10,9,10
+968,"kentucky,boyle",21021,3,6,5,8,6,8
+969,"kentucky,bracken",21023,5,10,9,9,9,6
+970,"kentucky,breathitt",21025,5,10,10,10,10,10
+971,"kentucky,breckinridge",21027,5,10,9,10,9,9
+972,"kentucky,bullitt",21029,5,9,10,8,9,10
+973,"kentucky,butler",21031,5,4,9,9,9,9
+974,"kentucky,caldwell",21033,5,10,7,8,8,8
+975,"kentucky,calloway",21035,4,8,3,6,4,7
+976,"kentucky,campbell",21037,5,8,4,4,6,8
+977,"kentucky,carlisle",21039,5,6,7,9,5,8
+978,"kentucky,carroll",21041,5,10,8,9,9,6
+979,"kentucky,carter",21043,5,10,10,8,7,10
+980,"kentucky,casey",21045,5,10,10,9,9,9
+981,"kentucky,christian",21047,4,8,8,6,7,9
+982,"kentucky,clark",21049,5,10,8,8,7,9
+983,"kentucky,clay",21051,5,10,9,10,7,10
+984,"kentucky,clinton",21053,5,6,10,8,7,10
+985,"kentucky,crittenden",21055,5,10,10,9,7,8
+986,"kentucky,cumberland",21057,5,9,10,9,9,9
+987,"kentucky,daviess",21059,5,8,5,6,5,10
+988,"kentucky,edmonson",21061,5,10,9,10,10,9
+989,"kentucky,elliott",21063,4,10,10,6,10,10
+990,"kentucky,estill",21065,5,10,9,9,7,8
+991,"kentucky,fayette",21067,3,2,3,4,4,10
+992,"kentucky,fleming",21069,5,9,10,9,10,8
+993,"kentucky,floyd",21071,5,9,10,10,10,10
+994,"kentucky,franklin",21073,5,9,6,6,7,10
+995,"kentucky,fulton",21075,5,10,10,9,10,8
+996,"kentucky,gallatin",21077,5,10,10,8,7,7
+997,"kentucky,garrard",21079,5,8,9,9,10,8
+998,"kentucky,grant",21081,5,9,9,6,9,7
+999,"kentucky,graves",21083,5,6,9,8,6,8
+1000,"kentucky,grayson",21085,5,9,10,8,9,9
+1001,"kentucky,green",21087,5,10,10,9,5,9
+1002,"kentucky,greenup",21089,5,7,9,10,10,10
+1003,"kentucky,hancock",21091,5,5,7,6,10,9
+1004,"kentucky,hardin",21093,5,7,7,6,5,10
+1005,"kentucky,harlan",21095,5,10,10,10,9,9
+1006,"kentucky,harrison",21097,5,10,8,9,4,6
+1007,"kentucky,hart",21099,5,10,9,9,8,9
+1008,"kentucky,henderson",21101,5,7,7,6,8,10
+1009,"kentucky,henry",21103,5,9,9,9,9,7
+1010,"kentucky,hickman",21105,2,10,9,10,8,8
+1011,"kentucky,hopkins",21107,5,8,9,8,9,9
+1012,"kentucky,jackson",21109,5,10,9,8,10,10
+1013,"kentucky,jefferson",21111,5,7,6,8,8,10
+1014,"kentucky,jessamine",21113,5,9,8,6,8,7
+1015,"kentucky,johnson",21115,5,9,10,10,10,10
+1016,"kentucky,kenton",21117,5,9,4,6,7,8
+1017,"kentucky,knott",21119,5,10,10,10,10,10
+1018,"kentucky,knox",21121,5,10,10,10,8,10
+1019,"kentucky,larue",21123,5,9,9,9,6,10
+1020,"kentucky,laurel",21125,5,10,9,8,8,10
+1021,"kentucky,lawrence",21127,5,10,10,10,10,10
+1022,"kentucky,lee",21129,5,10,10,8,6,10
+1023,"kentucky,leslie",21131,5,10,10,10,10,10
+1024,"kentucky,letcher",21133,5,9,10,10,10,10
+1025,"kentucky,lewis",21135,5,10,10,10,10,8
+1026,"kentucky,lincoln",21137,5,10,10,8,10,9
+1027,"kentucky,livingston",21139,5,10,8,10,8,8
+1028,"kentucky,logan",21141,5,9,10,6,8,9
+1029,"kentucky,lyon",21143,4,2,8,9,6,8
+1030,"kentucky,mccracken",21145,5,7,6,4,5,10
+1031,"kentucky,mccreary",21147,5,10,10,9,7,10
+1032,"kentucky,mclean",21149,5,8,10,9,7,9
+1033,"kentucky,madison",21151,4,6,7,6,5,10
+1034,"kentucky,magoffin",21153,5,10,10,9,9,10
+1035,"kentucky,marion",21155,5,8,8,6,9,8
+1036,"kentucky,marshall",21157,5,8,5,4,9,8
+1037,"kentucky,martin",21159,5,10,10,8,10,10
+1038,"kentucky,mason",21161,5,8,8,10,7,7
+1039,"kentucky,meade",21163,5,10,7,6,10,9
+1040,"kentucky,menifee",21165,5,10,8,10,10,9
+1041,"kentucky,mercer",21167,5,8,7,8,8,7
+1042,"kentucky,metcalfe",21169,5,10,8,9,9,9
+1043,"kentucky,monroe",21171,5,8,8,9,10,9
+1044,"kentucky,montgomery",21173,5,8,7,6,8,8
+1045,"kentucky,morgan",21175,5,10,9,10,10,10
+1046,"kentucky,muhlenberg",21177,5,9,8,8,9,9
+1047,"kentucky,nelson",21179,5,10,7,4,5,9
+1048,"kentucky,nicholas",21181,5,10,10,10,6,7
+1049,"kentucky,ohio",21183,5,9,10,10,9,9
+1050,"kentucky,oldham",21185,4,2,4,6,4,7
+1051,"kentucky,owen",21187,5,10,10,9,9,7
+1052,"kentucky,owsley",21189,5,10,9,10,10,10
+1053,"kentucky,pendleton",21191,5,9,8,6,8,7
+1054,"kentucky,perry",21193,5,10,10,10,10,10
+1055,"kentucky,pike",21195,5,10,10,10,10,10
+1056,"kentucky,powell",21197,5,10,10,9,8,9
+1057,"kentucky,pulaski",21199,5,9,9,8,7,9
+1058,"kentucky,robertson",21201,5,10,10,10,7,7
+1059,"kentucky,rockcastle",21203,5,9,10,9,10,10
+1060,"kentucky,rowan",21205,5,8,6,6,9,8
+1061,"kentucky,russell",21207,5,10,10,9,7,9
+1062,"kentucky,scott",21209,2,2,3,4,8,8
+1063,"kentucky,shelby",21211,4,9,5,6,8,7
+1064,"kentucky,simpson",21213,5,10,10,9,5,9
+1065,"kentucky,spencer",21215,5,10,8,6,9,7
+1066,"kentucky,taylor",21217,5,7,5,9,7,9
+1067,"kentucky,todd",21219,5,9,10,8,8,9
+1068,"kentucky,trigg",21221,4,9,10,8,8,8
+1069,"kentucky,trimble",21223,5,7,8,8,9,6
+1070,"kentucky,union",21225,5,6,9,8,10,8
+1071,"kentucky,warren",21227,5,8,6,3,3,10
+1072,"kentucky,washington",21229,4,6,9,10,8,8
+1073,"kentucky,wayne",21231,5,9,10,9,7,10
+1074,"kentucky,webster",21233,5,9,9,9,9,8
+1075,"kentucky,whitley",21235,5,9,9,10,10,10
+1076,"kentucky,wolfe",21237,5,10,9,8,7,9
+1077,"kentucky,woodford",21239,2,2,5,6,7,8
+1078,"louisiana,acadia",22001,4,8,10,4,7,5
+1079,"louisiana,allen",22003,3,6,10,9,10,6
+1080,"louisiana,ascension",22005,3,4,5,4,9,6
+1081,"louisiana,assumption",22007,4,5,7,8,8,5
+1082,"louisiana,avoyelles",22009,5,9,10,10,10,6
+1083,"louisiana,beauregard",22011,4,9,8,9,8,5
+1084,"louisiana,bienville",22013,5,9,9,10,10,7
+1085,"louisiana,bossier",22015,3,9,4,6,9,7
+1086,"louisiana,caddo",22017,3,6,9,9,9,7
+1087,"louisiana,calcasieu",22019,3,6,8,9,9,5
+1088,"louisiana,caldwell",22021,5,9,10,9,10,6
+1089,"louisiana,cameron",22023,4,10,5,8,10,5
+1090,"louisiana,catahoula",22025,5,9,10,8,10,6
+1091,"louisiana,claiborne",22027,3,7,9,10,10,7
+1092,"louisiana,concordia",22029,4,7,8,9,9,6
+1093,"louisiana,de soto",22031,5,9,8,9,10,6
+1094,"louisiana,east baton rouge",22033,1,3,3,8,9,8
+1095,"louisiana,east carroll",22035,5,9,9,10,10,7
+1096,"louisiana,east feliciana",22037,2,6,7,10,10,5
+1097,"louisiana,evangeline",22039,5,9,8,8,7,5
+1098,"louisiana,franklin",22041,5,9,10,10,10,6
+1099,"louisiana,grant",22043,5,9,8,9,8,6
+1100,"louisiana,iberia",22045,4,5,9,8,10,5
+1101,"louisiana,iberville",22047,4,2,10,9,10,6
+1102,"louisiana,jackson",22049,4,4,9,6,9,7
+1103,"louisiana,jefferson",22051,3,6,7,8,7,7
+1104,"louisiana,jefferson davis",22053,5,9,9,10,9,5
+1105,"louisiana,lafayette",22055,3,6,4,2,5,7
+1106,"louisiana,lafourche",22057,3,7,9,8,10,5
+1107,"louisiana,la salle",22059,5,9,6,8,9,6
+1108,"louisiana,lincoln",22061,2,2,5,4,8,7
+1109,"louisiana,livingston",22063,5,8,6,4,8,6
+1110,"louisiana,madison",22065,4,8,10,9,10,6
+1111,"louisiana,morehouse",22067,4,6,10,10,10,7
+1112,"louisiana,natchitoches",22069,2,9,9,8,10,6
+1113,"louisiana,orleans",22071,3,5,6,8,6,7
+1114,"louisiana,ouachita",22073,4,6,8,8,9,7
+1115,"louisiana,plaquemines",22075,3,7,8,6,9,4
+1116,"louisiana,pointe coupee",22077,1,2,7,10,7,5
+1117,"louisiana,rapides",22079,4,7,8,10,9,6
+1118,"louisiana,red river",22081,3,8,9,9,9,6
+1119,"louisiana,richland",22083,4,4,9,8,10,7
+1120,"louisiana,sabine",22085,2,8,9,10,10,6
+1121,"louisiana,st bernard",22087,5,6,10,6,10,5
+1122,"louisiana,st charles",22089,3,5,9,6,8,7
+1123,"louisiana,st helena",22091,2,6,9,10,10,5
+1124,"louisiana,st james",22093,2,5,8,9,10,5
+1125,"louisiana,st john the baptist",22095,4,3,8,9,10,6
+1126,"louisiana,st landry",22097,5,8,10,10,10,6
+1127,"louisiana,st martin:north",22099,4,8,7,9,10,5
+1129,"louisiana,st mary",22101,2,6,8,9,10,4
+1130,"louisiana,st tammany",22103,3,5,3,4,4,6
+1131,"louisiana,tangipahoa",22105,4,5,9,8,10,6
+1132,"louisiana,tensas",22107,2,9,10,10,9,6
+1133,"louisiana,terrebonne",22109,4,7,9,10,10,4
+1134,"louisiana,union",22111,4,9,9,10,10,7
+1135,"louisiana,vermilion",22113,4,7,8,8,8,5
+1136,"louisiana,vernon",22115,5,9,6,6,10,6
+1137,"louisiana,washington",22117,5,9,10,10,10,6
+1138,"louisiana,webster",22119,5,8,9,9,9,6
+1139,"louisiana,west baton rouge",22121,4,6,6,9,8,7
+1140,"louisiana,west carroll",22123,5,10,9,10,10,7
+1141,"louisiana,west feliciana",22125,5,9,6,9,9,6
+1142,"louisiana,winn",22127,4,6,10,8,9,6
+1143,"maine,androscoggin",23001,4,4,3,4,6,5
+1144,"maine,aroostook",23003,5,7,8,10,8,2
+1145,"maine,cumberland",23005,3,2,1,1,1,4
+1146,"maine,franklin",23007,2,4,2,3,5,3
+1147,"maine,hancock",23009,3,3,2,3,1,2
+1148,"maine,kennebec",23011,4,4,2,4,5,4
+1149,"maine,knox",23013,4,2,2,4,2,3
+1150,"maine,lincoln",23015,1,3,2,3,1,3
+1151,"maine,oxford",23017,4,7,3,6,5,4
+1152,"maine,penobscot",23019,5,5,4,6,6,3
+1153,"maine,piscataquis",23021,4,6,3,8,8,3
+1154,"maine,sagadahoc",23023,2,2,1,3,1,4
+1155,"maine,somerset",23025,4,8,5,6,9,3
+1156,"maine,waldo",23027,4,4,3,4,4,3
+1157,"maine,washington",23029,5,7,7,8,7,1
+1158,"maine,york",23031,3,4,2,3,2,4
+1159,"maryland,allegany",24001,4,7,8,8,3,9
+1160,"maryland,anne arundel",24003,3,2,2,3,3,8
+1161,"maryland,baltimore",24005,3,3,5,4,3,10
+1162,"maryland,calvert",24009,3,5,3,4,3,4
+1163,"maryland,caroline",24011,4,7,7,8,9,6
+1164,"maryland,carroll",24013,2,4,2,3,3,6
+1165,"maryland,cecil",24015,4,7,5,4,8,9
+1166,"maryland,charles",24017,2,2,3,4,9,5
+1167,"maryland,dorchester",24019,4,4,7,10,9,5
+1168,"maryland,frederick",24021,1,2,2,3,2,7
+1169,"maryland,garrett",24023,1,5,7,6,7,7
+1170,"maryland,harford",24025,3,4,3,4,3,8
+1171,"maryland,howard",24027,1,1,1,2,1,6
+1172,"maryland,kent",24029,2,4,4,6,2,6
+1173,"maryland,montgomery",24031,1,1,1,1,1,7
+1174,"maryland,prince georges",24033,1,2,3,6,9,9
+1175,"maryland,queen annes",24035,3,4,3,3,2,6
+1176,"maryland,st marys",24037,3,4,2,3,3,4
+1177,"maryland,somerset",24039,5,7,8,4,10,5
+1178,"maryland,talbot",24041,1,1,2,4,2,6
+1179,"maryland,washington",24043,3,6,5,6,7,9
+1180,"maryland,wicomico",24045,4,4,6,6,9,4
+1181,"maryland,worcester",24047,3,4,4,8,7,5
+1182,"maryland,baltimore city",24510,4,7,7,8,8,10
+1183,"massachusetts,barnstable",25001,2,2,1,3,1,2
+1184,"massachusetts,berkshire",25003,2,3,2,3,1,6
+1185,"massachusetts,bristol",25005,3,5,5,6,4,5
+1186,"massachusetts,dukes",25007,2,1,1,2,1,3
+1187,"massachusetts,essex",25009,3,2,2,3,1,4
+1188,"massachusetts,franklin",25011,2,4,1,2,1,5
+1189,"massachusetts,hampden",25013,3,4,5,6,4,7
+1190,"massachusetts,hampshire",25015,1,1,1,1,1,5
+1191,"massachusetts,middlesex",25017,2,1,2,3,1,5
+1192,"massachusetts,nantucket",25019,1,2,1,2,1,2
+1193,"massachusetts,norfolk",25021,2,1,1,2,1,5
+1194,"massachusetts,plymouth",25023,3,4,2,4,1,4
+1195,"massachusetts,suffolk",25025,1,2,2,2,1,9
+1196,"massachusetts,worcester",25027,3,4,2,3,2,5
+1197,"michigan,alcona",26001,3,10,5,10,5,3
+1198,"michigan,alger",26003,2,5,3,6,8,1
+1199,"michigan,allegan",26005,1,5,3,3,9,7
+1200,"michigan,alpena",26007,2,6,2,8,8,3
+1201,"michigan,antrim",26009,2,6,3,4,6,3
+1202,"michigan,arenac",26011,3,10,3,6,9,4
+1203,"michigan,baraga",26013,4,7,2,8,7,1
+1204,"michigan,barry",26015,1,6,3,4,10,7
+1205,"michigan,bay",26017,4,7,4,6,9,5
+1206,"michigan,benzie",26019,4,1,2,6,7,4
+1207,"michigan,berrien",26021,4,5,7,6,10,7
+1208,"michigan,branch",26023,2,2,5,6,9,8
+1209,"michigan,calhoun",26025,3,8,3,8,10,8
+1210,"michigan,cass",26027,4,7,4,4,6,8
+1211,"michigan,charlevoix",26029,2,5,1,6,2,3
+1212,"michigan,cheboygan",26031,4,6,5,6,8,3
+1213,"michigan,chippewa",26033,3,6,3,6,10,2
+1214,"michigan,clare",26035,3,8,6,8,4,4
+1215,"michigan,clinton",26037,1,2,3,3,8,7
+1216,"michigan,crawford",26039,3,10,3,6,5,4
+1217,"michigan,delta",26041,2,6,4,8,6,2
+1218,"michigan,dickinson",26043,2,9,2,6,5,1
+1219,"michigan,eaton",26045,3,6,4,4,8,8
+1220,"michigan,emmet",26047,2,6,1,3,4,3
+1221,"michigan,genesee",26049,4,7,7,9,10,8
+1222,"michigan,gladwin",26051,4,9,7,8,9,4
+1223,"michigan,gogebic",26053,3,2,2,6,3,2
+1224,"michigan,grand traverse",26055,3,3,1,3,6,4
+1225,"michigan,gratiot",26057,3,9,5,6,10,6
+1226,"michigan,hillsdale",26059,2,7,3,8,5,7
+1227,"michigan,houghton",26061,1,2,2,3,2,1
+1228,"michigan,huron",26063,2,5,2,6,4,4
+1229,"michigan,ingham",26065,3,4,1,3,6,6
+1230,"michigan,ionia",26067,3,4,3,4,9,7
+1231,"michigan,iosco",26069,3,6,2,8,9,4
+1232,"michigan,iron",26071,2,4,2,9,6,1
+1233,"michigan,isabella",26073,3,5,1,2,6,5
+1234,"michigan,jackson",26075,4,6,4,4,9,6
+1235,"michigan,kalamazoo",26077,2,4,2,4,6,10
+1236,"michigan,kalkaska",26079,3,10,5,8,5,4
+1237,"michigan,kent",26081,2,4,2,4,6,7
+1238,"michigan,keweenaw",26083,2,2,3,9,7,1
+1239,"michigan,lake",26085,3,10,2,9,7,5
+1240,"michigan,lapeer",26087,3,6,4,4,9,6
+1241,"michigan,leelanau",26089,1,5,3,6,2,4
+1242,"michigan,lenawee",26091,2,3,3,8,7,7
+1243,"michigan,livingston",26093,2,3,1,2,2,6
+1244,"michigan,luce",26095,4,2,2,8,9,1
+1245,"michigan,mackinac",26097,3,7,3,9,9,2
+1246,"michigan,macomb",26099,3,4,2,6,5,8
+1247,"michigan,manistee",26101,2,10,4,6,4,4
+1248,"michigan,marquette",26103,2,6,1,3,5,1
+1249,"michigan,mason",26105,1,7,4,8,7,4
+1250,"michigan,mecosta",26107,4,9,3,4,6,5
+1251,"michigan,menominee",26109,4,9,7,8,7,2
+1252,"michigan,midland",26111,2,4,3,4,6,5
+1253,"michigan,missaukee",26113,2,5,3,8,8,4
+1254,"michigan,monroe",26115,2,5,3,6,8,9
+1255,"michigan,montcalm",26117,4,7,2,3,7,6
+1256,"michigan,montmorency",26119,3,10,5,9,7,3
+1257,"michigan,muskegon",26121,4,9,3,8,10,6
+1258,"michigan,newaygo",26123,2,7,3,9,9,5
+1259,"michigan,oakland",26125,2,2,1,3,2,8
+1260,"michigan,oceana",26127,2,6,3,8,9,5
+1261,"michigan,ogemaw",26129,3,5,5,8,9,4
+1262,"michigan,ontonagon",26131,2,5,2,10,9,1
+1263,"michigan,osceola",26133,5,6,6,6,9,5
+1264,"michigan,oscoda",26135,5,6,3,10,5,4
+1265,"michigan,otsego",26137,2,7,2,6,7,3
+1266,"michigan,ottawa",26139,1,2,1,3,2,7
+1267,"michigan,presque isle",26141,1,2,3,10,8,3
+1268,"michigan,roscommon",26143,3,8,7,10,8,4
+1269,"michigan,saginaw",26145,3,4,5,8,10,5
+1270,"michigan,st clair",26147,2,8,2,4,6,6
+1271,"michigan,st joseph",26149,2,6,5,4,8,8
+1272,"michigan,sanilac",26151,5,8,4,6,10,5
+1273,"michigan,schoolcraft",26153,5,2,5,6,3,2
+1274,"michigan,shiawassee",26155,4,6,3,4,9,6
+1275,"michigan,tuscola",26157,3,6,5,6,6,5
+1276,"michigan,van buren",26159,3,5,6,6,7,7
+1277,"michigan,washtenaw",26161,1,1,1,2,1,7
+1278,"michigan,wayne",26163,4,6,5,9,9,10
+1279,"michigan,wexford",26165,5,7,4,4,8,4
+1280,"minnesota,aitkin",27001,3,2,3,5,2,2
+1281,"minnesota,anoka",27003,2,3,2,2,6,4
+1282,"minnesota,becker",27005,1,3,3,2,3,2
+1283,"minnesota,beltrami",27007,1,10,3,2,3,1
+1284,"minnesota,benton",27009,2,2,2,3,4,3
+1285,"minnesota,big stone",27011,1,3,3,3,3,3
+1286,"minnesota,blue earth",27013,1,4,3,1,1,3
+1287,"minnesota,brown",27015,2,7,3,3,4,3
+1288,"minnesota,carlton",27017,1,3,2,2,3,2
+1289,"minnesota,carver",27019,1,2,1,1,1,4
+1290,"minnesota,cass",27021,1,3,2,5,3,1
+1291,"minnesota,chippewa",27023,1,8,8,3,6,3
+1292,"minnesota,chisago",27025,2,9,2,2,4,3
+1293,"minnesota,clay",27027,2,3,4,2,6,2
+1294,"minnesota,clearwater",27029,1,5,4,5,5,1
+1295,"minnesota,cook",27031,1,5,1,3,2,1
+1296,"minnesota,cottonwood",27033,1,1,4,3,4,3
+1297,"minnesota,crow wing",27035,1,3,2,3,2,2
+1298,"minnesota,dakota",27037,1,2,1,1,2,4
+1299,"minnesota,dodge",27039,2,5,2,1,8,4
+1300,"minnesota,douglas",27041,2,6,2,2,2,2
+1301,"minnesota,faribault",27043,1,3,5,3,5,3
+1302,"minnesota,fillmore",27045,1,3,2,2,2,4
+1303,"minnesota,freeborn",27047,3,5,4,5,6,5
+1304,"minnesota,goodhue",27049,1,5,2,2,3,4
+1305,"minnesota,grant",27051,1,1,3,3,2,3
+1306,"minnesota,hennepin",27053,1,2,1,1,1,4
+1307,"minnesota,houston",27055,1,1,2,2,3,5
+1308,"minnesota,hubbard",27057,1,3,3,3,4,1
+1309,"minnesota,isanti",27059,3,6,1,2,3,3
+1310,"minnesota,itasca",27061,2,5,2,3,3,1
+1311,"minnesota,jackson",27063,1,1,2,2,5,4
+1312,"minnesota,kanabec",27065,1,6,3,2,2,3
+1313,"minnesota,kandiyohi",27067,2,6,3,2,4,3
+1314,"minnesota,kittson",27069,2,3,5,5,7,1
+1315,"minnesota,koochiching",27071,2,3,2,7,5,1
+1316,"minnesota,lac qui parle",27073,1,2,6,5,4,3
+1317,"minnesota,lake",27075,2,5,4,5,5,1
+1318,"minnesota,lake of the woods",27077,1,1,3,3,3,1
+1319,"minnesota,le sueur",27079,1,1,2,1,5,4
+1320,"minnesota,lincoln",27081,1,6,4,3,3,4
+1321,"minnesota,lyon",27083,1,4,1,2,3,3
+1322,"minnesota,mcleod",27085,1,2,1,2,7,3
+1323,"minnesota,mahnomen",27087,3,10,7,7,6,1
+1324,"minnesota,marshall",27089,1,5,3,3,2,1
+1325,"minnesota,martin",27091,2,4,4,2,2,3
+1326,"minnesota,meeker",27093,2,6,3,7,5,3
+1327,"minnesota,mille lacs",27095,3,8,3,2,4,3
+1328,"minnesota,morrison",27097,1,6,2,2,3,2
+1329,"minnesota,mower",27099,2,2,3,5,3,4
+1330,"minnesota,murray",27101,1,1,2,3,7,4
+1331,"minnesota,nicollet",27103,1,1,1,1,4,3
+1332,"minnesota,nobles",27105,1,1,5,3,3,4
+1333,"minnesota,norman",27107,1,5,7,5,8,1
+1334,"minnesota,olmsted",27109,1,1,1,1,1,5
+1335,"minnesota,otter tail",27111,1,3,2,3,3,2
+1336,"minnesota,pennington",27113,1,5,2,5,3,1
+1337,"minnesota,pine",27115,1,5,2,1,3,2
+1338,"minnesota,pipestone",27117,1,3,2,3,4,4
+1339,"minnesota,polk",27119,2,8,5,2,5,1
+1340,"minnesota,pope",27121,1,2,5,3,3,3
+1341,"minnesota,ramsey",27123,1,2,1,1,2,6
+1342,"minnesota,red lake",27125,2,3,2,2,5,1
+1343,"minnesota,redwood",27127,1,5,2,3,6,3
+1344,"minnesota,renville",27129,1,2,3,3,8,3
+1345,"minnesota,rice",27131,1,1,1,2,2,4
+1346,"minnesota,rock",27133,1,1,2,2,2,4
+1347,"minnesota,roseau",27135,1,1,4,2,9,1
+1348,"minnesota,st louis",27137,1,7,1,2,2,1
+1349,"minnesota,scott",27139,1,1,1,1,1,4
+1350,"minnesota,sherburne",27141,3,8,3,1,6,3
+1351,"minnesota,sibley",27143,1,1,6,2,4,3
+1352,"minnesota,stearns",27145,1,2,1,1,3,3
+1353,"minnesota,steele",27147,1,2,2,1,2,4
+1354,"minnesota,stevens",27149,1,1,2,1,3,3
+1355,"minnesota,swift",27151,1,8,7,5,4,3
+1356,"minnesota,todd",27153,1,2,4,3,5,2
+1357,"minnesota,traverse",27155,1,5,5,5,4,3
+1358,"minnesota,wabasha",27157,1,2,2,2,2,4
+1359,"minnesota,wadena",27159,2,2,2,5,6,2
+1360,"minnesota,waseca",27161,1,2,4,3,6,4
+1361,"minnesota,washington",27163,1,2,1,1,1,4
+1362,"minnesota,watonwan",27165,1,1,4,3,6,3
+1363,"minnesota,wilkin",27167,2,4,5,3,5,2
+1364,"minnesota,winona",27169,1,2,1,2,2,4
+1365,"minnesota,wright",27171,1,3,1,1,2,3
+1366,"minnesota,yellow medicine",27173,1,10,2,3,2,3
+1367,"mississippi,adams",28001,3,7,10,10,10,6
+1368,"mississippi,alcorn",28003,4,7,10,9,7,8
+1369,"mississippi,amite",28005,2,9,10,10,9,6
+1370,"mississippi,attala",28007,2,5,9,10,10,8
+1371,"mississippi,benton",28009,3,8,8,10,10,8
+1372,"mississippi,bolivar",28011,3,6,8,10,10,8
+1373,"mississippi,calhoun",28013,5,7,10,10,9,8
+1374,"mississippi,carroll",28015,5,7,9,10,8,8
+1375,"mississippi,chickasaw",28017,5,6,9,10,10,8
+1376,"mississippi,choctaw",28019,2,2,9,10,9,8
+1377,"mississippi,claiborne",28021,4,4,10,10,10,7
+1378,"mississippi,clarke",28023,4,4,10,10,9,8
+1379,"mississippi,clay",28025,3,8,10,10,10,9
+1380,"mississippi,coahoma",28027,5,7,10,10,10,7
+1381,"mississippi,copiah",28029,5,8,10,10,9,6
+1382,"mississippi,covington",28031,5,8,9,9,10,7
+1383,"mississippi,de soto",28033,4,7,7,6,8,9
+1384,"mississippi,forrest",28035,5,7,9,6,10,8
+1385,"mississippi,franklin",28037,1,9,10,10,10,6
+1386,"mississippi,george",28039,5,7,10,6,10,7
+1387,"mississippi,greene",28041,5,8,6,10,10,7
+1388,"mississippi,grenada",28043,4,9,9,10,10,7
+1389,"mississippi,hancock",28045,3,7,7,8,8,7
+1390,"mississippi,harrison",28047,5,9,8,8,9,7
+1391,"mississippi,hinds",28049,4,6,10,10,10,7
+1392,"mississippi,holmes",28051,5,9,9,10,10,8
+1393,"mississippi,humphreys",28053,5,4,10,10,10,7
+1394,"mississippi,issaquena",28055,5,10,10,10,10,7
+1395,"mississippi,itawamba",28057,5,9,10,10,10,7
+1396,"mississippi,jackson",28059,5,9,7,9,8,7
+1397,"mississippi,jasper",28061,4,2,9,10,10,8
+1398,"mississippi,jefferson",28063,4,3,10,10,10,6
+1399,"mississippi,jefferson davis",28065,3,9,9,10,10,7
+1400,"mississippi,jones",28067,3,6,10,10,10,10
+1401,"mississippi,kemper",28069,2,9,9,10,10,8
+1402,"mississippi,lafayette",28071,2,2,6,3,8,8
+1403,"mississippi,lamar",28073,2,4,8,4,9,7
+1404,"mississippi,lauderdale",28075,3,6,8,10,10,9
+1405,"mississippi,lawrence",28077,5,9,9,10,10,6
+1406,"mississippi,leake",28079,5,9,10,10,10,8
+1407,"mississippi,lee",28081,5,7,8,8,5,9
+1408,"mississippi,leflore",28083,4,7,10,10,10,7
+1409,"mississippi,lincoln",28085,3,6,10,10,10,6
+1410,"mississippi,lowndes",28087,3,8,9,10,10,10
+1411,"mississippi,madison",28089,3,2,5,8,7,8
+1412,"mississippi,marion",28091,4,8,7,10,10,6
+1413,"mississippi,marshall",28093,4,10,10,10,10,8
+1414,"mississippi,monroe",28095,3,7,10,10,9,8
+1415,"mississippi,montgomery",28097,5,4,10,10,10,8
+1416,"mississippi,neshoba",28099,2,9,10,10,10,9
+1417,"mississippi,newton",28101,3,8,10,10,7,8
+1418,"mississippi,noxubee",28103,2,2,10,10,10,8
+1419,"mississippi,oktibbeha",28105,1,2,5,4,7,9
+1420,"mississippi,panola",28107,5,7,10,10,10,8
+1421,"mississippi,pearl river",28109,5,10,7,10,8,6
+1422,"mississippi,perry",28111,4,7,9,10,8,7
+1423,"mississippi,pike",28113,4,9,9,10,10,6
+1424,"mississippi,pontotoc",28115,5,8,10,9,10,8
+1425,"mississippi,prentiss",28117,4,7,9,9,8,8
+1426,"mississippi,quitman",28119,3,9,10,10,10,7
+1427,"mississippi,rankin",28121,4,5,7,8,9,8
+1428,"mississippi,scott",28123,5,7,10,10,10,8
+1429,"mississippi,sharkey",28125,2,6,10,10,10,7
+1430,"mississippi,simpson",28127,5,7,10,10,10,7
+1431,"mississippi,smith",28129,4,3,10,9,9,7
+1432,"mississippi,stone",28131,4,7,8,8,7,7
+1433,"mississippi,sunflower",28133,3,6,10,10,10,7
+1434,"mississippi,tallahatchie",28135,3,5,9,9,10,8
+1435,"mississippi,tate",28137,5,7,9,10,9,8
+1436,"mississippi,tippah",28139,4,8,10,8,9,8
+1437,"mississippi,tishomingo",28141,5,5,8,8,5,8
+1438,"mississippi,tunica",28143,4,9,10,10,10,7
+1439,"mississippi,union",28145,3,10,9,8,9,8
+1440,"mississippi,walthall",28147,1,5,9,10,10,6
+1441,"mississippi,warren",28149,4,8,9,8,10,8
+1442,"mississippi,washington",28151,4,7,10,10,10,7
+1443,"mississippi,wayne",28153,4,4,10,9,10,8
+1444,"mississippi,webster",28155,5,7,9,9,9,8
+1445,"mississippi,wilkinson",28157,5,7,10,10,10,6
+1446,"mississippi,winston",28159,4,5,10,10,10,9
+1447,"mississippi,yalobusha",28161,5,6,10,10,10,7
+1448,"mississippi,yazoo",28163,5,8,10,9,10,8
+1449,"missouri,adair",29001,2,8,8,3,6,6
+1450,"missouri,andrew",29003,2,6,7,4,4,5
+1451,"missouri,atchison",29005,2,8,8,6,4,4
+1452,"missouri,audrain",29007,5,9,8,6,5,5
+1453,"missouri,barry",29009,4,10,8,4,5,6
+1454,"missouri,barton",29011,3,9,6,8,6,5
+1455,"missouri,bates",29013,4,8,9,6,8,5
+1456,"missouri,benton",29015,3,6,9,10,9,5
+1457,"missouri,bollinger",29017,5,8,9,8,10,5
+1458,"missouri,boone",29019,2,4,2,1,2,7
+1459,"missouri,buchanan",29021,5,9,7,8,10,6
+1460,"missouri,butler",29023,4,10,8,6,8,6
+1461,"missouri,caldwell",29025,2,5,7,6,10,4
+1462,"missouri,callaway",29027,4,10,7,4,9,5
+1463,"missouri,camden",29029,3,10,7,6,4,5
+1464,"missouri,cape girardeau",29031,3,5,5,6,2,5
+1465,"missouri,carroll",29033,5,6,6,6,7,5
+1466,"missouri,carter",29035,5,10,7,8,8,6
+1467,"missouri,cass",29037,4,7,7,4,8,5
+1468,"missouri,cedar",29039,3,6,5,6,6,5
+1469,"missouri,chariton",29041,2,1,9,6,7,5
+1470,"missouri,christian",29043,2,6,4,3,4,6
+1471,"missouri,clark",29045,3,7,8,8,8,6
+1472,"missouri,clay",29047,4,6,4,4,3,7
+1473,"missouri,clinton",29049,4,5,5,8,7,5
+1474,"missouri,cole",29051,3,4,5,3,5,5
+1475,"missouri,cooper",29053,2,10,4,6,4,5
+1476,"missouri,crawford",29055,5,10,5,4,7,5
+1477,"missouri,dade",29057,4,10,8,8,7,5
+1478,"missouri,dallas",29059,3,9,7,6,8,5
+1479,"missouri,daviess",29061,2,4,6,6,6,4
+1480,"missouri,de kalb",29063,3,6,6,4,9,4
+1481,"missouri,dent",29065,3,10,9,4,9,5
+1482,"missouri,douglas",29067,3,8,9,8,7,6
+1483,"missouri,dunklin",29069,5,10,10,9,10,8
+1484,"missouri,franklin",29071,4,9,5,4,9,5
+1485,"missouri,gasconade",29073,5,8,10,6,6,5
+1486,"missouri,gentry",29075,1,4,7,6,8,4
+1487,"missouri,greene",29077,2,6,3,3,4,7
+1488,"missouri,grundy",29079,2,7,6,4,8,5
+1489,"missouri,harrison",29081,4,10,10,8,7,4
+1490,"missouri,henry",29083,4,9,7,6,8,5
+1491,"missouri,hickory",29085,3,10,8,9,8,5
+1492,"missouri,holt",29087,2,7,4,6,5,4
+1493,"missouri,howard",29089,2,10,7,6,7,5
+1494,"missouri,howell",29091,4,9,5,4,4,7
+1495,"missouri,iron",29093,5,10,5,6,6,5
+1496,"missouri,jackson",29095,4,6,3,4,7,6
+1497,"missouri,jasper",29097,4,5,4,4,8,9
+1498,"missouri,jefferson",29099,5,9,7,4,9,6
+1499,"missouri,johnson",29101,3,4,8,4,8,5
+1500,"missouri,knox",29103,2,4,8,6,8,6
+1501,"missouri,laclede",29105,4,8,9,4,7,6
+1502,"missouri,lafayette",29107,3,7,4,4,6,5
+1503,"missouri,lawrence",29109,3,9,5,8,5,6
+1504,"missouri,lewis",29111,5,7,5,6,9,6
+1505,"missouri,lincoln",29113,5,10,6,9,10,6
+1506,"missouri,linn",29115,5,8,10,6,9,5
+1507,"missouri,livingston",29117,4,5,8,6,3,5
+1508,"missouri,mcdonald",29119,4,10,9,6,7,6
+1509,"missouri,macon",29121,1,4,5,6,6,5
+1510,"missouri,madison",29123,5,10,9,6,10,5
+1511,"missouri,maries",29125,3,6,6,6,6,5
+1512,"missouri,marion",29127,5,7,8,3,3,5
+1513,"missouri,mercer",29129,5,9,10,8,7,5
+1514,"missouri,miller",29131,5,9,8,4,9,6
+1515,"missouri,mississippi",29133,5,7,10,6,9,8
+1516,"missouri,moniteau",29135,2,10,7,6,6,5
+1517,"missouri,monroe",29137,5,8,6,9,7,5
+1518,"missouri,montgomery",29139,4,9,6,8,6,5
+1519,"missouri,morgan",29141,5,10,10,8,4,5
+1520,"missouri,new madrid",29143,5,9,9,8,8,7
+1521,"missouri,newton",29145,3,4,7,8,7,6
+1522,"missouri,nodaway",29147,3,2,7,2,5,4
+1523,"missouri,oregon",29149,3,7,10,9,7,7
+1524,"missouri,osage",29151,1,1,4,6,4,5
+1525,"missouri,ozark",29153,3,10,8,8,4,6
+1526,"missouri,pemiscot",29155,5,10,10,8,9,8
+1527,"missouri,perry",29157,3,2,5,6,8,6
+1528,"missouri,pettis",29159,3,8,8,6,7,5
+1529,"missouri,phelps",29161,4,9,4,4,8,5
+1530,"missouri,pike",29163,5,9,8,6,8,5
+1531,"missouri,platte",29165,2,2,5,3,4,5
+1532,"missouri,polk",29167,3,3,5,4,8,5
+1533,"missouri,pulaski",29169,4,7,5,3,8,5
+1534,"missouri,putnam",29171,2,4,9,4,5,5
+1535,"missouri,ralls",29173,5,6,4,8,7,5
+1536,"missouri,randolph",29175,4,9,8,6,8,5
+1537,"missouri,ray",29177,5,9,10,4,6,5
+1538,"missouri,reynolds",29179,5,7,9,8,9,5
+1539,"missouri,ripley",29181,5,10,10,8,8,6
+1540,"missouri,st charles",29183,3,3,3,2,6,6
+1541,"missouri,st clair",29185,3,10,9,8,8,5
+1542,"missouri,st francois",29187,5,9,6,4,7,6
+1543,"missouri,st louis",29189,3,3,3,4,3,9
+1544,"missouri,st louis city",29510,5,9,5,8,8,10
+1546,"missouri,saline",29195,4,9,6,8,8,5
+1547,"missouri,schuyler",29197,2,10,7,6,6,6
+1548,"missouri,scotland",29199,2,2,7,6,10,6
+1549,"missouri,scott",29201,5,7,10,6,7,6
+1550,"missouri,shannon",29203,5,10,6,9,10,6
+1551,"missouri,shelby",29205,4,1,6,8,7,5
+1552,"missouri,stoddard",29207,5,9,9,6,8,7
+1553,"missouri,stone",29209,4,8,7,8,6,6
+1554,"missouri,sullivan",29211,5,10,7,6,5,5
+1555,"missouri,taney",29213,4,10,7,6,6,6
+1556,"missouri,texas",29215,5,10,10,4,8,6
+1557,"missouri,vernon",29217,4,7,6,6,6,5
+1558,"missouri,warren",29219,4,8,9,4,6,5
+1559,"missouri,washington",29221,5,10,6,4,8,5
+1560,"missouri,wayne",29223,5,10,7,8,3,5
+1561,"missouri,webster",29225,2,3,4,6,7,6
+1562,"missouri,worth",29227,3,5,7,8,5,4
+1563,"missouri,wright",29229,4,7,8,8,9,7
+1564,"montana,beaverhead",30001,1,1,3,2,1,3
+1565,"montana,big horn",30003,1,9,5,9,9,2
+1566,"montana,blaine",30005,4,10,9,8,8,1
+1567,"montana,broadwater",30007,1,1,3,2,5,3
+1568,"montana,carbon",30009,1,2,3,2,1,2
+1569,"montana,carter",30011,1,5,7,2,1,1
+1570,"montana,cascade",30013,3,4,5,2,2,2
+1571,"montana,chouteau",30015,2,2,6,4,4,1
+1572,"montana,custer",30017,4,2,4,3,1,1
+1573,"montana,daniels",30019,1,2,6,3,1,1
+1574,"montana,dawson",30021,5,2,5,2,2,1
+1575,"montana,deer lodge",30023,2,9,3,2,2,3
+1576,"montana,fallon",30025,2,2,8,2,2,1
+1577,"montana,fergus",30027,1,2,4,2,1,1
+1578,"montana,flathead",30029,2,3,1,1,1,4
+1579,"montana,gallatin",30031,2,1,1,1,1,3
+1580,"montana,garfield",30033,1,5,7,2,1,1
+1581,"montana,glacier",30035,5,10,7,9,7,2
+1582,"montana,golden valley",30037,2,2,6,3,4,1
+1583,"montana,granite",30039,1,6,4,2,1,4
+1584,"montana,hill",30041,1,10,7,2,8,1
+1585,"montana,jefferson",30043,2,3,2,2,1,3
+1586,"montana,judith basin",30045,1,1,7,3,2,1
+1587,"montana,lake",30047,1,7,3,3,2,4
+1588,"montana,lewis and clark",30049,2,3,1,1,1,3
+1589,"montana,liberty",30051,1,6,10,2,2,1
+1590,"montana,lincoln",30053,3,6,2,4,2,4
+1591,"montana,mccone",30055,1,1,9,2,2,1
+1592,"montana,madison",30057,2,1,6,2,1,3
+1593,"montana,meagher",30059,2,4,6,3,2,2
+1594,"montana,mineral",30061,1,5,5,3,5,4
+1595,"montana,missoula",30063,2,3,1,1,1,4
+1596,"montana,musselshell",30065,4,5,8,3,1,1
+1597,"montana,park",30067,1,2,1,1,1,2
+1598,"montana,petroleum",30069,1,6,4,3,1,1
+1599,"montana,phillips",30071,1,2,8,3,2,1
+1600,"montana,pondera",30073,1,4,7,3,4,2
+1601,"montana,powder river",30075,2,3,9,3,2,1
+1602,"montana,powell",30077,5,7,5,2,1,3
+1603,"montana,prairie",30079,1,2,8,5,2,1
+1604,"montana,ravalli",30081,1,4,1,1,1,4
+1605,"montana,richland",30083,1,4,7,1,6,1
+1606,"montana,roosevelt",30085,3,9,9,9,10,1
+1607,"montana,rosebud",30087,1,6,6,4,8,1
+1608,"montana,sanders",30089,2,6,4,4,2,4
+1609,"montana,sheridan",30091,2,1,8,3,3,1
+1610,"montana,silver bow",30093,2,7,3,3,2,3
+1611,"montana,stillwater",30095,1,2,3,2,1,2
+1612,"montana,sweet grass",30097,3,2,6,2,1,2
+1613,"montana,teton",30099,1,4,5,1,1,2
+1614,"montana,toole",30101,1,2,5,1,4,1
+1615,"montana,treasure",30103,1,2,7,3,2,1
+1616,"montana,valley",30105,2,4,6,4,2,1
+1617,"montana,wheatland",30107,1,9,8,2,2,2
+1618,"montana,wibaux",30109,2,1,10,5,3,1
+1619,"montana,yellowstone",30111,2,3,3,3,2,2
+1621,"nebraska,adams",31001,2,2,3,1,4,3
+1622,"nebraska,antelope",31003,1,1,6,6,3,3
+1623,"nebraska,arthur",31005,2,1,7,5,4,1
+1624,"nebraska,banner",31007,1,7,9,7,8,1
+1625,"nebraska,blaine",31009,2,1,7,3,6,2
+1626,"nebraska,boone",31011,1,1,7,3,3,3
+1627,"nebraska,box butte",31013,1,6,4,4,7,1
+1628,"nebraska,boyd",31015,1,2,7,3,6,2
+1629,"nebraska,brown",31017,1,3,8,7,7,2
+1630,"nebraska,buffalo",31019,1,2,2,1,5,2
+1631,"nebraska,burt",31021,3,3,10,6,6,4
+1632,"nebraska,butler",31023,1,6,5,1,3,3
+1633,"nebraska,cass",31025,2,4,5,3,7,5
+1634,"nebraska,cedar",31027,1,1,8,3,3,4
+1635,"nebraska,chase",31029,3,1,5,3,2,1
+1636,"nebraska,cherry",31031,1,2,7,1,2,1
+1637,"nebraska,cheyenne",31033,1,4,5,3,3,1
+1638,"nebraska,clay",31035,1,2,9,6,9,3
+1639,"nebraska,colfax",31037,1,3,7,1,8,4
+1640,"nebraska,cuming",31039,1,2,7,1,5,4
+1641,"nebraska,custer",31041,1,1,8,4,7,2
+1642,"nebraska,dakota",31043,2,6,8,4,8,4
+1643,"nebraska,dawes",31045,1,4,5,3,5,1
+1644,"nebraska,dawson",31047,1,4,5,3,7,2
+1645,"nebraska,deuel",31049,1,6,7,5,3,1
+1646,"nebraska,dixon",31051,2,4,9,1,8,4
+1647,"nebraska,dodge",31053,2,5,6,3,5,4
+1648,"nebraska,douglas",31055,3,4,3,1,3,5
+1649,"nebraska,dundy",31057,1,1,9,5,5,1
+1650,"nebraska,fillmore",31059,2,1,8,3,4,3
+1651,"nebraska,franklin",31061,2,4,10,5,7,2
+1652,"nebraska,frontier",31063,2,1,9,3,7,2
+1653,"nebraska,furnas",31065,2,3,5,6,7,2
+1654,"nebraska,gage",31067,2,6,7,6,8,3
+1655,"nebraska,garden",31069,1,7,9,5,2,1
+1656,"nebraska,garfield",31071,2,1,6,5,3,2
+1657,"nebraska,gosper",31073,1,1,5,5,5,2
+1658,"nebraska,grant",31075,2,2,9,3,3,1
+1659,"nebraska,greeley",31077,2,1,9,3,8,3
+1660,"nebraska,hall",31079,2,3,5,3,6,3
+1661,"nebraska,hamilton",31081,2,2,6,1,5,3
+1662,"nebraska,harlan",31083,2,3,7,3,4,2
+1663,"nebraska,hayes",31085,2,1,10,3,3,1
+1664,"nebraska,hitchcock",31087,2,6,7,5,9,1
+1665,"nebraska,holt",31089,1,1,9,4,5,2
+1666,"nebraska,hooker",31091,2,1,8,7,7,1
+1667,"nebraska,howard",31093,2,1,8,3,7,3
+1668,"nebraska,jefferson",31095,2,3,9,4,7,4
+1669,"nebraska,johnson",31097,5,4,9,3,5,4
+1670,"nebraska,kearney",31099,2,3,4,1,4,2
+1671,"nebraska,keith",31101,2,4,4,3,3,1
+1672,"nebraska,keya paha",31103,2,2,10,5,2,2
+1673,"nebraska,kimball",31105,1,8,4,4,6,1
+1674,"nebraska,knox",31107,2,2,9,3,3,3
+1675,"nebraska,lancaster",31109,2,4,1,1,2,5
+1676,"nebraska,lincoln",31111,2,2,5,3,7,2
+1677,"nebraska,logan",31113,1,1,7,2,4,1
+1678,"nebraska,loup",31115,1,3,6,7,5,2
+1679,"nebraska,mcpherson",31117,3,5,8,3,3,1
+1680,"nebraska,madison",31119,2,4,3,1,4,3
+1681,"nebraska,merrick",31121,4,4,6,4,8,3
+1682,"nebraska,morrill",31123,4,5,5,6,4,1
+1683,"nebraska,nance",31125,1,1,6,6,6,3
+1684,"nebraska,nemaha",31127,2,3,8,3,9,4
+1685,"nebraska,nuckolls",31129,2,1,8,4,5,3
+1686,"nebraska,otoe",31131,2,3,7,4,9,4
+1687,"nebraska,pawnee",31133,4,1,8,8,8,4
+1688,"nebraska,perkins",31135,2,3,4,3,5,1
+1689,"nebraska,phelps",31137,1,1,5,4,8,2
+1690,"nebraska,pierce",31139,1,1,9,4,9,3
+1691,"nebraska,platte",31141,1,2,3,1,5,3
+1692,"nebraska,polk",31143,4,4,8,4,8,3
+1693,"nebraska,red willow",31145,1,4,4,4,5,2
+1694,"nebraska,richardson",31147,3,4,10,8,8,4
+1695,"nebraska,rock",31149,1,1,9,5,5,2
+1696,"nebraska,saline",31151,1,2,7,3,7,4
+1697,"nebraska,sarpy",31153,3,3,2,1,3,5
+1698,"nebraska,saunders",31155,3,4,5,1,6,4
+1699,"nebraska,scotts bluff",31157,1,4,5,4,7,1
+1700,"nebraska,seward",31159,1,2,3,1,4,3
+1701,"nebraska,sheridan",31161,1,1,10,6,5,1
+1702,"nebraska,sherman",31163,2,4,9,3,9,2
+1703,"nebraska,sioux",31165,2,2,8,2,3,1
+1704,"nebraska,stanton",31167,1,7,8,3,6,3
+1705,"nebraska,thayer",31169,2,1,8,8,3,3
+1706,"nebraska,thomas",31171,1,1,10,5,7,1
+1707,"nebraska,thurston",31173,5,10,9,10,10,4
+1708,"nebraska,valley",31175,1,1,8,8,5,2
+1709,"nebraska,washington",31177,1,3,2,3,6,5
+1710,"nebraska,wayne",31179,1,1,4,1,4,3
+1711,"nebraska,webster",31181,2,1,9,6,7,2
+1712,"nebraska,wheeler",31183,2,1,7,5,2,3
+1713,"nebraska,york",31185,1,4,4,3,8,3
+1714,"nevada,carson city",32510,1,6,1,3,1,2
+1715,"nevada,churchill",32001,1,8,4,3,7,1
+1716,"nevada,clark",32003,1,6,3,3,2,2
+1717,"nevada,douglas",32005,1,4,1,2,1,3
+1718,"nevada,elko",32007,1,8,2,2,8,1
+1719,"nevada,esmeralda",32009,1,3,4,7,4,2
+1720,"nevada,eureka",32011,1,3,4,3,2,1
+1721,"nevada,humboldt",32013,1,7,2,1,2,2
+1722,"nevada,lander",32015,1,3,3,2,2,1
+1723,"nevada,lincoln",32017,1,2,2,3,2,1
+1724,"nevada,lyon",32019,1,8,4,5,6,2
+1725,"nevada,mineral",32021,5,9,8,8,5,2
+1726,"nevada,nye",32023,1,9,7,7,5,1
+1727,"nevada,pershing",32027,1,9,2,3,4,1
+1728,"nevada,storey",32029,1,7,4,5,1,2
+1729,"nevada,washoe",32031,1,4,1,1,1,2
+1730,"nevada,white pine",32033,1,5,4,2,2,1
+1731,"new hampshire,belknap",33001,2,4,2,3,2,4
+1732,"new hampshire,carroll",33003,2,4,2,4,1,4
+1733,"new hampshire,cheshire",33005,3,3,1,3,2,7
+1734,"new hampshire,coos",33007,3,6,5,4,7,3
+1735,"new hampshire,grafton",33009,3,3,1,3,2,4
+1736,"new hampshire,hillsborough",33011,2,2,2,3,2,4
+1737,"new hampshire,merrimack",33013,3,2,2,1,2,4
+1738,"new hampshire,rockingham",33015,2,2,2,1,2,4
+1739,"new hampshire,strafford",33017,4,4,2,3,5,4
+1740,"new hampshire,sullivan",33019,3,5,4,3,2,4
+1741,"new jersey,atlantic",34001,3,5,3,4,2,5
+1742,"new jersey,bergen",34003,1,2,3,1,1,6
+1743,"new jersey,burlington",34005,2,2,3,4,2,6
+1744,"new jersey,camden",34007,3,4,5,3,3,7
+1745,"new jersey,cape may",34009,4,6,3,6,1,5
+1746,"new jersey,cumberland",34011,4,7,7,8,8,6
+1747,"new jersey,essex",34013,1,2,5,4,2,8
+1748,"new jersey,gloucester",34015,4,4,3,4,3,7
+1749,"new jersey,hudson",34017,1,2,4,1,1,10
+1750,"new jersey,hunterdon",34019,1,1,1,1,1,6
+1751,"new jersey,mercer",34021,2,1,3,3,1,8
+1752,"new jersey,middlesex",34023,1,1,4,3,1,8
+1753,"new jersey,monmouth",34025,2,2,2,3,1,5
+1754,"new jersey,morris",34027,1,1,2,1,1,5
+1755,"new jersey,ocean",34029,3,3,4,6,2,5
+1756,"new jersey,passaic",34031,1,3,4,3,1,4
+1757,"new jersey,salem",34033,4,8,7,6,8,7
+1758,"new jersey,somerset",34035,1,1,2,1,1,6
+1759,"new jersey,sussex",34037,2,4,3,1,2,4
+1760,"new jersey,union",34039,1,2,4,1,1,8
+1761,"new jersey,warren",34041,2,4,4,3,2,6
+1762,"new mexico,bernalillo",35001,1,4,1,1,1,2
+1763,"new mexico,catron",35003,1,6,3,4,1,1
+1764,"new mexico,chaves",35005,1,6,4,4,6,2
+1765,"new mexico,cibola",35006,1,4,4,8,6,1
+1766,"new mexico,colfax",35007,1,6,3,3,1,1
+1767,"new mexico,curry",35009,1,7,4,3,4,1
+1768,"new mexico,de baca",35011,1,5,7,3,1,1
+1769,"new mexico,dona ana",35013,1,2,1,1,1,2
+1770,"new mexico,eddy",35015,2,6,5,6,4,1
+1771,"new mexico,grant",35017,1,4,2,1,1,2
+1772,"new mexico,guadalupe",35019,1,10,4,2,2,1
+1773,"new mexico,harding",35021,1,1,5,5,2,1
+1774,"new mexico,hidalgo",35023,1,2,4,2,2,2
+1775,"new mexico,lea",35025,2,6,9,1,8,1
+1776,"new mexico,lincoln",35027,1,6,2,1,1,1
+1777,"new mexico,los alamos",35028,1,1,1,1,1,1
+1778,"new mexico,luna",35029,1,4,3,2,2,2
+1779,"new mexico,mckinley",35031,1,2,3,9,10,1
+1780,"new mexico,mora",35033,1,3,4,5,1,1
+1781,"new mexico,otero",35035,2,7,2,4,1,2
+1782,"new mexico,quay",35037,1,9,7,2,1,1
+1783,"new mexico,rio arriba",35039,1,6,2,2,1,1
+1784,"new mexico,roosevelt",35041,1,7,5,1,2,1
+1785,"new mexico,san juan",35043,1,2,1,1,1,2
+1786,"new mexico,san miguel",35045,1,7,3,4,5,1
+1787,"new mexico,sandoval",35047,1,7,1,2,1,1
+1788,"new mexico,santa fe",35049,1,2,1,1,1,1
+1789,"new mexico,sierra",35051,2,8,4,6,1,1
+1790,"new mexico,socorro",35053,1,3,2,1,2,1
+1791,"new mexico,taos",35055,1,2,1,1,1,1
+1792,"new mexico,torrance",35057,1,10,3,2,2,1
+1793,"new mexico,union",35059,1,1,6,1,2,1
+1794,"new mexico,valencia",35061,1,7,3,1,3,1
+1795,"new york,albany",36001,3,3,2,1,2,5
+1796,"new york,allegany",36003,4,6,4,4,5,7
+1797,"new york,bronx",36005,1,4,6,4,3,10
+1798,"new york,broome",36007,2,5,3,4,4,6
+1799,"new york,cattaraugus",36009,4,7,5,6,3,6
+1800,"new york,cayuga",36011,4,9,2,4,1,5
+1801,"new york,chautauqua",36013,3,7,4,4,3,6
+1802,"new york,chemung",36015,4,7,4,6,4,6
+1803,"new york,chenango",36017,3,7,2,2,4,5
+1804,"new york,clinton",36019,5,2,3,1,5,2
+1805,"new york,columbia",36021,4,2,3,2,1,5
+1806,"new york,cortland",36023,4,6,4,2,2,5
+1807,"new york,delaware",36025,3,2,8,4,2,5
+1808,"new york,dutchess",36027,2,2,2,4,2,5
+1809,"new york,erie",36029,4,2,3,4,4,7
+1810,"new york,essex",36031,3,2,2,4,2,3
+1811,"new york,franklin",36033,4,4,4,4,4,2
+1812,"new york,fulton",36035,4,4,2,4,3,5
+1813,"new york,genesee",36037,3,4,4,8,4,5
+1814,"new york,greene",36039,3,9,4,4,5,5
+1815,"new york,hamilton",36041,3,8,3,8,2,4
+1816,"new york,herkimer",36043,4,4,4,4,7,4
+1817,"new york,jefferson",36045,4,8,4,2,4,4
+1818,"new york,kings",36047,1,1,4,4,1,9
+1819,"new york,lewis",36049,3,5,3,6,2,4
+1820,"new york,livingston",36051,3,3,3,4,4,6
+1821,"new york,madison",36053,4,6,3,1,2,5
+1822,"new york,monroe",36055,3,4,1,4,5,6
+1823,"new york,montgomery",36057,4,10,3,2,2,5
+1824,"new york,nassau",36059,2,1,3,2,1,6
+1825,"new york,new york",36061,1,1,1,1,1,10
+1826,"new york,niagara",36063,3,7,4,4,5,5
+1827,"new york,oneida",36065,4,7,4,2,3,5
+1828,"new york,onondaga",36067,4,2,3,4,3,6
+1829,"new york,ontario",36069,3,2,1,2,3,5
+1830,"new york,orange",36071,3,6,3,4,1,4
+1831,"new york,orleans",36073,5,9,6,4,7,5
+1832,"new york,oswego",36075,4,10,4,4,8,4
+1833,"new york,otsego",36077,3,4,3,4,2,5
+1834,"new york,putnam",36079,2,1,2,2,6,5
+1835,"new york,queens",36081,1,1,5,2,1,9
+1836,"new york,rensselaer",36083,5,4,2,4,2,5
+1837,"new york,richmond",36085,1,4,5,4,3,9
+1838,"new york,rockland",36087,1,1,3,4,1,4
+1839,"new york,st lawrence",36089,4,9,5,4,5,3
+1840,"new york,saratoga",36091,3,2,1,1,2,4
+1841,"new york,schenectady",36093,3,4,4,6,2,4
+1842,"new york,schoharie",36095,3,8,3,2,5,5
+1843,"new york,schuyler",36097,3,9,6,2,4,6
+1844,"new york,seneca",36099,4,7,6,4,3,5
+1845,"new york,steuben",36101,4,10,2,6,6,6
+1846,"new york,suffolk",36103,3,4,2,1,1,5
+1847,"new york,sullivan",36105,3,8,4,6,4,5
+1848,"new york,tioga",36107,3,1,3,4,4,6
+1849,"new york,tompkins",36109,1,1,2,1,1,5
+1850,"new york,ulster",36111,2,7,2,2,2,4
+1851,"new york,warren",36113,4,8,1,4,4,4
+1852,"new york,washington",36115,3,9,5,4,3,4
+1853,"new york,wayne",36117,3,6,2,4,6,5
+1854,"new york,westchester",36119,1,1,1,1,1,5
+1855,"new york,wyoming",36121,3,4,3,2,5,6
+1856,"new york,yates",36123,3,8,4,2,2,5
+1857,"north carolina,alamance",37001,3,7,4,8,8,10
+1858,"north carolina,alexander",37003,5,8,2,6,2,10
+1859,"north carolina,alleghany",37005,4,9,8,6,1,9
+1860,"north carolina,anson",37007,4,5,6,9,9,8
+1861,"north carolina,ashe",37009,2,7,5,4,1,9
+1862,"north carolina,avery",37011,2,8,3,6,4,9
+1863,"north carolina,beaufort",37013,4,9,8,10,8,5
+1864,"north carolina,bertie",37015,3,4,8,10,9,6
+1865,"north carolina,bladen",37017,3,6,9,10,10,7
+1866,"north carolina,brunswick",37019,3,6,4,8,5,6
+1867,"north carolina,buncombe",37021,3,5,2,4,1,10
+1868,"north carolina,burke",37023,4,7,7,9,4,10
+1869,"north carolina,cabarrus",37025,3,4,3,4,6,10
+1870,"north carolina,caldwell",37027,4,7,6,8,5,10
+1871,"north carolina,camden",37029,2,3,3,6,5,6
+1872,"north carolina,carteret",37031,3,6,7,6,4,4
+1873,"north carolina,caswell",37033,3,10,5,10,8,9
+1874,"north carolina,catawba",37035,3,7,5,4,3,10
+1875,"north carolina,chatham",37037,1,5,2,4,2,9
+1876,"north carolina,cherokee",37039,4,8,7,10,3,10
+1877,"north carolina,chowan",37041,3,10,6,10,5,6
+1878,"north carolina,clay",37043,2,6,6,6,2,10
+1879,"north carolina,cleveland",37045,3,7,8,10,5,10
+1880,"north carolina,columbus",37047,5,7,5,9,7,6
+1881,"north carolina,craven",37049,5,6,6,8,7,5
+1882,"north carolina,cumberland",37051,4,6,7,8,8,9
+1883,"north carolina,currituck:knotts",37053,4,8,4,6,4,5
+1886,"north carolina,dare",37055,3,10,4,4,3,4
+1887,"north carolina,davidson",37057,4,8,8,6,4,10
+1888,"north carolina,davie",37059,4,7,4,8,3,9
+1889,"north carolina,duplin",37061,3,5,9,10,10,8
+1890,"north carolina,durham",37063,2,1,1,2,4,10
+1891,"north carolina,edgecombe",37065,2,6,6,10,10,7
+1892,"north carolina,forsyth",37067,3,5,2,4,2,10
+1893,"north carolina,franklin",37069,4,9,6,6,8,8
+1894,"north carolina,gaston",37071,4,8,6,8,2,10
+1895,"north carolina,gates",37073,1,9,8,9,8,6
+1896,"north carolina,graham",37075,3,6,5,8,5,10
+1897,"north carolina,granville",37077,4,7,7,9,5,8
+1898,"north carolina,greene",37079,5,9,5,8,7,7
+1899,"north carolina,guilford",37081,3,3,3,4,2,10
+1900,"north carolina,halifax",37083,3,6,9,10,10,7
+1901,"north carolina,harnett",37085,5,8,6,6,8,8
+1902,"north carolina,haywood",37087,3,8,2,4,2,10
+1903,"north carolina,henderson",37089,2,3,3,4,1,9
+1904,"north carolina,hertford",37091,4,9,9,10,8,6
+1905,"north carolina,hoke",37093,4,5,7,6,8,8
+1906,"north carolina,hyde",37095,5,5,6,8,7,4
+1907,"north carolina,iredell",37097,3,5,3,2,3,9
+1908,"north carolina,jackson",37099,2,6,3,9,8,9
+1909,"north carolina,johnston",37101,4,8,5,8,8,8
+1910,"north carolina,jones",37103,3,10,9,10,8,6
+1911,"north carolina,lee",37105,3,5,4,6,4,8
+1912,"north carolina,lenoir",37107,4,2,10,10,8,7
+1913,"north carolina,lincoln",37109,4,3,4,4,3,10
+1914,"north carolina,mcdowell",37111,4,7,8,9,8,10
+1915,"north carolina,macon",37113,4,6,4,6,1,9
+1916,"north carolina,madison",37115,2,6,4,6,5,9
+1917,"north carolina,martin",37117,4,1,7,10,8,6
+1918,"north carolina,mecklenburg",37119,2,1,2,1,2,10
+1919,"north carolina,mitchell",37121,4,8,6,8,4,9
+1920,"north carolina,montgomery",37123,4,9,5,9,6,9
+1921,"north carolina,moore",37125,3,2,5,6,4,8
+1922,"north carolina,nash",37127,4,6,7,8,8,8
+1923,"north carolina,new hanover",37129,2,4,2,6,2,6
+1924,"north carolina,northampton",37131,3,6,9,10,6,7
+1925,"north carolina,onslow",37133,4,8,3,2,3,7
+1926,"north carolina,orange",37135,2,1,1,1,1,9
+1927,"north carolina,pamlico",37137,3,10,6,9,5,5
+1928,"north carolina,pasquotank",37139,4,10,6,8,8,6
+1929,"north carolina,pender",37141,3,9,4,8,4,6
+1930,"north carolina,perquimans",37143,2,6,5,10,7,6
+1931,"north carolina,person",37145,5,9,7,10,8,8
+1932,"north carolina,pitt",37147,2,4,3,2,10,9
+1933,"north carolina,polk",37149,1,4,4,4,1,9
+1934,"north carolina,randolph",37151,4,7,6,4,4,9
+1935,"north carolina,richmond",37153,5,8,9,9,6,8
+1936,"north carolina,robeson",37155,4,8,10,10,10,8
+1937,"north carolina,rockingham",37157,5,9,7,8,7,9
+1938,"north carolina,rowan",37159,5,8,7,9,8,10
+1939,"north carolina,rutherford",37161,4,9,6,8,5,9
+1940,"north carolina,sampson",37163,3,3,5,9,10,7
+1941,"north carolina,scotland",37165,4,8,6,10,10,7
+1942,"north carolina,stanly",37167,4,8,8,7,2,9
+1943,"north carolina,stokes",37169,5,10,4,4,2,9
+1944,"north carolina,surry",37171,4,9,4,9,6,8
+1945,"north carolina,swain",37173,5,10,7,10,8,10
+1946,"north carolina,transylvania",37175,3,7,2,4,1,9
+1947,"north carolina,tyrrell",37177,4,3,7,9,6,4
+1948,"north carolina,union",37179,2,2,2,2,2,9
+1949,"north carolina,vance",37181,4,9,8,10,8,8
+1950,"north carolina,wake",37183,2,1,1,1,1,10
+1951,"north carolina,warren",37185,4,7,8,10,9,8
+1952,"north carolina,washington",37187,3,8,7,10,8,5
+1953,"north carolina,watauga",37189,1,2,2,2,3,9
+1954,"north carolina,wayne",37191,4,7,8,7,8,10
+1955,"north carolina,wilkes",37193,4,9,8,9,4,9
+1956,"north carolina,wilson",37195,3,1,8,10,9,8
+1957,"north carolina,yadkin",37197,4,8,5,4,5,9
+1958,"north carolina,yancey",37199,5,6,8,6,4,10
+1959,"north dakota,adams",38001,2,1,6,7,8,1
+1960,"north dakota,barnes",38003,2,2,4,1,2,2
+1961,"north dakota,benson",38005,3,10,9,4,10,1
+1962,"north dakota,billings",38007,2,2,7,3,6,1
+1963,"north dakota,bottineau",38009,2,7,4,4,6,1
+1964,"north dakota,bowman",38011,4,1,8,2,7,1
+1965,"north dakota,burke",38013,1,8,8,5,6,1
+1966,"north dakota,burleigh",38015,2,1,2,1,2,1
+1967,"north dakota,cass",38017,2,2,2,1,2,2
+1968,"north dakota,cavalier",38019,1,5,5,4,6,1
+1969,"north dakota,dickey",38021,1,2,5,4,5,2
+1970,"north dakota,divide",38023,3,9,10,3,4,1
+1971,"north dakota,dunn",38025,1,1,9,5,5,1
+1972,"north dakota,eddy",38027,2,2,9,5,4,1
+1973,"north dakota,emmons",38029,1,1,9,7,8,1
+1974,"north dakota,foster",38031,2,4,8,2,5,1
+1975,"north dakota,golden valley",38033,3,5,9,3,6,1
+1976,"north dakota,grand forks",38035,2,2,2,1,5,1
+1977,"north dakota,grant",38037,1,5,9,7,10,1
+1978,"north dakota,griggs",38039,2,2,8,4,5,1
+1979,"north dakota,hettinger",38041,1,1,7,5,2,1
+1980,"north dakota,kidder",38043,3,2,7,5,8,1
+1981,"north dakota,la moure",38045,1,9,6,5,4,2
+1982,"north dakota,logan",38047,3,3,8,8,9,1
+1983,"north dakota,mchenry",38049,3,4,10,2,5,1
+1984,"north dakota,mcintosh",38051,1,5,10,5,5,2
+1985,"north dakota,mckenzie",38053,1,8,8,4,8,1
+1986,"north dakota,mclean",38055,3,4,8,6,7,1
+1987,"north dakota,mercer",38057,1,2,4,2,5,1
+1988,"north dakota,morton",38059,3,3,4,1,4,1
+1989,"north dakota,mountrail",38061,1,7,10,2,10,1
+1990,"north dakota,nelson",38063,2,3,8,4,6,1
+1991,"north dakota,oliver",38065,3,1,7,5,6,1
+1992,"north dakota,pembina",38067,2,3,9,4,8,1
+1993,"north dakota,pierce",38069,2,4,9,4,8,1
+1994,"north dakota,ramsey",38071,4,7,4,1,5,1
+1995,"north dakota,ransom",38073,2,1,7,4,7,2
+1996,"north dakota,renville",38075,3,8,6,3,3,1
+1997,"north dakota,richland",38077,1,4,7,1,8,2
+1998,"north dakota,rolette",38079,5,10,10,10,10,1
+1999,"north dakota,sargent",38081,2,3,10,4,6,2
+2000,"north dakota,sheridan",38083,3,2,8,8,5,1
+2001,"north dakota,sioux",38085,4,10,7,8,10,1
+2002,"north dakota,slope",38087,2,1,9,3,4,1
+2003,"north dakota,stark",38089,2,4,4,4,7,1
+2004,"north dakota,steele",38091,2,1,7,3,8,1
+2005,"north dakota,stutsman",38093,2,3,6,1,5,1
+2006,"north dakota,towner",38095,2,2,7,5,4,1
+2007,"north dakota,traill",38097,3,1,8,1,9,1
+2008,"north dakota,walsh",38099,1,2,7,2,8,1
+2009,"north dakota,ward",38101,2,3,6,2,5,1
+2010,"north dakota,wells",38103,1,2,8,4,4,1
+2011,"north dakota,williams",38105,2,10,8,1,5,1
+2012,"ohio,adams",39001,5,8,8,4,6,7
+2013,"ohio,allen",39003,3,7,5,7,10,8
+2014,"ohio,ashland",39005,2,7,4,6,6,6
+2015,"ohio,ashtabula",39007,4,10,8,7,5,7
+2016,"ohio,athens",39009,4,10,5,4,8,10
+2017,"ohio,auglaize",39011,3,2,6,7,8,8
+2018,"ohio,belmont",39013,2,6,9,7,6,9
+2019,"ohio,brown",39015,5,10,10,9,10,7
+2020,"ohio,butler",39017,3,7,4,4,5,10
+2021,"ohio,carroll",39019,3,7,4,6,4,9
+2022,"ohio,champaign",39021,3,4,5,6,8,7
+2023,"ohio,clark",39023,4,9,8,9,8,10
+2024,"ohio,clermont",39025,2,7,4,4,2,8
+2025,"ohio,clinton",39027,5,4,8,6,5,7
+2026,"ohio,columbiana",39029,3,6,8,7,7,9
+2027,"ohio,coshocton",39031,3,6,8,7,7,7
+2028,"ohio,crawford",39033,4,10,10,10,10,8
+2029,"ohio,cuyahoga",39035,3,4,3,6,2,10
+2030,"ohio,darke",39037,2,3,9,7,9,7
+2031,"ohio,defiance",39039,3,5,4,6,3,9
+2032,"ohio,delaware",39041,2,1,2,2,2,10
+2033,"ohio,erie",39043,3,5,5,6,3,6
+2034,"ohio,fairfield",39045,3,5,4,6,6,10
+2035,"ohio,fayette",39047,5,10,8,6,6,7
+2036,"ohio,franklin",39049,3,5,4,4,5,10
+2037,"ohio,fulton",39051,3,8,3,7,5,7
+2038,"ohio,gallia",39053,5,10,10,7,6,10
+2039,"ohio,geauga",39055,1,3,3,4,3,7
+2040,"ohio,greene",39057,2,2,4,4,2,8
+2041,"ohio,guernsey",39059,4,10,7,7,6,7
+2042,"ohio,hamilton",39061,4,4,3,6,3,10
+2043,"ohio,hancock",39063,2,4,4,4,6,8
+2044,"ohio,hardin",39065,5,10,5,4,7,9
+2045,"ohio,harrison",39067,3,10,8,9,5,8
+2046,"ohio,henry",39069,2,5,7,6,8,7
+2047,"ohio,highland",39071,4,9,9,7,8,7
+2048,"ohio,hocking",39073,3,8,6,7,7,10
+2049,"ohio,holmes",39075,1,8,3,4,4,7
+2050,"ohio,huron",39077,4,10,8,6,8,7
+2051,"ohio,jackson",39079,5,9,10,7,8,10
+2052,"ohio,jefferson",39081,5,9,9,10,10,10
+2053,"ohio,knox",39083,3,5,4,6,7,7
+2054,"ohio,lake",39085,3,5,4,6,3,9
+2055,"ohio,lawrence",39087,4,8,9,7,10,10
+2056,"ohio,licking",39089,4,7,5,7,5,9
+2057,"ohio,logan",39091,3,6,10,9,5,8
+2058,"ohio,lorain",39093,3,5,5,7,6,9
+2059,"ohio,lucas",39095,3,6,4,4,7,10
+2060,"ohio,madison",39097,4,8,9,6,6,7
+2061,"ohio,mahoning",39099,3,6,5,7,5,10
+2062,"ohio,marion",39101,4,8,8,6,7,9
+2063,"ohio,medina",39103,2,2,2,6,4,7
+2064,"ohio,meigs",39105,4,10,8,9,8,10
+2065,"ohio,mercer",39107,3,2,4,6,4,6
+2066,"ohio,miami",39109,3,3,4,6,6,7
+2067,"ohio,monroe",39111,2,10,7,6,7,8
+2068,"ohio,montgomery",39113,4,5,3,9,5,10
+2069,"ohio,morgan",39115,4,6,8,9,7,10
+2070,"ohio,morrow",39117,5,10,6,6,6,8
+2071,"ohio,muskingum",39119,4,7,9,6,5,8
+2072,"ohio,noble",39121,1,9,9,7,7,8
+2073,"ohio,ottawa",39123,3,8,4,7,9,8
+2074,"ohio,paulding",39125,2,5,5,4,4,9
+2075,"ohio,perry",39127,5,8,9,6,10,10
+2076,"ohio,pickaway",39129,4,5,8,4,8,9
+2077,"ohio,pike",39131,5,8,9,9,7,9
+2078,"ohio,portage",39133,3,9,3,2,5,10
+2079,"ohio,preble",39135,5,6,7,6,7,9
+2080,"ohio,putnam",39137,3,8,4,4,5,9
+2081,"ohio,richland",39139,3,8,5,6,6,7
+2082,"ohio,ross",39141,5,10,6,6,8,9
+2083,"ohio,sandusky",39143,3,8,7,7,8,7
+2084,"ohio,scioto",39145,5,10,7,7,10,10
+2085,"ohio,seneca",39147,3,4,6,4,5,7
+2086,"ohio,shelby",39149,3,4,4,4,7,7
+2087,"ohio,stark",39151,3,6,4,6,7,10
+2088,"ohio,summit",39153,3,4,3,4,3,10
+2089,"ohio,trumbull",39155,4,8,7,6,8,9
+2090,"ohio,tuscarawas",39157,2,6,7,2,7,7
+2091,"ohio,union",39159,3,4,4,4,8,7
+2092,"ohio,van wert",39161,2,3,4,7,8,8
+2093,"ohio,vinton",39163,5,5,7,6,5,10
+2094,"ohio,warren",39165,2,1,2,2,2,9
+2095,"ohio,washington",39167,4,5,6,7,7,10
+2096,"ohio,wayne",39169,2,3,3,4,6,6
+2097,"ohio,williams",39171,2,7,2,7,5,8
+2098,"ohio,wood",39173,1,2,4,6,5,8
+2099,"ohio,wyandot",39175,3,9,7,6,3,8
+2100,"oklahoma,adair",40001,3,10,9,10,10,7
+2101,"oklahoma,alfalfa",40003,3,5,10,9,8,3
+2102,"oklahoma,atoka",40005,5,7,5,9,9,5
+2103,"oklahoma,beaver",40007,1,10,9,7,6,1
+2104,"oklahoma,beckham",40009,2,9,10,4,10,2
+2105,"oklahoma,blaine",40011,3,5,9,7,7,3
+2106,"oklahoma,bryan",40013,4,8,7,7,8,5
+2107,"oklahoma,caddo",40015,5,9,10,6,9,4
+2108,"oklahoma,canadian",40017,3,5,8,6,6,4
+2109,"oklahoma,carter",40019,4,7,10,7,10,4
+2110,"oklahoma,cherokee",40021,4,8,4,7,9,7
+2111,"oklahoma,choctaw",40023,4,9,10,10,8,6
+2112,"oklahoma,cimarron",40025,1,3,10,9,6,1
+2113,"oklahoma,cleveland",40027,2,5,3,2,3,4
+2114,"oklahoma,coal",40029,4,7,9,10,8,5
+2115,"oklahoma,comanche",40031,5,10,8,6,9,4
+2116,"oklahoma,cotton",40033,3,10,10,9,8,3
+2117,"oklahoma,craig",40035,3,5,8,10,10,6
+2118,"oklahoma,creek",40037,4,10,10,7,10,5
+2119,"oklahoma,custer",40039,3,2,9,6,3,3
+2120,"oklahoma,delaware",40041,3,8,10,10,8,6
+2121,"oklahoma,dewey",40043,1,5,9,10,3,3
+2122,"oklahoma,ellis",40045,2,5,10,7,7,2
+2123,"oklahoma,garfield",40047,2,7,8,6,8,4
+2124,"oklahoma,garvin",40049,5,8,10,7,7,5
+2125,"oklahoma,grady",40051,3,9,6,4,10,4
+2126,"oklahoma,grant",40053,3,5,9,7,9,4
+2127,"oklahoma,greer",40055,5,10,10,7,7,3
+2128,"oklahoma,harmon",40057,4,5,10,9,8,2
+2129,"oklahoma,harper",40059,2,2,10,7,8,2
+2130,"oklahoma,haskell",40061,3,1,10,7,6,6
+2131,"oklahoma,hughes",40063,5,10,9,10,8,5
+2132,"oklahoma,jackson",40065,2,7,9,7,8,3
+2133,"oklahoma,jefferson",40067,5,9,9,7,10,4
+2134,"oklahoma,johnston",40069,2,7,10,9,6,4
+2135,"oklahoma,kay",40071,4,5,9,10,10,5
+2136,"oklahoma,kingfisher",40073,2,4,6,6,7,4
+2137,"oklahoma,kiowa",40075,5,9,10,10,7,3
+2138,"oklahoma,latimer",40077,2,6,10,9,10,6
+2139,"oklahoma,le flore",40079,4,8,10,9,8,6
+2140,"oklahoma,lincoln",40081,3,9,10,7,7,5
+2141,"oklahoma,logan",40083,4,7,8,9,8,4
+2142,"oklahoma,love",40085,2,10,9,9,6,5
+2143,"oklahoma,mcclain",40087,4,3,6,7,7,4
+2144,"oklahoma,mccurtain",40089,5,7,10,7,10,7
+2145,"oklahoma,mcintosh",40091,5,9,10,10,9,5
+2146,"oklahoma,major",40093,3,1,9,7,7,3
+2147,"oklahoma,marshall",40095,3,5,10,9,8,5
+2148,"oklahoma,mayes",40097,4,9,10,10,10,7
+2149,"oklahoma,murray",40099,5,9,8,7,9,4
+2150,"oklahoma,muskogee",40101,5,10,8,10,7,6
+2151,"oklahoma,noble",40103,2,8,8,7,9,4
+2152,"oklahoma,nowata",40105,2,8,8,9,8,6
+2153,"oklahoma,okfuskee",40107,3,8,10,9,9,5
+2154,"oklahoma,oklahoma",40109,3,7,7,6,5,5
+2155,"oklahoma,okmulgee",40111,5,7,10,9,7,5
+2156,"oklahoma,osage",40113,2,8,9,7,8,5
+2157,"oklahoma,ottawa",40115,4,10,10,9,7,7
+2158,"oklahoma,pawnee",40117,3,8,10,10,10,5
+2159,"oklahoma,payne",40119,2,3,6,2,6,5
+2160,"oklahoma,pittsburg",40121,4,9,9,9,8,6
+2161,"oklahoma,pontotoc",40123,3,9,10,6,10,5
+2162,"oklahoma,pottawatomie",40125,5,10,9,7,10,5
+2163,"oklahoma,pushmataha",40127,2,10,9,9,6,6
+2164,"oklahoma,roger mills",40129,2,6,10,8,7,2
+2165,"oklahoma,rogers",40131,2,8,8,6,6,6
+2166,"oklahoma,seminole",40133,5,8,10,9,10,5
+2167,"oklahoma,sequoyah",40135,3,10,10,10,10,7
+2168,"oklahoma,stephens",40137,3,5,8,6,3,4
+2169,"oklahoma,texas",40139,1,2,8,2,6,2
+2170,"oklahoma,tillman",40141,2,3,9,7,8,3
+2171,"oklahoma,tulsa",40143,3,7,6,4,5,7
+2172,"oklahoma,wagoner",40145,3,6,9,9,7,6
+2173,"oklahoma,washington",40147,4,7,8,7,6,5
+2174,"oklahoma,washita",40149,1,8,9,6,8,3
+2175,"oklahoma,woods",40151,1,2,9,4,7,2
+2176,"oklahoma,woodward",40153,1,9,8,6,9,2
+2177,"oregon,baker",41001,3,7,2,6,1,3
+2178,"oregon,benton",41003,1,1,1,1,1,2
+2179,"oregon,clackamas",41005,1,2,1,1,2,3
+2180,"oregon,clatsop",41007,1,3,1,4,2,2
+2181,"oregon,columbia",41009,3,4,1,4,3,3
+2182,"oregon,coos",41011,2,8,2,4,3,2
+2183,"oregon,crook",41013,1,5,1,4,2,2
+2184,"oregon,curry",41015,2,5,3,6,3,2
+2185,"oregon,deschutes",41017,1,1,1,1,1,2
+2186,"oregon,douglas",41019,2,7,2,7,8,3
+2187,"oregon,gilliam",41021,1,3,1,5,2,2
+2188,"oregon,grant",41023,1,8,1,4,1,3
+2189,"oregon,harney",41025,1,8,1,4,3,3
+2190,"oregon,hood river",41027,1,1,1,1,1,3
+2191,"oregon,jackson",41029,1,4,1,2,1,4
+2192,"oregon,jefferson",41031,1,3,1,2,6,2
+2193,"oregon,josephine",41033,4,7,1,6,2,3
+2194,"oregon,klamath",41035,1,7,2,2,2,3
+2195,"oregon,lake",41037,1,5,1,4,5,2
+2196,"oregon,lane",41039,1,3,1,2,2,3
+2197,"oregon,lincoln",41041,3,7,1,7,3,2
+2198,"oregon,linn",41043,2,5,2,4,5,3
+2199,"oregon,malheur",41045,1,7,2,2,3,2
+2200,"oregon,marion",41047,2,2,1,2,6,3
+2201,"oregon,morrow",41049,1,7,3,2,2,3
+2202,"oregon,multnomah",41051,2,1,1,1,1,3
+2203,"oregon,polk",41053,2,1,1,4,6,3
+2204,"oregon,sherman",41055,1,3,1,5,2,2
+2205,"oregon,tillamook",41057,2,3,1,4,3,2
+2206,"oregon,umatilla",41059,1,6,3,4,8,3
+2207,"oregon,union",41061,1,2,1,4,3,2
+2208,"oregon,wallowa",41063,1,1,2,4,1,3
+2209,"oregon,wasco",41065,4,1,1,4,8,2
+2210,"oregon,washington",41067,1,1,1,1,1,3
+2211,"oregon,wheeler",41069,1,2,2,8,2,2
+2212,"oregon,yamhill",41071,2,3,1,1,3,3
+2213,"pennsylvania,adams",42001,2,5,3,7,3,9
+2214,"pennsylvania,allegheny",42003,3,4,3,2,2,10
+2215,"pennsylvania,armstrong",42005,2,7,3,6,6,7
+2216,"pennsylvania,beaver",42007,4,4,5,6,5,10
+2217,"pennsylvania,bedford",42009,1,7,4,7,8,9
+2218,"pennsylvania,berks",42011,2,3,3,2,3,10
+2219,"pennsylvania,blair",42013,2,7,8,6,8,8
+2220,"pennsylvania,bradford",42015,3,5,4,4,9,6
+2221,"pennsylvania,bucks",42017,2,2,3,4,2,7
+2222,"pennsylvania,butler",42019,2,3,2,4,3,7
+2223,"pennsylvania,cambria",42021,3,5,8,9,10,8
+2224,"pennsylvania,cameron",42023,2,10,6,7,3,8
+2225,"pennsylvania,carbon",42025,3,10,8,6,7,6
+2226,"pennsylvania,centre",42027,1,1,1,1,1,8
+2227,"pennsylvania,chester",42029,1,1,1,1,1,9
+2228,"pennsylvania,clarion",42031,1,3,4,6,7,6
+2229,"pennsylvania,clearfield",42033,2,4,3,4,3,7
+2230,"pennsylvania,clinton",42035,3,8,4,2,7,8
+2231,"pennsylvania,columbia",42037,3,7,4,6,8,8
+2232,"pennsylvania,crawford",42039,3,5,4,7,5,6
+2233,"pennsylvania,cumberland",42041,2,2,2,2,2,10
+2234,"pennsylvania,dauphin",42043,3,4,5,6,7,9
+2235,"pennsylvania,delaware",42045,3,5,2,2,3,10
+2236,"pennsylvania,elk",42047,3,9,8,9,6,6
+2237,"pennsylvania,erie",42049,4,8,5,4,3,8
+2238,"pennsylvania,fayette",42051,4,8,10,9,9,8
+2239,"pennsylvania,forest",42053,3,10,3,6,8,6
+2240,"pennsylvania,franklin",42055,2,4,5,6,7,8
+2241,"pennsylvania,fulton",42057,3,8,4,6,6,9
+2242,"pennsylvania,greene",42059,4,10,10,2,6,8
+2243,"pennsylvania,huntingdon",42061,2,7,7,4,3,9
+2244,"pennsylvania,indiana",42063,1,3,4,4,5,6
+2245,"pennsylvania,jefferson",42065,3,8,7,9,3,6
+2246,"pennsylvania,juniata",42067,2,2,4,6,6,8
+2247,"pennsylvania,lackawanna",42069,3,7,5,6,1,9
+2248,"pennsylvania,lancaster",42071,1,2,2,4,3,10
+2249,"pennsylvania,lawrence",42073,3,5,6,6,3,8
+2250,"pennsylvania,lebanon",42075,3,3,3,6,7,9
+2251,"pennsylvania,lehigh",42077,3,5,3,4,3,7
+2252,"pennsylvania,luzerne",42079,3,8,8,6,5,7
+2253,"pennsylvania,lycoming",42081,3,6,5,4,6,7
+2254,"pennsylvania,mckean",42083,3,9,7,4,7,7
+2255,"pennsylvania,mercer",42085,2,7,4,7,6,7
+2256,"pennsylvania,mifflin",42087,3,2,4,6,5,7
+2257,"pennsylvania,monroe",42089,4,7,3,4,3,6
+2258,"pennsylvania,montgomery",42091,2,2,2,1,1,8
+2259,"pennsylvania,montour",42093,2,1,7,7,5,7
+2260,"pennsylvania,northampton",42095,2,3,4,2,3,8
+2261,"pennsylvania,northumberland",42097,3,7,8,6,8,8
+2262,"pennsylvania,perry",42099,3,1,4,4,6,9
+2263,"pennsylvania,philadelphia",42101,4,7,6,7,6,10
+2264,"pennsylvania,pike",42103,2,5,4,6,6,5
+2265,"pennsylvania,potter",42105,4,3,4,6,7,7
+2266,"pennsylvania,schuylkill",42107,3,8,8,6,8,8
+2267,"pennsylvania,snyder",42109,3,3,3,7,8,7
+2268,"pennsylvania,somerset",42111,1,6,5,6,6,8
+2269,"pennsylvania,sullivan",42113,3,7,8,7,7,7
+2270,"pennsylvania,susquehanna",42115,1,10,5,9,8,6
+2271,"pennsylvania,tioga",42117,3,5,4,2,7,6
+2272,"pennsylvania,union",42119,1,7,4,6,5,7
+2273,"pennsylvania,venango",42121,4,8,6,4,7,6
+2274,"pennsylvania,warren",42123,2,9,4,7,6,6
+2275,"pennsylvania,washington",42125,3,5,3,6,3,10
+2276,"pennsylvania,wayne",42127,3,4,3,6,3,5
+2277,"pennsylvania,westmoreland",42129,3,3,4,6,3,10
+2278,"pennsylvania,wyoming",42131,3,9,5,2,7,6
+2279,"pennsylvania,york",42133,3,5,2,4,8,10
+2280,"rhode island,bristol",44001,1,1,2,1,1,5
+2281,"rhode island,kent",44003,3,4,3,2,3,4
+2282,"rhode island,newport",44005,2,1,1,1,1,4
+2283,"rhode island,providence",44007,3,3,4,2,2,5
+2284,"rhode island,washington",44009,2,1,1,1,1,4
+2285,"south carolina,abbeville",45001,3,5,7,9,9,9
+2286,"south carolina,aiken",45003,2,4,4,6,7,9
+2287,"south carolina,allendale",45005,3,6,10,10,10,8
+2288,"south carolina,anderson",45007,4,5,7,6,6,10
+2289,"south carolina,bamberg",45009,3,3,9,10,10,8
+2290,"south carolina,barnwell",45011,3,5,8,9,10,8
+2291,"south carolina,beaufort",45013,1,3,1,2,1,7
+2292,"south carolina,berkeley",45015,4,7,7,7,10,7
+2293,"south carolina,calhoun",45017,3,2,9,10,10,8
+2294,"south carolina,charleston",45019,3,3,2,6,3,8
+2295,"south carolina,cherokee",45021,5,9,8,7,6,9
+2296,"south carolina,chester",45023,4,7,9,9,8,9
+2297,"south carolina,chesterfield",45025,4,7,8,7,10,9
+2298,"south carolina,clarendon",45027,4,6,7,10,10,7
+2299,"south carolina,colleton",45029,5,7,8,10,10,7
+2300,"south carolina,darlington",45031,4,7,9,10,9,8
+2301,"south carolina,dillon",45033,5,5,10,9,10,8
+2302,"south carolina,dorchester",45035,3,4,3,4,3,7
+2303,"south carolina,edgefield",45037,2,5,4,9,9,10
+2304,"south carolina,fairfield",45039,2,2,9,10,10,9
+2305,"south carolina,florence",45041,4,5,7,9,9,8
+2306,"south carolina,georgetown",45043,2,3,5,9,9,8
+2307,"south carolina,greenville",45045,3,5,3,6,5,10
+2308,"south carolina,greenwood",45047,3,7,7,6,8,10
+2309,"south carolina,hampton",45049,4,4,7,10,10,7
+2310,"south carolina,horry",45051,3,8,3,6,3,7
+2311,"south carolina,jasper",45053,1,8,4,9,10,7
+2312,"south carolina,kershaw",45055,3,6,5,7,6,8
+2313,"south carolina,lancaster",45057,3,4,7,9,7,9
+2314,"south carolina,laurens",45059,4,7,9,9,9,9
+2315,"south carolina,lee",45061,3,2,9,9,10,8
+2316,"south carolina,lexington",45063,3,5,4,6,6,9
+2317,"south carolina,mccormick",45065,3,3,4,10,9,9
+2318,"south carolina,marion",45067,5,5,8,10,10,7
+2319,"south carolina,marlboro",45069,4,7,7,9,10,8
+2320,"south carolina,newberry",45071,2,8,5,9,9,9
+2321,"south carolina,oconee",45073,3,3,4,9,6,9
+2322,"south carolina,orangeburg",45075,2,5,7,10,10,8
+2323,"south carolina,pickens",45077,4,5,3,4,3,9
+2324,"south carolina,richland",45079,4,3,3,6,6,10
+2325,"south carolina,saluda",45081,1,5,8,7,7,9
+2326,"south carolina,spartanburg",45083,4,5,5,7,3,10
+2327,"south carolina,sumter",45085,4,7,8,9,9,8
+2328,"south carolina,union",45087,5,8,10,10,9,9
+2329,"south carolina,williamsburg",45089,3,4,9,10,10,7
+2330,"south carolina,york",45091,2,5,3,4,3,10
+2331,"south dakota,aurora",46003,5,1,9,2,7,2
+2332,"south dakota,beadle",46005,1,3,5,1,5,3
+2333,"south dakota,bennett",46007,1,7,7,10,10,1
+2334,"south dakota,bon homme",46009,1,5,7,4,7,3
+2335,"south dakota,brookings",46011,1,1,1,1,3,4
+2336,"south dakota,brown",46013,2,3,4,1,6,3
+2337,"south dakota,brule",46015,3,1,9,2,9,2
+2338,"south dakota,buffalo",46017,4,10,10,10,10,2
+2339,"south dakota,butte",46019,1,6,8,1,4,1
+2340,"south dakota,campbell",46021,3,2,10,5,7,1
+2341,"south dakota,charles mix",46023,1,3,6,7,8,2
+2342,"south dakota,clark",46025,2,3,7,2,8,3
+2343,"south dakota,clay",46027,4,2,3,1,4,4
+2344,"south dakota,codington",46029,1,4,2,1,4,3
+2345,"south dakota,corson",46031,4,10,9,10,10,1
+2346,"south dakota,custer",46033,1,4,3,4,1,1
+2347,"south dakota,davison",46035,3,1,3,2,8,3
+2348,"south dakota,day",46037,1,3,7,4,8,3
+2349,"south dakota,deuel",46039,1,4,7,1,9,3
+2350,"south dakota,dewey",46041,5,10,10,10,10,1
+2351,"south dakota,douglas",46043,5,1,9,4,3,3
+2352,"south dakota,edmunds",46045,1,1,7,3,10,2
+2353,"south dakota,fall river",46047,3,7,3,7,8,1
+2354,"south dakota,faulk",46049,3,1,9,5,5,2
+2355,"south dakota,grant",46051,1,7,7,6,8,3
+2356,"south dakota,gregory",46053,5,1,7,4,3,2
+2357,"south dakota,haakon",46055,2,2,7,5,5,1
+2358,"south dakota,hamlin",46057,1,3,4,2,6,3
+2359,"south dakota,hand",46059,1,1,9,5,6,2
+2360,"south dakota,hanson",46061,1,4,5,2,5,3
+2361,"south dakota,harding",46063,1,2,7,3,6,1
+2362,"south dakota,hughes",46065,2,1,2,2,5,2
+2363,"south dakota,hutchinson",46067,1,1,6,4,3,3
+2364,"south dakota,hyde",46069,3,1,9,5,8,2
+2365,"south dakota,jackson",46071,1,6,9,8,9,1
+2366,"south dakota,jerauld",46073,2,1,10,2,5,3
+2367,"south dakota,jones",46075,3,1,9,3,6,1
+2368,"south dakota,kingsbury",46077,3,1,7,2,4,3
+2369,"south dakota,lake",46079,1,4,5,4,5,3
+2370,"south dakota,lawrence",46081,1,6,3,1,1,1
+2371,"south dakota,lincoln",46083,1,1,2,1,3,4
+2372,"south dakota,lyman",46085,3,6,7,7,10,2
+2373,"south dakota,mccook",46087,1,1,6,4,3,3
+2374,"south dakota,mcpherson",46089,3,1,7,5,3,2
+2375,"south dakota,marshall",46091,1,7,9,5,4,2
+2376,"south dakota,meade",46093,1,3,4,2,3,1
+2377,"south dakota,mellette",46095,3,7,10,10,10,1
+2378,"south dakota,miner",46097,2,1,9,3,6,3
+2379,"south dakota,minnehaha",46099,3,3,3,1,3,4
+2380,"south dakota,moody",46101,1,1,7,4,9,4
+2381,"south dakota,pennington",46103,1,5,3,2,2,1
+2382,"south dakota,perkins",46105,1,1,10,5,6,1
+2383,"south dakota,potter",46107,3,1,7,6,3,2
+2384,"south dakota,roberts",46109,1,7,7,9,10,2
+2385,"south dakota,sanborn",46111,1,1,10,5,9,3
+2386,"south dakota,shannon",46113,4,10,7,10,10,1
+2387,"south dakota,spink",46115,1,3,7,2,8,3
+2388,"south dakota,stanley",46117,1,3,7,5,7,1
+2389,"south dakota,sully",46119,2,6,6,3,9,2
+2390,"south dakota,todd",46121,4,10,7,10,10,1
+2391,"south dakota,tripp",46123,1,1,8,9,8,2
+2392,"south dakota,turner",46125,3,3,9,2,7,3
+2393,"south dakota,union",46127,5,2,5,1,4,4
+2394,"south dakota,walworth",46129,1,5,7,7,8,2
+2395,"south dakota,yankton",46135,2,1,2,1,3,3
+2396,"south dakota,ziebach",46137,5,10,9,10,10,1
+2397,"tennessee,anderson",47001,3,5,9,7,5,10
+2398,"tennessee,bedford",47003,5,8,9,7,9,9
+2399,"tennessee,benton",47005,5,8,10,9,8,8
+2400,"tennessee,bledsoe",47007,5,10,10,9,7,10
+2401,"tennessee,blount",47009,4,5,7,6,7,10
+2402,"tennessee,bradley",47011,4,8,9,9,4,10
+2403,"tennessee,campbell",47013,5,9,10,9,8,10
+2404,"tennessee,cannon",47015,2,9,10,6,7,9
+2405,"tennessee,carroll",47017,5,8,10,9,9,7
+2406,"tennessee,carter",47019,4,10,9,9,4,9
+2407,"tennessee,cheatham",47021,5,10,9,4,4,9
+2408,"tennessee,chester",47023,4,5,6,7,9,8
+2409,"tennessee,claiborne",47025,5,10,10,7,7,10
+2410,"tennessee,clay",47027,3,10,7,9,5,9
+2411,"tennessee,cocke",47029,5,5,10,9,8,9
+2412,"tennessee,coffee",47031,4,8,9,9,9,10
+2413,"tennessee,crockett",47033,3,9,10,9,9,8
+2414,"tennessee,cumberland",47035,3,3,5,7,3,9
+2415,"tennessee,davidson",47037,4,3,4,2,4,10
+2416,"tennessee,decatur",47039,5,3,10,9,8,8
+2417,"tennessee,de kalb",47041,5,7,10,7,6,10
+2418,"tennessee,dickson",47043,5,8,9,7,6,9
+2419,"tennessee,dyer",47045,4,10,10,7,8,9
+2420,"tennessee,fayette",47047,2,5,10,10,10,8
+2421,"tennessee,fentress",47049,5,5,10,9,9,10
+2422,"tennessee,franklin",47051,4,7,10,6,6,10
+2423,"tennessee,gibson",47053,4,10,10,7,10,7
+2424,"tennessee,giles",47055,5,8,8,7,9,9
+2425,"tennessee,grainger",47057,5,8,10,7,4,10
+2426,"tennessee,greene",47059,5,9,10,9,9,9
+2427,"tennessee,grundy",47061,5,9,9,7,5,10
+2428,"tennessee,hamblen",47063,4,7,10,7,5,10
+2429,"tennessee,hamilton",47065,3,4,6,7,5,10
+2430,"tennessee,hancock",47067,5,10,10,9,4,10
+2431,"tennessee,hardeman",47069,5,9,10,9,10,8
+2432,"tennessee,hardin",47071,5,7,10,9,8,8
+2433,"tennessee,hawkins",47073,5,8,9,9,9,9
+2434,"tennessee,haywood",47075,4,3,9,10,10,8
+2435,"tennessee,henderson",47077,5,8,10,7,9,8
+2436,"tennessee,henry",47079,5,9,9,10,9,8
+2437,"tennessee,hickman",47081,5,10,9,7,8,9
+2438,"tennessee,houston",47083,5,10,9,9,6,8
+2439,"tennessee,humphreys",47085,5,6,6,9,6,8
+2440,"tennessee,jackson",47087,5,9,10,7,5,10
+2441,"tennessee,jefferson",47089,5,8,9,6,3,10
+2442,"tennessee,johnson",47091,5,9,9,9,5,9
+2443,"tennessee,knox",47093,3,4,6,6,4,10
+2444,"tennessee,lake",47095,5,8,10,7,8,8
+2445,"tennessee,lauderdale",47097,5,10,9,7,10,8
+2446,"tennessee,lawrence",47099,5,9,9,7,5,8
+2447,"tennessee,lewis",47101,5,10,10,7,6,9
+2448,"tennessee,lincoln",47103,2,8,9,6,6,9
+2449,"tennessee,loudon",47105,4,7,7,9,4,10
+2450,"tennessee,mcminn",47107,4,6,10,7,8,10
+2451,"tennessee,mcnairy",47109,5,8,9,9,9,8
+2452,"tennessee,macon",47111,5,10,7,7,8,9
+2453,"tennessee,madison",47113,4,5,7,9,9,8
+2454,"tennessee,marion",47115,5,8,10,7,4,10
+2455,"tennessee,marshall",47117,5,8,10,6,4,9
+2456,"tennessee,maury",47119,4,8,9,7,9,10
+2457,"tennessee,meigs",47121,5,10,9,9,8,10
+2458,"tennessee,monroe",47123,5,10,9,7,9,10
+2459,"tennessee,montgomery",47125,5,9,9,6,6,10
+2460,"tennessee,moore",47127,3,8,9,7,6,9
+2461,"tennessee,morgan",47129,5,10,8,6,6,10
+2462,"tennessee,obion",47131,5,8,10,9,6,8
+2463,"tennessee,overton",47133,5,9,8,7,5,9
+2464,"tennessee,perry",47135,5,9,7,7,3,8
+2465,"tennessee,pickett",47137,5,9,10,9,5,10
+2466,"tennessee,polk",47139,5,9,10,7,6,10
+2467,"tennessee,putnam",47141,3,3,8,6,8,10
+2468,"tennessee,rhea",47143,5,5,9,7,10,10
+2469,"tennessee,roane",47145,5,2,10,9,8,10
+2470,"tennessee,robertson",47147,5,7,8,6,8,9
+2471,"tennessee,rutherford",47149,3,3,4,4,5,9
+2472,"tennessee,scott",47151,5,10,10,7,4,9
+2473,"tennessee,sequatchie",47153,5,10,9,7,9,10
+2474,"tennessee,sevier",47155,5,9,9,7,5,10
+2475,"tennessee,shelby",47157,2,3,6,7,9,10
+2476,"tennessee,smith",47159,4,7,10,6,8,9
+2477,"tennessee,stewart",47161,5,9,10,9,5,8
+2478,"tennessee,sullivan",47163,4,8,9,10,8,10
+2479,"tennessee,sumner",47165,3,5,5,4,3,10
+2480,"tennessee,tipton",47167,4,8,10,7,9,8
+2481,"tennessee,trousdale",47169,5,9,10,7,7,9
+2482,"tennessee,unicoi",47171,4,7,10,7,5,9
+2483,"tennessee,union",47173,5,7,10,7,8,10
+2484,"tennessee,van buren",47175,1,10,9,7,8,9
+2485,"tennessee,warren",47177,4,5,9,6,8,10
+2486,"tennessee,washington",47179,3,7,7,6,3,10
+2487,"tennessee,wayne",47181,5,7,7,6,6,8
+2488,"tennessee,weakley",47183,4,8,10,6,4,7
+2489,"tennessee,white",47185,5,9,10,7,4,9
+2490,"tennessee,williamson",47187,1,1,3,2,2,9
+2491,"tennessee,wilson",47189,5,9,8,7,8,9
+2492,"texas,anderson",48001,4,6,6,7,8,5
+2493,"texas,andrews",48003,2,1,5,4,4,1
+2494,"texas,angelina",48005,3,5,5,6,6,5
+2495,"texas,aransas",48007,4,3,5,7,3,4
+2496,"texas,archer",48009,2,1,5,9,4,3
+2497,"texas,armstrong",48011,1,4,5,7,2,2
+2498,"texas,atascosa",48013,1,10,4,4,5,3
+2499,"texas,austin",48015,1,3,6,4,5,4
+2500,"texas,bailey",48017,1,1,5,5,4,1
+2501,"texas,bandera",48019,1,6,7,9,3,3
+2502,"texas,bastrop",48021,3,6,5,4,5,4
+2503,"texas,baylor",48023,1,5,5,7,2,3
+2504,"texas,bee",48025,1,8,3,4,4,4
+2505,"texas,bell",48027,4,4,4,4,3,4
+2506,"texas,bexar",48029,1,2,1,2,3,4
+2507,"texas,blanco",48031,1,3,4,6,3,3
+2508,"texas,borden",48033,1,5,5,7,3,2
+2509,"texas,bosque",48035,3,10,4,6,3,4
+2510,"texas,bowie",48037,4,3,7,6,6,7
+2511,"texas,brazoria",48039,2,2,3,2,3,5
+2512,"texas,brazos",48041,1,1,2,1,3,4
+2513,"texas,brewster",48043,1,5,3,2,2,1
+2514,"texas,briscoe",48045,1,1,6,8,4,2
+2515,"texas,brooks",48047,1,5,7,7,4,3
+2516,"texas,brown",48049,3,8,7,6,6,3
+2517,"texas,burleson",48051,3,10,8,7,6,4
+2518,"texas,burnet",48053,2,8,4,4,3,3
+2519,"texas,caldwell",48055,2,8,3,4,6,4
+2520,"texas,calhoun",48057,4,5,3,4,3,4
+2521,"texas,callahan",48059,4,1,4,4,4,3
+2522,"texas,cameron",48061,1,1,1,1,2,3
+2523,"texas,camp",48063,5,9,5,9,6,6
+2524,"texas,carson",48065,1,2,6,6,4,2
+2525,"texas,cass",48067,5,9,9,6,3,7
+2526,"texas,castro",48069,1,6,6,4,4,2
+2527,"texas,chambers",48071,4,8,7,2,4,5
+2528,"texas,cherokee",48073,5,8,9,6,8,6
+2529,"texas,childress",48075,5,9,4,4,3,2
+2530,"texas,clay",48077,2,6,9,7,3,4
+2531,"texas,cochran",48079,1,3,7,7,5,1
+2532,"texas,coke",48081,1,5,9,7,4,2
+2533,"texas,coleman",48083,3,3,9,7,2,2
+2534,"texas,collin",48085,1,1,1,1,1,6
+2535,"texas,collingsworth",48087,1,5,6,7,5,2
+2536,"texas,colorado",48089,2,10,7,7,3,4
+2537,"texas,comal",48091,1,3,3,4,3,3
+2538,"texas,comanche",48093,2,6,5,6,3,3
+2539,"texas,concho",48095,1,6,5,2,5,2
+2540,"texas,cooke",48097,3,7,3,4,6,5
+2541,"texas,coryell",48099,5,2,3,2,4,4
+2542,"texas,cottle",48101,2,2,8,9,4,2
+2543,"texas,crane",48103,1,3,5,5,5,1
+2544,"texas,crockett",48105,1,2,7,5,6,2
+2545,"texas,crosby",48107,2,7,7,6,3,2
+2546,"texas,culberson",48109,1,6,5,7,4,1
+2547,"texas,dallam",48111,3,3,4,2,3,1
+2548,"texas,dallas",48113,1,2,3,2,4,10
+2549,"texas,dawson",48115,3,4,6,4,4,2
+2550,"texas,deaf smith",48117,2,1,5,2,6,2
+2551,"texas,delta",48119,2,8,8,7,4,5
+2552,"texas,denton",48121,1,1,1,1,4,5
+2553,"texas,de witt",48123,2,10,4,6,3,4
+2554,"texas,dickens",48125,1,6,6,7,4,2
+2555,"texas,dimmit",48127,1,3,4,6,5,3
+2556,"texas,donley",48129,3,5,5,7,5,2
+2557,"texas,duval",48131,1,1,5,4,4,3
+2558,"texas,eastland",48133,4,1,8,9,6,3
+2559,"texas,ector",48135,3,6,6,4,6,2
+2560,"texas,edwards",48137,1,3,7,8,4,2
+2561,"texas,ellis",48139,2,1,2,4,3,6
+2562,"texas,el paso",48141,1,2,2,1,1,3
+2563,"texas,erath",48143,1,1,3,2,3,4
+2564,"texas,falls",48145,2,5,7,7,5,5
+2565,"texas,fannin",48147,5,9,7,6,6,5
+2566,"texas,fayette",48149,1,9,7,6,3,4
+2567,"texas,fisher",48151,1,6,8,7,5,2
+2568,"texas,floyd",48153,1,5,8,7,3,2
+2569,"texas,foard",48155,1,5,7,8,3,2
+2570,"texas,fort bend",48157,1,1,1,1,1,5
+2571,"texas,franklin",48159,2,5,7,6,3,5
+2572,"texas,freestone",48161,2,5,4,5,6,5
+2573,"texas,frio",48163,1,1,4,2,4,3
+2574,"texas,gaines",48165,1,10,4,4,6,1
+2575,"texas,galveston:main",48167,2,3,5,4,3,6
+2577,"texas,garza",48169,2,1,6,2,7,2
+2578,"texas,gillespie",48171,1,1,7,7,4,3
+2579,"texas,glasscock",48173,1,3,6,5,5,2
+2580,"texas,goliad",48175,2,10,7,7,4,4
+2581,"texas,gonzales",48177,1,9,6,5,6,4
+2582,"texas,gray",48179,2,10,10,7,4,2
+2583,"texas,grayson",48181,2,4,4,4,2,5
+2584,"texas,gregg",48183,3,3,6,5,6,6
+2585,"texas,grimes",48185,1,9,5,5,9,5
+2586,"texas,guadalupe",48187,2,5,3,2,4,4
+2587,"texas,hale",48189,2,9,7,4,3,2
+2588,"texas,hall",48191,1,5,5,7,3,2
+2589,"texas,hamilton",48193,2,5,7,7,3,4
+2590,"texas,hansford",48195,1,5,6,4,3,2
+2591,"texas,hardeman",48197,1,5,7,8,5,2
+2592,"texas,hardin",48199,3,8,9,5,6,5
+2593,"texas,harris",48201,1,2,2,1,3,8
+2594,"texas,harrison",48203,4,7,9,5,7,7
+2595,"texas,hartley",48205,1,5,7,5,7,1
+2596,"texas,haskell",48207,1,5,5,7,3,3
+2597,"texas,hays",48209,1,1,2,1,4,4
+2598,"texas,hemphill",48211,1,3,5,5,5,2
+2599,"texas,henderson",48213,5,8,9,5,3,5
+2600,"texas,hidalgo",48215,1,1,2,4,5,4
+2601,"texas,hill",48217,3,4,7,5,8,5
+2602,"texas,hockley",48219,2,2,6,2,3,2
+2603,"texas,hood",48221,3,7,3,5,3,4
+2604,"texas,hopkins",48223,3,9,7,5,7,5
+2605,"texas,houston",48225,2,9,6,9,4,5
+2606,"texas,howard",48227,2,1,7,5,6,2
+2607,"texas,hudspeth",48229,1,4,6,7,4,1
+2608,"texas,hunt",48231,4,10,6,5,6,6
+2609,"texas,hutchinson",48233,2,6,7,5,7,2
+2610,"texas,irion",48235,1,1,7,7,4,2
+2611,"texas,jack",48237,2,9,4,4,3,4
+2612,"texas,jackson",48239,2,10,4,5,6,4
+2613,"texas,jasper",48241,3,6,9,7,4,5
+2614,"texas,jeff davis",48243,1,5,2,9,2,1
+2615,"texas,jefferson",48245,3,6,5,9,9,5
+2616,"texas,jim hogg",48247,1,1,6,5,5,3
+2617,"texas,jim wells",48249,1,3,4,2,4,4
+2618,"texas,johnson",48251,3,5,6,9,7,5
+2619,"texas,jones",48253,2,6,6,4,5,2
+2620,"texas,karnes",48255,2,1,6,4,3,4
+2621,"texas,kaufman",48257,4,7,7,4,10,7
+2622,"texas,kendall",48259,1,1,3,4,1,3
+2623,"texas,kenedy",48261,2,1,6,5,5,3
+2624,"texas,kent",48263,1,5,7,8,4,2
+2625,"texas,kerr",48265,1,6,4,7,3,3
+2626,"texas,kimble",48267,2,3,5,7,3,2
+2627,"texas,king",48269,1,1,7,5,3,2
+2628,"texas,kinney",48271,1,5,7,8,4,2
+2629,"texas,kleberg",48273,1,5,5,1,4,4
+2630,"texas,knox",48275,3,7,5,7,3,2
+2631,"texas,lamar",48277,4,7,7,7,3,5
+2632,"texas,lamb",48279,1,6,4,4,4,2
+2633,"texas,lampasas",48281,2,9,5,4,3,3
+2634,"texas,la salle",48283,1,3,4,3,4,3
+2635,"texas,lavaca",48285,2,9,5,7,3,4
+2636,"texas,lee",48287,1,10,7,5,7,4
+2637,"texas,leon",48289,2,5,9,9,3,5
+2638,"texas,liberty",48291,4,10,5,4,6,5
+2639,"texas,limestone",48293,5,10,6,5,4,5
+2640,"texas,lipscomb",48295,1,5,7,5,5,1
+2641,"texas,live oak",48297,1,6,8,7,4,4
+2642,"texas,llano",48299,1,3,7,9,1,3
+2643,"texas,loving",48301,1,10,5,7,5,1
+2644,"texas,lubbock",48303,1,5,3,1,3,3
+2645,"texas,lynn",48305,1,10,6,5,4,2
+2646,"texas,mcculloch",48307,2,3,6,5,3,3
+2647,"texas,mclennan",48309,4,5,3,4,4,5
+2648,"texas,mcmullen",48311,1,5,7,8,5,3
+2649,"texas,madison",48313,1,9,5,4,5,5
+2650,"texas,marion",48315,5,10,8,9,6,6
+2651,"texas,martin",48317,1,3,4,5,5,2
+2652,"texas,mason",48319,1,5,7,8,2,3
+2653,"texas,matagorda",48321,2,7,6,5,4,4
+2654,"texas,maverick",48323,1,1,6,2,4,2
+2655,"texas,medina",48325,1,6,4,4,3,3
+2656,"texas,menard",48327,1,5,7,8,4,2
+2657,"texas,midland",48329,1,4,5,1,3,2
+2658,"texas,milam",48331,2,6,7,7,5,4
+2659,"texas,mills",48333,1,6,5,8,5,3
+2660,"texas,mitchell",48335,1,1,4,4,3,2
+2661,"texas,montague",48337,5,9,5,5,3,4
+2662,"texas,montgomery",48339,2,1,1,2,3,6
+2663,"texas,moore",48341,2,7,6,4,6,2
+2664,"texas,morris",48343,2,5,7,9,6,6
+2665,"texas,motley",48345,1,1,8,9,3,2
+2666,"texas,nacogdoches",48347,3,7,5,4,4,5
+2667,"texas,navarro",48349,3,7,9,5,8,5
+2668,"texas,newton",48351,4,10,8,7,6,5
+2669,"texas,nolan",48353,2,6,7,5,3,3
+2670,"texas,nueces",48355,1,8,3,4,3,4
+2671,"texas,ochiltree",48357,1,2,3,2,4,1
+2672,"texas,oldham",48359,1,3,7,7,5,1
+2673,"texas,orange",48361,4,9,10,7,7,7
+2674,"texas,palo pinto",48363,4,10,5,7,3,3
+2675,"texas,panola",48365,4,9,6,7,5,6
+2676,"texas,parker",48367,3,5,5,7,5,4
+2677,"texas,parmer",48369,1,3,5,3,7,1
+2678,"texas,pecos",48371,1,1,6,4,4,1
+2679,"texas,polk",48373,5,9,4,7,8,5
+2680,"texas,potter",48375,3,6,8,4,8,2
+2681,"texas,presidio",48377,1,4,6,5,2,1
+2682,"texas,rains",48379,2,10,6,7,3,5
+2683,"texas,randall",48381,1,2,2,2,2,2
+2684,"texas,reagan",48383,1,2,6,3,5,2
+2685,"texas,real",48385,1,6,6,9,3,3
+2686,"texas,red river",48387,3,7,7,9,6,6
+2687,"texas,reeves",48389,1,3,5,2,5,1
+2688,"texas,refugio",48391,2,1,6,7,4,4
+2689,"texas,roberts",48393,1,5,5,5,4,1
+2690,"texas,robertson",48395,2,10,5,9,5,5
+2691,"texas,rockwall",48397,1,4,6,2,3,6
+2692,"texas,runnels",48399,3,6,4,5,7,2
+2693,"texas,rusk",48401,4,3,4,5,9,6
+2694,"texas,sabine",48403,5,9,6,9,6,6
+2695,"texas,san augustine",48405,5,9,7,9,3,6
+2696,"texas,san jacinto",48407,5,9,9,7,4,5
+2697,"texas,san patricio",48409,1,5,4,5,3,4
+2698,"texas,san saba",48411,1,1,6,5,4,3
+2699,"texas,schleicher",48413,1,5,5,5,5,2
+2700,"texas,scurry",48415,3,7,9,2,4,2
+2701,"texas,shackelford",48417,1,3,6,7,6,3
+2702,"texas,shelby",48419,4,5,7,7,8,6
+2703,"texas,sherman",48421,1,3,6,5,5,2
+2704,"texas,smith",48423,3,4,4,4,3,5
+2705,"texas,somervell",48425,1,9,7,4,3,4
+2706,"texas,starr",48427,1,6,4,2,3,3
+2707,"texas,stephens",48429,4,5,6,5,3,3
+2708,"texas,sterling",48431,1,1,7,7,4,2
+2709,"texas,stonewall",48433,1,3,7,8,4,2
+2710,"texas,sutton",48435,1,1,4,5,4,2
+2711,"texas,swisher",48437,1,3,7,5,2,2
+2712,"texas,tarrant",48439,2,2,2,2,2,9
+2713,"texas,taylor",48441,1,5,6,4,2,2
+2714,"texas,terrell",48443,1,5,8,5,3,1
+2715,"texas,terry",48445,2,2,7,5,6,1
+2716,"texas,throckmorton",48447,1,5,7,8,4,3
+2717,"texas,titus",48449,1,7,4,2,5,6
+2718,"texas,tom green",48451,1,7,5,4,2,2
+2719,"texas,travis",48453,1,1,1,1,1,4
+2720,"texas,trinity",48455,5,10,9,9,6,5
+2721,"texas,tyler",48457,4,5,9,7,4,5
+2722,"texas,upshur",48459,5,10,10,9,5,6
+2723,"texas,upton",48461,1,3,6,5,5,2
+2724,"texas,uvalde",48463,1,6,4,4,4,3
+2725,"texas,val verde",48465,1,1,4,4,2,2
+2726,"texas,van zandt",48467,3,5,9,9,7,5
+2727,"texas,victoria",48469,4,8,3,5,4,4
+2728,"texas,walker",48471,3,4,5,4,7,5
+2729,"texas,waller",48473,2,8,6,4,6,5
+2730,"texas,ward",48475,3,7,7,4,4,1
+2731,"texas,washington",48477,1,5,6,5,3,4
+2732,"texas,webb",48479,1,3,5,2,5,3
+2733,"texas,wharton",48481,1,3,6,7,3,4
+2734,"texas,wheeler",48483,3,5,5,5,4,2
+2735,"texas,wichita",48485,2,5,6,5,7,3
+2736,"texas,wilbarger",48487,2,7,5,5,3,3
+2737,"texas,willacy",48489,1,5,4,2,3,3
+2738,"texas,williamson",48491,1,1,1,1,2,4
+2739,"texas,wilson",48493,1,1,6,4,2,4
+2740,"texas,winkler",48495,3,3,3,4,6,1
+2741,"texas,wise",48497,3,2,6,2,3,4
+2742,"texas,wood",48499,5,9,6,7,3,5
+2743,"texas,yoakum",48501,4,1,7,2,4,1
+2744,"texas,young",48503,4,10,7,5,2,3
+2745,"texas,zapata",48505,1,3,6,1,5,3
+2746,"texas,zavala",48507,1,1,6,3,4,3
+2747,"utah,beaver",49001,1,1,3,3,3,1
+2748,"utah,box elder",49003,1,1,1,1,2,2
+2749,"utah,cache",49005,1,1,1,1,1,4
+2750,"utah,carbon",49007,1,4,3,2,2,2
+2751,"utah,daggett",49009,1,1,2,3,2,2
+2752,"utah,davis",49011,1,1,1,1,1,4
+2753,"utah,duchesne",49013,1,4,2,1,2,2
+2754,"utah,emery",49015,1,3,3,2,3,2
+2755,"utah,garfield",49017,1,1,4,3,2,1
+2756,"utah,grand",49019,1,3,1,1,1,2
+2757,"utah,iron",49021,1,1,1,1,2,1
+2758,"utah,juab",49023,1,1,1,1,4,1
+2759,"utah,kane",49025,1,1,4,4,1,1
+2760,"utah,millard",49027,1,1,3,1,4,1
+2761,"utah,morgan",49029,1,3,2,1,1,4
+2762,"utah,piute",49031,1,1,7,5,1,1
+2763,"utah,rich",49033,1,1,2,3,3,3
+2764,"utah,salt lake",49035,1,1,1,1,1,8
+2765,"utah,san juan",49037,1,1,7,3,4,2
+2766,"utah,sanpete",49039,1,1,2,1,1,2
+2767,"utah,sevier",49041,1,1,2,4,3,1
+2768,"utah,summit",49043,1,1,1,1,1,2
+2769,"utah,tooele",49045,1,1,1,2,4,2
+2770,"utah,uintah",49047,1,3,4,1,4,2
+2771,"utah,utah",49049,1,1,1,1,1,4
+2772,"utah,wasatch",49051,1,1,1,1,1,3
+2773,"utah,washington",49053,1,1,1,1,1,1
+2774,"utah,wayne",49055,1,1,2,3,2,1
+2775,"utah,weber",49057,1,1,1,1,2,5
+2776,"vermont,addison",50001,2,2,1,1,1,4
+2777,"vermont,bennington",50003,3,4,2,1,1,5
+2778,"vermont,caledonia",50005,3,3,2,1,2,3
+2779,"vermont,chittenden",50007,2,1,1,1,1,3
+2780,"vermont,essex",50009,4,8,2,4,2,3
+2781,"vermont,franklin",50011,4,4,4,1,3,3
+2782,"vermont,grand isle",50013,5,2,1,1,2,3
+2783,"vermont,lamoille",50015,3,3,1,1,2,3
+2784,"vermont,orange",50017,3,4,1,1,2,4
+2785,"vermont,orleans",50019,2,6,4,2,4,3
+2786,"vermont,rutland",50021,3,3,2,2,2,5
+2787,"vermont,washington",50023,2,2,1,1,1,4
+2788,"vermont,windham",50025,1,2,1,1,1,4
+2789,"vermont,windsor",50027,3,2,1,1,1,4
+2790,"virginia,accomack:main",51001,4,5,7,9,9,5
+2791,"virginia,accomack:chincoteague",51001,4,5,7,9,9,5
+2792,"virginia,albemarle",51003,1,1,1,5,2,7
+2793,"virginia,alleghany",51005,3,8,3,4,2,9
+2794,"virginia,amelia",51007,2,5,4,5,7,8
+2795,"virginia,amherst",51009,3,2,6,9,5,7
+2796,"virginia,appomattox",51011,3,8,5,7,4,7
+2797,"virginia,arlington",51013,1,1,1,1,1,10
+2798,"virginia,augusta",51015,2,3,3,4,2,9
+2799,"virginia,bath",51017,2,7,4,7,2,9
+2801,"virginia,bland",51021,3,10,3,7,2,9
+2802,"virginia,botetourt",51023,1,1,3,4,2,8
+2803,"virginia,brunswick",51025,3,10,8,9,9,7
+2804,"virginia,buchanan",51027,5,10,3,7,3,9
+2805,"virginia,buckingham",51029,4,6,6,7,5,8
+2806,"virginia,campbell",51031,2,6,5,4,6,8
+2807,"virginia,caroline",51033,5,5,3,7,4,6
+2808,"virginia,carroll",51035,2,10,6,7,5,9
+2809,"virginia,charles city",51036,1,7,7,9,9,7
+2810,"virginia,charlotte",51037,2,8,3,9,6,8
+2811,"virginia,chesterfield",51041,3,2,2,4,2,8
+2812,"virginia,clarke",51043,3,9,3,5,4,6
+2813,"virginia,craig",51045,2,8,3,4,4,9
+2814,"virginia,culpeper",51047,3,2,3,4,7,6
+2815,"virginia,cumberland",51049,2,7,4,9,6,8
+2816,"virginia,dickenson",51051,5,10,7,7,3,10
+2817,"virginia,dinwiddie",51053,5,9,4,9,6,8
+2818,"virginia,essex",51057,5,10,4,9,3,6
+2819,"virginia,fairfax",51059,1,1,1,1,1,7
+2820,"virginia,fauquier",51061,2,3,1,4,2,6
+2821,"virginia,floyd",51063,1,9,3,5,2,8
+2822,"virginia,fluvanna",51065,2,5,2,4,4,6
+2823,"virginia,franklin",51067,2,6,4,7,3,8
+2824,"virginia,frederick",51069,3,6,4,2,3,6
+2825,"virginia,giles",51071,3,7,4,9,7,8
+2826,"virginia,gloucester",51073,5,4,3,7,5,6
+2827,"virginia,goochland",51075,3,1,3,5,2,6
+2828,"virginia,grayson",51077,2,6,7,9,6,9
+2829,"virginia,greene",51079,2,8,2,4,4,6
+2830,"virginia,greensville",51081,4,4,7,7,8,7
+2831,"virginia,halifax",51083,2,5,7,9,7,8
+2832,"virginia,hanover",51085,2,3,2,2,2,7
+2833,"virginia,henrico",51087,2,3,3,2,2,10
+2834,"virginia,henry",51089,2,8,9,9,4,8
+2835,"virginia,highland",51091,2,3,4,8,3,9
+2836,"virginia,isle of wight",51093,2,1,4,9,6,6
+2837,"virginia,james city",51095,2,1,1,5,2,6
+2838,"virginia,king and queen",51097,5,10,6,7,8,6
+2839,"virginia,king george",51099,5,5,3,5,3,6
+2840,"virginia,king william",51101,3,5,7,4,6,6
+2841,"virginia,lancaster",51103,2,10,8,9,6,6
+2842,"virginia,lee",51105,4,8,9,5,7,9
+2843,"virginia,loudoun",51107,1,1,1,1,1,7
+2844,"virginia,louisa",51109,5,9,6,5,8,6
+2845,"virginia,lunenburg",51111,3,5,9,8,8,8
+2846,"virginia,madison",51113,4,10,3,5,7,6
+2847,"virginia,mathews",51115,2,8,3,8,2,6
+2848,"virginia,mecklenburg",51117,3,9,4,8,7,8
+2849,"virginia,middlesex",51119,2,10,4,8,3,6
+2850,"virginia,montgomery",51121,1,1,1,1,2,8
+2851,"virginia,suffolk",51800,2,4,4,7,6,7
+2852,"virginia,nelson",51125,5,9,2,7,1,8
+2853,"virginia,new kent",51127,5,10,2,5,4,6
+2854,"virginia,northampton",51131,4,7,9,10,4,5
+2855,"virginia,northumberland",51133,4,4,4,8,4,6
+2856,"virginia,nottoway",51135,3,5,6,7,9,8
+2857,"virginia,orange",51137,3,4,4,7,7,6
+2858,"virginia,page",51139,3,9,4,5,5,9
+2859,"virginia,patrick",51141,1,5,4,7,3,9
+2860,"virginia,pittsylvania",51143,2,7,6,8,5,7
+2861,"virginia,powhatan",51145,2,8,4,4,3,6
+2862,"virginia,prince edward",51147,2,8,6,4,8,8
+2863,"virginia,prince george",51149,3,8,6,8,9,7
+2864,"virginia,prince william",51153,1,3,1,1,2,7
+2865,"virginia,pulaski",51155,3,10,4,5,2,9
+2866,"virginia,rappahannock",51157,3,8,4,5,2,6
+2867,"virginia,richmond",51159,5,8,4,7,5,6
+2868,"virginia,roanoke",51161,1,3,4,5,2,10
+2869,"virginia,rockbridge",51163,3,3,7,8,2,9
+2870,"virginia,rockingham",51165,1,1,2,4,4,9
+2871,"virginia,russell",51167,2,8,10,8,6,10
+2872,"virginia,scott",51169,3,9,9,5,4,10
+2873,"virginia,shenandoah",51171,2,5,4,7,4,8
+2874,"virginia,smyth",51173,5,6,3,4,5,9
+2875,"virginia,southampton",51175,3,5,7,9,5,7
+2876,"virginia,spotsylvania",51177,3,2,1,4,4,6
+2877,"virginia,stafford",51179,4,3,1,1,6,6
+2878,"virginia,surry",51181,2,5,5,9,7,6
+2879,"virginia,sussex",51183,4,9,6,8,10,7
+2880,"virginia,tazewell",51185,3,5,9,7,5,9
+2881,"virginia,warren",51187,4,7,2,7,2,6
+2882,"virginia,washington",51191,3,7,7,7,3,10
+2883,"virginia,westmoreland",51193,4,3,8,8,3,6
+2884,"virginia,wise",51195,4,10,10,8,8,10
+2885,"virginia,wythe",51197,3,7,6,7,3,9
+2886,"virginia,york",51199,1,1,2,2,2,6
+2887,"virginia,hampton",51650,2,4,4,7,10,8
+2888,"virginia,newport news",51700,4,7,4,5,8,8
+2889,"virginia,norfolk",51710,4,8,4,4,9,9
+2890,"virginia,virginia beach",51810,3,4,3,2,2,6
+2891,"washington,adams",53001,1,1,4,4,10,3
+2892,"washington,asotin",53003,2,6,3,5,3,3
+2893,"washington,benton",53005,2,2,1,4,6,3
+2894,"washington,chelan",53007,1,1,1,2,2,2
+2895,"washington,clallam",53009,3,4,1,5,2,1
+2896,"washington,clark",53011,2,2,1,2,3,3
+2897,"washington,columbia",53013,2,2,2,7,6,3
+2898,"washington,cowlitz",53015,2,7,3,7,10,3
+2899,"washington,douglas",53017,1,2,1,4,3,3
+2900,"washington,ferry",53019,1,7,2,2,2,2
+2901,"washington,franklin",53021,1,1,2,2,6,3
+2902,"washington,garfield",53023,2,3,5,10,9,3
+2903,"washington,grant",53025,1,2,3,2,7,3
+2904,"washington,grays harbor",53027,4,7,3,8,7,2
+2905,"washington,island",53029,1,2,1,4,2,3
+2906,"washington,jefferson",53031,1,2,1,3,1,2
+2907,"washington,king",53033,1,1,1,1,1,2
+2908,"washington,kitsap",53035,2,3,1,2,4,3
+2909,"washington,kittitas",53037,1,2,1,1,2,3
+2910,"washington,klickitat",53039,1,2,2,2,2,3
+2911,"washington,lewis",53041,2,5,3,5,6,3
+2912,"washington,lincoln",53043,1,3,3,5,6,3
+2913,"washington,mason",53045,4,8,2,3,6,3
+2914,"washington,okanogan",53047,3,7,3,3,3,2
+2915,"washington,pacific",53049,4,5,4,8,9,2
+2916,"washington,pend oreille",53051,4,5,1,3,4,3
+2917,"washington,pierce:main",53053,2,3,2,3,5,3
+2919,"washington,san juan:lopez island",53055,1,1,1,1,1,2
+2922,"washington,skagit",53057,2,2,1,1,2,2
+2923,"washington,skamania",53059,1,3,2,1,6,3
+2924,"washington,snohomish",53061,2,2,1,1,3,3
+2925,"washington,spokane",53063,2,4,1,2,2,4
+2926,"washington,stevens",53065,1,6,3,3,2,3
+2927,"washington,thurston",53067,3,4,1,2,3,4
+2928,"washington,wahkiakum",53069,2,2,3,7,5,3
+2929,"washington,walla walla",53071,1,1,1,2,2,3
+2930,"washington,whatcom",53073,2,1,1,2,1,2
+2931,"washington,whitman",53075,1,1,1,1,2,3
+2932,"washington,yakima",53077,1,2,3,3,6,3
+2933,"west virginia,barbour",54001,2,9,9,7,6,5
+2934,"west virginia,berkeley",54003,5,9,6,7,7,10
+2935,"west virginia,boone",54005,5,10,10,9,8,10
+2936,"west virginia,braxton",54007,3,7,9,9,8,9
+2937,"west virginia,brooke",54009,2,9,10,10,8,10
+2938,"west virginia,cabell",54011,5,7,8,8,8,10
+2939,"west virginia,calhoun",54013,4,10,9,10,9,9
+2940,"west virginia,clay",54015,5,6,10,10,10,10
+2941,"west virginia,doddridge",54017,1,9,10,8,9,8
+2942,"west virginia,fayette",54019,5,8,10,8,7,9
+2943,"west virginia,gilmer",54021,4,9,8,5,9,8
+2944,"west virginia,grant",54023,2,3,8,10,7,7
+2945,"west virginia,greenbrier",54025,5,8,9,7,4,9
+2946,"west virginia,hampshire",54027,4,9,9,3,8,9
+2947,"west virginia,hancock",54029,4,8,8,9,7,10
+2948,"west virginia,hardy",54031,3,7,8,7,6,9
+2949,"west virginia,harrison",54033,4,6,9,8,6,10
+2950,"west virginia,jackson",54035,4,7,7,8,9,10
+2951,"west virginia,jefferson",54037,3,8,7,7,8,8
+2952,"west virginia,kanawha",54039,5,7,8,8,6,10
+2953,"west virginia,lewis",54041,5,7,10,7,6,8
+2954,"west virginia,lincoln",54043,5,10,10,9,10,10
+2955,"west virginia,logan",54045,5,10,10,10,10,10
+2956,"west virginia,mcdowell",54047,5,10,10,10,10,9
+2957,"west virginia,marion",54049,5,5,8,8,8,9
+2958,"west virginia,marshall",54051,5,9,9,7,6,10
+2959,"west virginia,mason",54053,5,10,10,7,10,10
+2960,"west virginia,mercer",54055,5,9,10,9,8,9
+2961,"west virginia,mineral",54057,5,3,7,5,8,8
+2962,"west virginia,mingo",54059,5,10,10,9,9,10
+2963,"west virginia,monongalia",54061,2,3,3,3,2,10
+2964,"west virginia,monroe",54063,3,5,9,10,5,8
+2965,"west virginia,morgan",54065,3,8,9,8,6,8
+2966,"west virginia,nicholas",54067,3,10,10,7,8,9
+2967,"west virginia,ohio",54069,3,8,6,7,2,10
+2968,"west virginia,pendleton",54071,1,2,9,9,9,8
+2969,"west virginia,pleasants",54073,5,7,8,8,5,8
+2970,"west virginia,pocahontas",54075,4,10,8,9,5,8
+2971,"west virginia,preston",54077,3,9,9,5,9,6
+2972,"west virginia,putnam",54079,4,5,7,7,3,10
+2973,"west virginia,raleigh",54081,4,7,10,7,7,10
+2974,"west virginia,randolph",54083,2,7,9,8,7,8
+2975,"west virginia,ritchie",54085,5,10,9,8,7,8
+2976,"west virginia,roane",54087,4,10,10,10,9,10
+2977,"west virginia,summers",54089,1,5,9,9,9,9
+2978,"west virginia,taylor",54091,5,8,10,7,7,7
+2979,"west virginia,tucker",54093,3,8,10,7,4,6
+2980,"west virginia,tyler",54095,3,9,10,9,8,7
+2981,"west virginia,upshur",54097,4,5,10,8,6,7
+2982,"west virginia,wayne",54099,5,10,10,9,9,10
+2983,"west virginia,webster",54101,5,10,9,9,9,9
+2984,"west virginia,wetzel",54103,5,10,10,9,9,8
+2985,"west virginia,wirt",54105,5,9,9,9,10,10
+2986,"west virginia,wood",54107,5,9,9,9,6,10
+2987,"west virginia,wyoming",54109,5,10,10,10,10,9
+2988,"wisconsin,adams",55001,5,7,4,5,4,4
+2989,"wisconsin,ashland",55003,4,2,1,2,5,2
+2990,"wisconsin,barron",55005,3,7,3,2,7,2
+2991,"wisconsin,bayfield",55007,2,2,2,3,3,2
+2992,"wisconsin,brown",55009,2,4,1,2,3,6
+2993,"wisconsin,buffalo",55011,1,4,2,3,7,4
+2994,"wisconsin,burnett",55013,3,2,2,5,5,2
+2995,"wisconsin,calumet",55015,1,1,1,1,5,4
+2996,"wisconsin,chippewa",55017,3,7,1,2,4,3
+2997,"wisconsin,clark",55019,1,5,3,1,3,4
+2998,"wisconsin,columbia",55021,3,7,4,3,7,5
+2999,"wisconsin,crawford",55023,3,7,1,2,3,5
+3000,"wisconsin,dane",55025,1,1,1,1,1,9
+3001,"wisconsin,dodge",55027,2,2,4,2,8,5
+3002,"wisconsin,door",55029,3,2,1,2,5,3
+3003,"wisconsin,douglas",55031,4,7,2,2,4,2
+3004,"wisconsin,dunn",55033,1,2,2,1,3,3
+3005,"wisconsin,eau claire",55035,1,3,2,1,3,3
+3006,"wisconsin,florence",55037,3,8,3,3,4,2
+3007,"wisconsin,fond du lac",55039,2,3,3,2,5,5
+3008,"wisconsin,forest",55041,5,4,3,7,4,2
+3009,"wisconsin,grant",55043,2,3,1,2,2,6
+3010,"wisconsin,green",55045,1,1,1,1,2,6
+3011,"wisconsin,green lake",55047,1,4,4,3,4,4
+3012,"wisconsin,iowa",55049,2,5,3,3,2,6
+3013,"wisconsin,iron",55051,3,4,2,7,3,2
+3014,"wisconsin,jackson",55053,2,5,1,2,5,4
+3015,"wisconsin,jefferson",55055,2,2,1,2,7,5
+3016,"wisconsin,juneau",55057,3,8,2,3,4,4
+3017,"wisconsin,kenosha",55059,3,5,2,1,5,6
+3018,"wisconsin,kewaunee",55061,2,3,5,2,6,4
+3019,"wisconsin,la crosse",55063,1,2,1,1,1,5
+3020,"wisconsin,lafayette",55065,2,1,1,2,4,6
+3021,"wisconsin,langlade",55067,3,7,4,2,3,3
+3022,"wisconsin,lincoln",55069,3,7,2,3,3,3
+3023,"wisconsin,manitowoc",55071,2,3,2,3,6,4
+3024,"wisconsin,marathon",55073,1,3,4,2,2,3
+3025,"wisconsin,marinette",55075,3,9,4,5,4,2
+3026,"wisconsin,marquette",55077,5,7,4,2,4,4
+3027,"wisconsin,milwaukee",55079,3,5,3,3,5,10
+3028,"wisconsin,monroe",55081,2,7,3,2,3,5
+3029,"wisconsin,oconto",55083,3,4,2,1,3,3
+3030,"wisconsin,oneida",55085,4,5,1,2,2,2
+3031,"wisconsin,outagamie",55087,1,3,2,2,5,4
+3032,"wisconsin,ozaukee",55089,1,1,1,1,2,5
+3033,"wisconsin,pepin",55091,1,1,2,1,2,3
+3034,"wisconsin,pierce",55093,1,1,2,1,2,3
+3035,"wisconsin,polk",55095,2,4,1,2,6,3
+3036,"wisconsin,portage",55097,1,2,1,1,3,4
+3037,"wisconsin,price",55099,2,2,2,5,3,3
+3038,"wisconsin,racine",55101,3,7,2,1,5,6
+3039,"wisconsin,richland",55103,2,2,2,7,6,5
+3040,"wisconsin,rock",55105,3,7,2,2,4,6
+3041,"wisconsin,rusk",55107,4,2,4,2,4,2
+3042,"wisconsin,st croix",55109,1,2,1,1,5,3
+3043,"wisconsin,sauk",55111,2,3,4,3,3,5
+3044,"wisconsin,sawyer",55113,3,9,2,3,2,2
+3045,"wisconsin,shawano",55115,2,5,5,3,5,3
+3046,"wisconsin,sheboygan",55117,2,3,2,3,2,5
+3047,"wisconsin,taylor",55119,1,3,4,2,3,3
+3048,"wisconsin,trempealeau",55121,2,4,3,3,7,4
+3049,"wisconsin,vernon",55123,3,7,3,2,2,5
+3050,"wisconsin,vilas",55125,4,3,3,5,2,2
+3051,"wisconsin,walworth",55127,2,4,2,1,2,6
+3052,"wisconsin,washburn",55129,3,7,1,3,5,2
+3053,"wisconsin,washington",55131,1,1,2,2,2,5
+3054,"wisconsin,waukesha",55133,1,2,1,1,1,7
+3055,"wisconsin,waupaca",55135,2,5,2,2,4,4
+3056,"wisconsin,waushara",55137,3,5,2,2,4,4
+3057,"wisconsin,winnebago",55139,2,3,2,2,4,5
+3058,"wisconsin,wood",55141,1,3,1,3,2,4
+3059,"wyoming,albany",56001,1,1,1,1,1,1
+3060,"wyoming,big horn",56003,1,3,4,2,2,2
+3061,"wyoming,campbell",56005,2,7,4,1,7,1
+3062,"wyoming,carbon",56007,1,7,9,1,2,1
+3063,"wyoming,converse",56009,1,6,4,1,4,1
+3064,"wyoming,crook",56011,1,4,6,1,1,1
+3065,"wyoming,fremont",56013,1,7,2,2,2,2
+3066,"wyoming,goshen",56015,1,2,7,2,2,1
+3067,"wyoming,hot springs",56017,2,4,4,3,1,2
+3068,"wyoming,johnson",56019,1,2,4,2,1,1
+3069,"wyoming,laramie",56021,1,4,2,1,2,1
+3070,"wyoming,lincoln",56023,1,1,2,1,1,2
+3071,"wyoming,natrona",56025,2,8,2,1,2,1
+3072,"wyoming,niobrara",56027,1,5,7,2,1,1
+3073,"wyoming,park",56029,1,2,2,1,1,2
+3074,"wyoming,platte",56031,1,3,4,5,2,1
+3075,"wyoming,sheridan",56033,1,3,1,1,2,3
+3076,"wyoming,sublette",56035,1,3,3,1,1,1
+3077,"wyoming,sweetwater",56037,1,7,2,1,2,2
+3078,"wyoming,teton",56039,1,1,1,1,1,2
+3079,"wyoming,uinta",56041,1,3,4,1,4,2
+3080,"wyoming,washakie",56043,1,1,3,2,1,2
+3081,"wyoming,weston",56045,1,5,6,1,5,1
